@@ -242,6 +242,15 @@
       "asunto": "BOT | MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414170 - MASS_CONSTRUCTORES_13",
       "detalle": "Correo enviado",
       "referencia": "414170"
+    },
+    {
+      "id": "2026-08-27T16:01:22-05:00-correo-414095",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-27T16:01:22-05:00",
+      "cantidad": 1,
+      "asunto": "BOT | MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414095 - MASS_INDUST_30_LM_MS",
+      "detalle": "Correo enviado",
+      "referencia": "414095"
     }
   ]
 }
