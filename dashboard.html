@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ORION RPA — Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+<style>
+:root{--bg:#07111f;--card:#0d1b2e;--text:#e8f0f8;--muted:#91a4ba;--line:#213751;--accent:#55c2ff;--ok:#4ade80;--violet:#a78bfa}
+*{box-sizing:border-box}body{margin:0;background:linear-gradient(135deg,#07111f,#0b1830 55%,#07111f);color:var(--text);font-family:Inter,system-ui,Segoe UI,sans-serif}.wrap{max-width:1400px;margin:auto;padding:26px}
+.top{display:flex;justify-content:space-between;gap:20px;align-items:center;margin-bottom:22px}h1{margin:0;font-size:27px}.sub{color:var(--muted);margin-top:6px}
+.status{font-size:12px;color:var(--muted)}.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:16px}.card,.panel{background:rgba(13,27,46,.94);border:1px solid var(--line);border-radius:16px;padding:18px;box-shadow:0 10px 30px #0003}.label{color:var(--muted);font-size:13px}.num{font-size:34px;font-weight:750;margin-top:7px}.mini{font-size:12px;color:var(--muted);margin-top:5px}
+.grid{display:grid;grid-template-columns:2fr 1fr;gap:16px}.panel h2{font-size:16px;margin:0 0 14px}.chartbox{height:360px}.filters{display:flex;gap:9px;flex-wrap:wrap;margin-bottom:12px}.filters input,.filters select{background:#081626;color:var(--text);border:1px solid var(--line);border-radius:9px;padding:9px}
+.tablewrap{overflow:auto;max-height:430px}table{width:100%;border-collapse:collapse;font-size:13px}th,td{padding:10px 8px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap}th{color:var(--muted);position:sticky;top:0;background:var(--card)}
+.badge{display:inline-block;padding:4px 8px;border-radius:999px;font-size:11px;font-weight:700}.correo{background:#0b3950;color:var(--accent)}.masiva{background:#302452;color:var(--violet)}.whatsapp{background:#17422c;color:var(--ok)}
+@media(max-width:950px){.cards{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:1fr}}@media(max-width:600px){.wrap{padding:14px}.cards{grid-template-columns:1fr}.top{flex-direction:column;align-items:flex-start}}
+</style>
+</head>
+<body><div class="wrap">
+<div class="top"><div><h1>ORION RPA — Dashboard de comunicaciones</h1><div class="sub">Actualización automática desde GitHub · Correos · Eventos masivos · WhatsApp</div></div><div class="status" id="status">Conectando…</div></div>
+<div class="cards">
+<div class="card"><div class="label">Correos enviados</div><div class="num" id="nCorreo">0</div><div class="mini">Confirmados después de Ctrl+Enter</div></div>
+<div class="card"><div class="label">Eventos masivos</div><div class="num" id="nMasiva">0</div><div class="mini">Confirmados después de Enter</div></div>
+<div class="card"><div class="label">WhatsApp enviados</div><div class="num" id="nWhats">0</div><div class="mini">Confirmados después de Enter</div></div>
+<div class="card"><div class="label">Total comunicaciones</div><div class="num" id="nTotal">0</div><div class="mini" id="last">Sin datos</div></div>
+</div>
+<div class="grid">
+<div class="panel"><h2>Tendencia de envíos</h2><div class="filters"><select id="period" onchange="render()"><option value="hour">Por hora</option><option value="day" selected>Por día</option></select><select id="channel" onchange="render()"><option value="all">Todos</option><option value="correo">Correos</option><option value="masiva">Masivos</option><option value="whatsapp">WhatsApp</option></select></div><div class="chartbox"><canvas id="chart"></canvas></div></div>
+<div class="panel"><h2>Distribución por canal</h2><div class="chartbox"><canvas id="donut"></canvas></div></div>
+</div>
+<div class="panel" style="margin-top:16px"><h2>Detalle de envíos</h2><div class="filters"><input id="search" placeholder="Buscar asunto, referencia o detalle…" oninput="renderTable()"><input id="from" type="date" onchange="renderTable()"><input id="to" type="date" onchange="renderTable()"></div><div class="tablewrap"><table><thead><tr><th>Fecha y hora</th><th>Tipo</th><th>Asunto / evento</th><th>Referencia</th><th>Cantidad</th></tr></thead><tbody id="tbody"></tbody></table></div></div>
+</div>
+<script>
+let DATA={events:[]},chart,donut;
+const labels={correo:"Correo",masiva:"Evento masivo",whatsapp:"WhatsApp"};
+function esc(s){return String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
+function norm(e){return {...e,cantidad:Number(e.cantidad||1),tipo:e.tipo||"correo"}}
+function totals(){let t={correo:0,masiva:0,whatsapp:0};DATA.events.map(norm).forEach(e=>{if(t[e.tipo]!=null)t[e.tipo]+=e.cantidad});return t}
+function render(){
+let t=totals();nCorreo.textContent=t.correo;nMasiva.textContent=t.masiva;nWhats.textContent=t.whatsapp;nTotal.textContent=t.correo+t.masiva+t.whatsapp;
+let ev=DATA.events.map(norm).sort((a,b)=>new Date(a.fecha_hora)-new Date(b.fecha_hora));last.textContent=ev.length?"Último: "+new Date(ev.at(-1).fecha_hora).toLocaleString("es-PE"):"Sin datos";
+let p=period.value,ch=channel.value,b={};ev.forEach(e=>{if(ch!="all"&&e.tipo!=ch)return;let d=new Date(e.fecha_hora),k=p=="hour"?d.toLocaleString("es-PE",{year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit"}):d.toLocaleDateString("es-PE");b[k]=(b[k]||0)+e.cantidad});
+let ks=Object.keys(b);if(chart)chart.destroy();chart=new Chart(document.getElementById("chart"),{type:"line",data:{labels:ks,datasets:[{label:"Envíos",data:ks.map(k=>b[k]),tension:.25,fill:true}]},options:{responsive:true,maintainAspectRatio:false}});
+if(donut)donut.destroy();donut=new Chart(document.getElementById("donut"),{type:"doughnut",data:{labels:["Correos","Masivos","WhatsApp"],datasets:[{data:[t.correo,t.masiva,t.whatsapp]}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:"bottom"}}}});
+renderTable()
+}
+function renderTable(){let q=(search.value||"").toLowerCase(),f=from.value,to=to.value;let ev=DATA.events.map(norm).filter(e=>{let d=e.fecha_hora.slice(0,10);return(!f||d>=f)&&(!to||d<=to)&&JSON.stringify(e).toLowerCase().includes(q)}).sort((a,b)=>new Date(b.fecha_hora)-new Date(a.fecha_hora));tbody.innerHTML=ev.map(e=>`<tr><td>${esc(new Date(e.fecha_hora).toLocaleString("es-PE"))}</td><td><span class="badge ${esc(e.tipo)}">${esc(labels[e.tipo]||e.tipo)}</span></td><td>${esc(e.asunto||e.detalle||"-")}</td><td>${esc(e.referencia||"-")}</td><td>${e.cantidad}</td></tr>`).join("")||'<tr><td colspan="5">No hay registros.</td></tr>'}
+async function load(){try{let r=await fetch("dashboard_data.json?ts="+Date.now(),{cache:"no-store"});if(!r.ok)throw Error(r.status);DATA=await r.json();render();status.textContent="Actualizado: "+new Date().toLocaleString("es-PE")}catch(e){status.textContent="Esperando dashboard_data.json…"}}
+load();setInterval(load,15000);
+</script></body></html>
