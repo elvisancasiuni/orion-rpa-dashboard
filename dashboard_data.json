@@ -341,6 +341,15 @@
       "asunto": "BOT | NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "ALFIN BANCO S.A.  (EX BANCO AZTECA)"
+    },
+    {
+      "id": "2026-08-27T16:08:42-05:00-correo-438845",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-27T16:08:42-05:00",
+      "cantidad": 1,
+      "asunto": "BOT | MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE ECONOMIA Y FINANZAS - DBA - S438845 - BACKUP",
+      "detalle": "Correo enviado",
+      "referencia": "438845"
     }
   ]
 }
