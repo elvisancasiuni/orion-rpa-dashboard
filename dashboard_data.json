@@ -269,6 +269,15 @@
       "asunto": "BOT | MONITOREO | STATUS: SERVICE DOWN | PRISONTEC S.A.C. - S432137 - PROLONGACION CENTENARIO NRO. S/N (CALLAO - CALLAO - LIMA) (REF: COORDENADAS -12.018338 -77.136349, E.P. DEL CALLAO)",
       "detalle": "Correo enviado",
       "referencia": "432137"
+    },
+    {
+      "id": "2026-08-27T16:02:36-05:00-whatsapp-MINISTERIO DE TRANSPORTES Y COMUNICACION",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-27T16:02:36-05:00",
+      "cantidad": 1,
+      "asunto": "BOT | NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
     }
   ]
 }
