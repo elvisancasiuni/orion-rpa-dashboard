@@ -296,6 +296,15 @@
       "asunto": "BOT | NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "PRISONTEC"
+    },
+    {
+      "id": "2026-08-27T16:03:23-05:00-whatsapp-PRISONTEC",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-27T16:03:23-05:00",
+      "cantidad": 1,
+      "asunto": "BOT | NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "PRISONTEC"
     }
   ]
 }
