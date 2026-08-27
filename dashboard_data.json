@@ -305,6 +305,15 @@
       "asunto": "BOT | NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "PRISONTEC"
+    },
+    {
+      "id": "2026-08-27T16:04:56-05:00-correo-399402",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-27T16:04:56-05:00",
+      "cantidad": 1,
+      "asunto": "BOT | MONITOREO | STATUS: SERVICE DOWN | ALFIN BANCO || CABECERA SURCO_PR-DBA_399402 || 500M ||BK_399403",
+      "detalle": "Correo enviado",
+      "referencia": "399402"
     }
   ]
 }
