@@ -233,6 +233,15 @@
       "asunto": "BOT | MONITOREO | STATUS: SERVICE DOWN | S483617_RT_SERNANP_SAN_MARTIN",
       "detalle": "Correo enviado",
       "referencia": "483617"
+    },
+    {
+      "id": "2026-08-27T16:00:45-05:00-correo-414170",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-27T16:00:45-05:00",
+      "cantidad": 1,
+      "asunto": "BOT | MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414170 - MASS_CONSTRUCTORES_13",
+      "detalle": "Correo enviado",
+      "referencia": "414170"
     }
   ]
 }
