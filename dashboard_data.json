@@ -314,6 +314,15 @@
       "asunto": "BOT | MONITOREO | STATUS: SERVICE DOWN | ALFIN BANCO || CABECERA SURCO_PR-DBA_399402 || 500M ||BK_399403",
       "detalle": "Correo enviado",
       "referencia": "399402"
+    },
+    {
+      "id": "2026-08-27T16:05:14-05:00-whatsapp-ALFIN BANCO S.A.  (EX BANCO AZTECA)",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-27T16:05:14-05:00",
+      "cantidad": 1,
+      "asunto": "BOT | NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "ALFIN BANCO S.A.  (EX BANCO AZTECA)"
     }
   ]
 }
