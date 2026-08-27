@@ -251,6 +251,15 @@
       "asunto": "BOT | MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414095 - MASS_INDUST_30_LM_MS",
       "detalle": "Correo enviado",
       "referencia": "414095"
+    },
+    {
+      "id": "2026-08-27T16:01:50-05:00-correo-465666",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-27T16:01:50-05:00",
+      "cantidad": 1,
+      "asunto": "BOT | MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465666 - CDT ANDAHUAYLAS",
+      "detalle": "Correo enviado",
+      "referencia": "465666"
     }
   ]
 }
