@@ -269,6 +269,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | CONGRESO DE LA REPUBLICA - S247958 - JIRON MIROQUESADA NRO. 247 OFICINA 406 (LIMA - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "247958"
+    },
+    {
+      "id": "2026-08-31T11:45:16-05:00-whatsapp-CONGRESO DE LA REPUBLICA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:45:16-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "CONGRESO DE LA REPUBLICA"
     }
   ]
 }
