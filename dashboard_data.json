@@ -125,6 +125,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
+    },
+    {
+      "id": "2026-08-31T11:35:01-05:00-whatsapp-CONGRESO DE LA REPUBLICA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:35:01-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "CONGRESO DE LA REPUBLICA"
     }
   ]
 }
