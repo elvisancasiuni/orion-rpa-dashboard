@@ -386,6 +386,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | BOTICAS IP S.A.C - S412910 - JIRON PRIMERO DE MAYO NRO. 510 SECTOR BAJO SAN MARTIN (MORALES - SAN MARTíN - SAN MARTIN)",
       "detalle": "Correo enviado",
       "referencia": "412910"
+    },
+    {
+      "id": "2026-08-31T01:54:08-05:00-correo-418943",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T01:54:08-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPAÑIA HARD DISCOUNT S.A.C. - DBA - S418943",
+      "detalle": "Correo enviado",
+      "referencia": "418943"
     }
   ]
 }
