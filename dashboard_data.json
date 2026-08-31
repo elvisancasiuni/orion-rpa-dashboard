@@ -8,6 +8,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S463487 - DBI - ORANGE ESPAÑA",
       "detalle": "Correo enviado",
       "referencia": "463487"
+    },
+    {
+      "id": "2026-08-31T07:50:17-05:00-correo-391728",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T07:50:17-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
+      "detalle": "Correo enviado",
+      "referencia": "391728"
     }
   ]
 }
