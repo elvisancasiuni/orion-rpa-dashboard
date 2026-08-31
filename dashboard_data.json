@@ -431,6 +431,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S446001 Compañia Hard Discount DBA",
       "detalle": "Correo enviado",
       "referencia": "446001"
+    },
+    {
+      "id": "2026-08-31T12:27:07-05:00-correo-433621",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T12:27:07-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | AJEPER DEL ORIENTE S.A - S433621 - DBI - 35Mbps - JIRON GUILLERMO SISLEY NRO. 1523 - TARAPOTO",
+      "detalle": "Correo enviado",
+      "referencia": "433621"
     }
   ]
 }
