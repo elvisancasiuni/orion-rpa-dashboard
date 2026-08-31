@@ -1,0 +1,409 @@
+{
+  "events": [
+    {
+      "id": "2026-08-31T10:58:46-05:00-correo-463487",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T10:58:46-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S463487 - DBI - ORANGE ESPAÑA",
+      "detalle": "Correo enviado",
+      "referencia": "463487"
+    },
+    {
+      "id": "2026-08-31T11:30:55-05:00-correo-433621",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T11:30:55-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | AJEPER DEL ORIENTE S.A - S433621 - DBI - 35Mbps - JIRON GUILLERMO SISLEY NRO. 1523 - TARAPOTO",
+      "detalle": "Correo enviado",
+      "referencia": "433621"
+    },
+    {
+      "id": "2026-08-31T11:31:14-05:00-correo-465647",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T11:31:14-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465647 - ECER HUARAZ",
+      "detalle": "Correo enviado",
+      "referencia": "465647"
+    },
+    {
+      "id": "2026-08-31T11:31:32-05:00-correo-443802",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T11:31:32-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S443802_FINANCIERA_OH",
+      "detalle": "Correo enviado",
+      "referencia": "443802"
+    },
+    {
+      "id": "2026-08-31T11:31:50-05:00-correo-413881",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T11:31:50-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S413881",
+      "detalle": "Correo enviado",
+      "referencia": "413881"
+    },
+    {
+      "id": "2026-08-31T11:32:08-05:00-correo-414042",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T11:32:08-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414042 - MASS_ESTRELLA_DE_PRO",
+      "detalle": "Correo enviado",
+      "referencia": "414042"
+    },
+    {
+      "id": "2026-08-31T11:32:26-05:00-correo-247929",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T11:32:26-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | CONGRESO DE LA REPUBLICA - S247929 - JIRON MIROQUESADA NRO. 247 OFICINA 412, (LIMA - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "247929"
+    },
+    {
+      "id": "2026-08-31T11:32:45-05:00-correo-415818",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T11:32:45-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | ALFIN BANCO || SEDE SURCO INTERNET || DBI 415818 || 300M",
+      "detalle": "Correo enviado",
+      "referencia": "415818"
+    },
+    {
+      "id": "2026-08-31T11:33:03-05:00-correo-399402",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T11:33:03-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | ALFIN BANCO || CABECERA SURCO_PR-DBA_399402 || 500M ||BK_399403",
+      "detalle": "Correo enviado",
+      "referencia": "399402"
+    },
+    {
+      "id": "2026-08-31T11:33:22-05:00-correo-398859",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T11:33:22-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398859 - AMERICATEL - DGDPAJ - Lima Norte - MBJ - Los Olivos",
+      "detalle": "Correo enviado",
+      "referencia": "398859"
+    },
+    {
+      "id": "2026-08-31T11:33:44-05:00-correo-483619",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T11:33:44-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S483619 - SERNANP - CUSCO - DBI",
+      "detalle": "Correo enviado",
+      "referencia": "483619"
+    },
+    {
+      "id": "2026-08-31T11:34:06-05:00-whatsapp-TELEFONICA DEL PERU S.A.A.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:34:06-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "TELEFONICA DEL PERU S.A.A."
+    },
+    {
+      "id": "2026-08-31T11:34:23-05:00-whatsapp-MINISTERIO DE TRANSPORTES Y COMUNICACION",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:34:23-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
+    },
+    {
+      "id": "2026-08-31T11:34:43-05:00-whatsapp-MINISTERIO DE TRANSPORTES Y COMUNICACION",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:34:43-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
+    },
+    {
+      "id": "2026-08-31T11:35:01-05:00-whatsapp-CONGRESO DE LA REPUBLICA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:35:01-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "CONGRESO DE LA REPUBLICA"
+    },
+    {
+      "id": "2026-08-31T11:35:25-05:00-whatsapp-ALFIN BANCO S.A.  (EX BANCO AZTECA)",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:35:25-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "ALFIN BANCO S.A.  (EX BANCO AZTECA)"
+    },
+    {
+      "id": "2026-08-31T11:35:44-05:00-whatsapp-ALFIN BANCO S.A.  (EX BANCO AZTECA)",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:35:44-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "ALFIN BANCO S.A.  (EX BANCO AZTECA)"
+    },
+    {
+      "id": "2026-08-31T11:36:00-05:00-whatsapp-ALFIN BANCO S.A.  (EX BANCO AZTECA)",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:36:00-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "ALFIN BANCO S.A.  (EX BANCO AZTECA)"
+    },
+    {
+      "id": "2026-08-31T11:36:16-05:00-whatsapp-ALFIN BANCO S.A.  (EX BANCO AZTECA)",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:36:16-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "ALFIN BANCO S.A.  (EX BANCO AZTECA)"
+    },
+    {
+      "id": "2026-08-31T11:36:35-05:00-whatsapp-ALFIN BANCO S.A.  (EX BANCO AZTECA)",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:36:35-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "ALFIN BANCO S.A.  (EX BANCO AZTECA)"
+    },
+    {
+      "id": "2026-08-31T11:36:55-05:00-whatsapp-ALFIN BANCO S.A.  (EX BANCO AZTECA)",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:36:55-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "ALFIN BANCO S.A.  (EX BANCO AZTECA)"
+    },
+    {
+      "id": "2026-08-31T11:39:57-05:00-whatsapp-MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:39:57-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS"
+    },
+    {
+      "id": "2026-08-31T11:40:14-05:00-whatsapp-MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:40:14-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS"
+    },
+    {
+      "id": "2026-08-31T11:40:36-05:00-whatsapp-MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:40:36-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS"
+    },
+    {
+      "id": "2026-08-31T11:41:02-05:00-whatsapp-MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:41:02-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS"
+    },
+    {
+      "id": "2026-08-31T11:41:24-05:00-whatsapp-MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:41:24-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS"
+    },
+    {
+      "id": "2026-08-31T11:42:01-05:00-whatsapp-SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:42:01-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP"
+    },
+    {
+      "id": "2026-08-31T11:42:19-05:00-whatsapp-SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:42:19-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP"
+    },
+    {
+      "id": "2026-08-31T11:42:57-05:00-correo-463487",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T11:42:57-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S463487 - DBI - ORANGE ESPAÑA",
+      "detalle": "Correo enviado",
+      "referencia": "463487"
+    },
+    {
+      "id": "2026-08-31T11:44:55-05:00-correo-247958",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T11:44:55-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | CONGRESO DE LA REPUBLICA - S247958 - JIRON MIROQUESADA NRO. 247 OFICINA 406 (LIMA - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "247958"
+    },
+    {
+      "id": "2026-08-31T11:45:16-05:00-whatsapp-CONGRESO DE LA REPUBLICA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:45:16-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "CONGRESO DE LA REPUBLICA"
+    },
+    {
+      "id": "2026-08-31T11:53:34-05:00-correo-416271",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T11:53:34-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | FALABELLA -DBA- S416271- HD CT PIURA",
+      "detalle": "Correo enviado",
+      "referencia": "416271"
+    },
+    {
+      "id": "2026-08-31T11:53:50-05:00-whatsapp-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:53:50-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
+    },
+    {
+      "id": "2026-08-31T11:54:06-05:00-whatsapp-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:54:06-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
+    },
+    {
+      "id": "2026-08-31T11:54:30-05:00-whatsapp-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:54:30-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
+    },
+    {
+      "id": "2026-08-31T11:54:53-05:00-whatsapp-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:54:53-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
+    },
+    {
+      "id": "2026-08-31T11:56:29-05:00-correo-446001",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T11:56:29-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S446001 Compañia Hard Discount DBA",
+      "detalle": "Correo enviado",
+      "referencia": "446001"
+    },
+    {
+      "id": "2026-08-31T11:56:50-05:00-whatsapp- SPSA - TIENDAS MASS (HARD DISCOUNT S.A.C)",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:56:50-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": " SPSA - TIENDAS MASS (HARD DISCOUNT S.A.C)"
+    },
+    {
+      "id": "2026-08-31T11:57:07-05:00-whatsapp- SPSA - TIENDAS MASS (HARD DISCOUNT S.A.C)",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:57:07-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": " SPSA - TIENDAS MASS (HARD DISCOUNT S.A.C)"
+    },
+    {
+      "id": "2026-08-31T11:57:22-05:00-whatsapp- SPSA - TIENDAS MASS (HARD DISCOUNT S.A.C)",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:57:22-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": " SPSA - TIENDAS MASS (HARD DISCOUNT S.A.C)"
+    },
+    {
+      "id": "2026-08-31T11:57:39-05:00-whatsapp- SPSA - TIENDAS MASS (HARD DISCOUNT S.A.C)",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T11:57:39-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": " SPSA - TIENDAS MASS (HARD DISCOUNT S.A.C)"
+    },
+    {
+      "id": "2026-08-31T12:02:22-05:00-correo-463487",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T12:02:22-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S463487 - DBI - ORANGE ESPAÑA",
+      "detalle": "Correo enviado",
+      "referencia": "463487"
+    },
+    {
+      "id": "2026-08-31T12:05:13-05:00-correo-468711",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T12:05:13-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - S468711 - DBA - BREÑA",
+      "detalle": "Correo enviado",
+      "referencia": "468711"
+    },
+    {
+      "id": "2026-08-31T12:05:34-05:00-whatsapp-MINISTERIO DE TRANSPORTES Y COMUNICACION",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T12:05:34-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
+    },
+    {
+      "id": "2026-08-31T12:05:57-05:00-whatsapp-MINISTERIO DE TRANSPORTES Y COMUNICACION",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T12:05:57-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
+    }
+  ]
+}
