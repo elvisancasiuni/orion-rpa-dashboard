@@ -368,6 +368,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | AJEPER DEL ORIENTE S.A - S433621 - DBI - 35Mbps - JIRON GUILLERMO SISLEY NRO. 1523 - TARAPOTO",
       "detalle": "Correo enviado",
       "referencia": "433621"
+    },
+    {
+      "id": "2026-08-31T08:32:17-05:00-correo-465647",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T08:32:17-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465647 - ECER HUARAZ",
+      "detalle": "Correo enviado",
+      "referencia": "465647"
     }
   ]
 }
