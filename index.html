@@ -1,49 +1,207 @@
 <!doctype html>
 <html lang="es">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>ORION RPA — Dashboard</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ORION RPA — Dashboard Ejecutivo</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
 <style>
-:root{--bg:#07111f;--card:#0d1b2e;--text:#e8f0f8;--muted:#91a4ba;--line:#213751;--accent:#55c2ff;--ok:#4ade80;--violet:#a78bfa}
-*{box-sizing:border-box}body{margin:0;background:linear-gradient(135deg,#07111f,#0b1830 55%,#07111f);color:var(--text);font-family:Inter,system-ui,Segoe UI,sans-serif}.wrap{max-width:1400px;margin:auto;padding:26px}
-.top{display:flex;justify-content:space-between;gap:20px;align-items:center;margin-bottom:22px}h1{margin:0;font-size:27px}.sub{color:var(--muted);margin-top:6px}
-.status{font-size:12px;color:var(--muted)}.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:16px}.card,.panel{background:rgba(13,27,46,.94);border:1px solid var(--line);border-radius:16px;padding:18px;box-shadow:0 10px 30px #0003}.label{color:var(--muted);font-size:13px}.num{font-size:34px;font-weight:750;margin-top:7px}.mini{font-size:12px;color:var(--muted);margin-top:5px}
-.grid{display:grid;grid-template-columns:2fr 1fr;gap:16px}.panel h2{font-size:16px;margin:0 0 14px}.chartbox{height:360px}.filters{display:flex;gap:9px;flex-wrap:wrap;margin-bottom:12px}.filters input,.filters select{background:#081626;color:var(--text);border:1px solid var(--line);border-radius:9px;padding:9px}
-.tablewrap{overflow:auto;max-height:430px}table{width:100%;border-collapse:collapse;font-size:13px}th,td{padding:10px 8px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap}th{color:var(--muted);position:sticky;top:0;background:var(--card)}
-.badge{display:inline-block;padding:4px 8px;border-radius:999px;font-size:11px;font-weight:700}.correo{background:#0b3950;color:var(--accent)}.masiva{background:#302452;color:var(--violet)}.whatsapp{background:#17422c;color:var(--ok)}
-@media(max-width:950px){.cards{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:1fr}}@media(max-width:600px){.wrap{padding:14px}.cards{grid-template-columns:1fr}.top{flex-direction:column;align-items:flex-start}}
+:root{
+  --bg:#07111f;--card:#0d1b2e;--card2:#0a1728;--text:#f4f7fb;--muted:#91a4ba;
+  --line:#203751;--blue:#35a7ff;--green:#31d17c;--purple:#a98cff;--orange:#ff9f43;
+}
+*{box-sizing:border-box}
+body{margin:0;background:linear-gradient(135deg,#06101e,#0a1930 55%,#06101e);
+color:var(--text);font-family:Inter,Segoe UI,Arial,sans-serif}
+.wrap{max-width:1450px;margin:auto;padding:28px}
+.top{display:flex;justify-content:space-between;align-items:center;gap:20px;margin-bottom:22px}
+h1{margin:0;font-size:28px;letter-spacing:-.4px}.sub{margin-top:6px;color:var(--muted);font-size:14px}
+.status{padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:#0b1a2c;color:var(--muted);font-size:12px}
+.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:16px}
+.card{background:rgba(13,27,46,.96);border:1px solid var(--line);border-radius:16px;padding:18px 20px;box-shadow:0 12px 30px #0004}
+.label{font-size:13px;color:var(--muted);font-weight:650}.num{font-size:36px;font-weight:800;margin-top:7px}
+.cardline{height:3px;width:44px;border-radius:3px;margin-top:10px}.blue{background:var(--blue)}.green{background:var(--green)}
+.purple{background:var(--purple)}.orange{background:var(--orange)}
+.grid{display:grid;grid-template-columns:2fr 1fr;gap:16px}
+.panel{background:rgba(13,27,46,.96);border:1px solid var(--line);border-radius:16px;padding:18px;box-shadow:0 12px 30px #0003}
+.panel h2{font-size:16px;margin:0 0 14px}.chartbox{height:355px}
+.filters{display:flex;gap:9px;flex-wrap:wrap;margin-bottom:12px}
+select,input{background:#081626;color:var(--text);border:1px solid var(--line);border-radius:9px;padding:9px 11px;font-size:13px}
+.donutbox{height:260px;position:relative}.donutbox canvas{position:relative;z-index:1}
+.donut-total{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;pointer-events:none;z-index:0}
+.donut-total strong{font-size:30px}.donut-total span{font-size:12px;color:var(--muted);margin-top:2px}
+.legend{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:10px}
+.legend-item{border:1px solid var(--line);border-radius:10px;padding:9px;background:#0a1728}
+.legend-top{display:flex;align-items:center;gap:7px;font-size:11px;color:var(--muted)}
+.dot{width:9px;height:9px;border-radius:50%;display:inline-block}.legend-value{font-size:16px;font-weight:750;margin-top:4px}.legend-pct{font-size:11px;color:var(--muted)}
+.detail{margin-top:16px}.detail-toolbar{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:12px}
+.detail-select{min-width:245px;font-weight:650}.summary{font-size:12px;color:var(--muted)}
+.tablewrap{overflow:auto;max-height:430px;border:1px solid var(--line);border-radius:10px}
+table{width:100%;border-collapse:collapse;font-size:13px}th,td{padding:11px 9px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap}
+th{color:var(--muted);background:#0a1728;position:sticky;top:0}.badge{display:inline-block;padding:4px 8px;border-radius:999px;font-size:11px;font-weight:700}
+.badge.correo{background:#0b3950;color:var(--blue)}.badge.masiva{background:#302452;color:var(--purple)}.badge.whatsapp{background:#17422c;color:var(--green)}
+@media(max-width:950px){.cards{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:1fr}}
+@media(max-width:600px){.wrap{padding:14px}.cards{grid-template-columns:1fr}.top{flex-direction:column;align-items:flex-start}.legend{grid-template-columns:1fr}.chartbox{height:300px}}
 </style>
 </head>
-<body><div class="wrap">
-<div class="top"><div><h1>ORION RPA — Dashboard de comunicaciones</h1><div class="sub">Actualización automática desde GitHub · Correos · Eventos masivos · WhatsApp</div></div><div class="status" id="status">Conectando…</div></div>
-<div class="cards">
-<div class="card"><div class="label">Correos enviados</div><div class="num" id="nCorreo">0</div><div class="mini">Confirmados después de Ctrl+Enter</div></div>
-<div class="card"><div class="label">Eventos masivos</div><div class="num" id="nMasiva">0</div><div class="mini">Confirmados después de Enter</div></div>
-<div class="card"><div class="label">WhatsApp enviados</div><div class="num" id="nWhats">0</div><div class="mini">Confirmados después de Enter</div></div>
-<div class="card"><div class="label">Total comunicaciones</div><div class="num" id="nTotal">0</div><div class="mini" id="last">Sin datos</div></div>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div>
+      <h1>ORION RPA — Dashboard de comunicaciones</h1>
+      <div class="sub">Indicadores ejecutivos · Correos · WhatsApp · Eventos masivos</div>
+    </div>
+    <div class="status" id="status">Conectando…</div>
+  </div>
+
+  <div class="cards">
+    <div class="card"><div class="label">Correos enviados</div><div class="num" id="nCorreo">0</div><div class="cardline blue"></div></div>
+    <div class="card"><div class="label">WhatsApp enviados</div><div class="num" id="nWhats">0</div><div class="cardline green"></div></div>
+    <div class="card"><div class="label">Eventos masivos</div><div class="num" id="nMasiva">0</div><div class="cardline purple"></div></div>
+    <div class="card"><div class="label">Total comunicaciones</div><div class="num" id="nTotal">0</div><div class="cardline orange"></div></div>
+  </div>
+
+  <div class="grid">
+    <div class="panel">
+      <h2>Tendencia de envíos</h2>
+      <div class="filters">
+        <select id="period" onchange="render()">
+          <option value="hour">Por hora</option><option value="day" selected>Por día</option>
+        </select>
+        <select id="channel" onchange="render()">
+          <option value="all">Todos</option><option value="correo">Correos</option>
+          <option value="whatsapp">WhatsApp</option><option value="masiva">Eventos masivos</option>
+        </select>
+      </div>
+      <div class="chartbox"><canvas id="chart"></canvas></div>
+    </div>
+
+    <div class="panel">
+      <h2>Distribución por canal</h2>
+      <div class="donutbox">
+        <canvas id="donut"></canvas>
+        <div class="donut-total"><strong id="donutTotal">0</strong><span>Total</span></div>
+      </div>
+      <div class="legend" id="legend"></div>
+    </div>
+  </div>
+
+  <div class="panel detail">
+    <h2>Detalle de envíos</h2>
+    <div class="detail-toolbar">
+      <select id="detailType" class="detail-select" onchange="renderTable()">
+        <option value="all">Todos los envíos</option>
+        <option value="correo">Correos enviados</option>
+        <option value="masiva">Eventos masivos</option>
+        <option value="whatsapp">WhatsApp enviados</option>
+      </select>
+      <div class="summary" id="summary">Registros: 0 · Cantidad: 0</div>
+    </div>
+    <div class="filters">
+      <input id="search" placeholder="Buscar asunto, referencia o detalle…" oninput="renderTable()">
+      <input id="from" type="date" onchange="renderTable()">
+      <input id="to" type="date" onchange="renderTable()">
+    </div>
+    <div class="tablewrap">
+      <table><thead id="thead"></thead><tbody id="tbody"></tbody></table>
+    </div>
+  </div>
 </div>
-<div class="grid">
-<div class="panel"><h2>Tendencia de envíos</h2><div class="filters"><select id="period" onchange="render()"><option value="hour">Por hora</option><option value="day" selected>Por día</option></select><select id="channel" onchange="render()"><option value="all">Todos</option><option value="correo">Correos</option><option value="masiva">Masivos</option><option value="whatsapp">WhatsApp</option></select></div><div class="chartbox"><canvas id="chart"></canvas></div></div>
-<div class="panel"><h2>Distribución por canal</h2><div class="chartbox"><canvas id="donut"></canvas></div></div>
-</div>
-<div class="panel" style="margin-top:16px"><h2>Detalle de envíos</h2><div class="filters"><input id="search" placeholder="Buscar asunto, referencia o detalle…" oninput="renderTable()"><input id="from" type="date" onchange="renderTable()"><input id="to" type="date" onchange="renderTable()"></div><div class="tablewrap"><table><thead><tr><th>Fecha y hora</th><th>Tipo</th><th>Asunto / evento</th><th>Referencia</th><th>Cantidad</th></tr></thead><tbody id="tbody"></tbody></table></div></div>
-</div>
+
 <script>
 let DATA={events:[]},chart,donut;
 const labels={correo:"Correo",masiva:"Evento masivo",whatsapp:"WhatsApp"};
+const names={correo:"Correos",masiva:"Eventos masivos",whatsapp:"WhatsApp"};
+
 function esc(s){return String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
 function norm(e){return {...e,cantidad:Number(e.cantidad||1),tipo:e.tipo||"correo"}}
 function totals(){let t={correo:0,masiva:0,whatsapp:0};DATA.events.map(norm).forEach(e=>{if(t[e.tipo]!=null)t[e.tipo]+=e.cantidad});return t}
+
 function render(){
-let t=totals();nCorreo.textContent=t.correo;nMasiva.textContent=t.masiva;nWhats.textContent=t.whatsapp;nTotal.textContent=t.correo+t.masiva+t.whatsapp;
-let ev=DATA.events.map(norm).sort((a,b)=>new Date(a.fecha_hora)-new Date(b.fecha_hora));last.textContent=ev.length?"Último: "+new Date(ev.at(-1).fecha_hora).toLocaleString("es-PE"):"Sin datos";
-let p=period.value,ch=channel.value,b={};ev.forEach(e=>{if(ch!="all"&&e.tipo!=ch)return;let d=new Date(e.fecha_hora),k=p=="hour"?d.toLocaleString("es-PE",{year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit"}):d.toLocaleDateString("es-PE");b[k]=(b[k]||0)+e.cantidad});
-let ks=Object.keys(b);if(chart)chart.destroy();chart=new Chart(document.getElementById("chart"),{type:"line",data:{labels:ks,datasets:[{label:"Envíos",data:ks.map(k=>b[k]),tension:.25,fill:true}]},options:{responsive:true,maintainAspectRatio:false}});
-if(donut)donut.destroy();donut=new Chart(document.getElementById("donut"),{type:"doughnut",data:{labels:["Correos","Masivos","WhatsApp"],datasets:[{data:[t.correo,t.masiva,t.whatsapp]}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:"bottom"}}}});
-renderTable()
+  let t=totals(), total=t.correo+t.whatsapp+t.masiva;
+  nCorreo.textContent=t.correo; nWhats.textContent=t.whatsapp; nMasiva.textContent=t.masiva; nTotal.textContent=total; donutTotal.textContent=total;
+
+  let ev=DATA.events.map(norm).sort((a,b)=>new Date(a.fecha_hora)-new Date(b.fecha_hora));
+  let p=period.value,ch=channel.value,b={};
+  ev.forEach(e=>{
+    if(ch!="all"&&e.tipo!=ch)return;
+    let d=new Date(e.fecha_hora);
+    let k=p=="hour"
+      ? d.toLocaleString("es-PE",{day:"2-digit",month:"2-digit",hour:"2-digit"})
+      : d.toLocaleDateString("es-PE",{day:"2-digit",month:"2-digit"});
+    b[k]=(b[k]||0)+e.cantidad;
+  });
+  let ks=Object.keys(b);
+
+  if(chart)chart.destroy();
+  chart=new Chart(document.getElementById("chart"),{
+    type:"line",
+    data:{labels:ks,datasets:[{label:"Envíos",data:ks.map(k=>b[k]),tension:.28,fill:true}]},
+    options:{
+      responsive:true,maintainAspectRatio:false,
+      plugins:{legend:{labels:{color:"#91a4ba"}}},
+      scales:{x:{ticks:{color:"#91a4ba"},grid:{color:"#203751"}},y:{beginAtZero:true,ticks:{color:"#91a4ba"},grid:{color:"#203751"}}}
+    }
+  });
+
+  if(donut)donut.destroy();
+  donut=new Chart(document.getElementById("donut"),{
+    type:"doughnut",
+    data:{labels:["Correos","Eventos masivos","WhatsApp"],datasets:[{data:[t.correo,t.masiva,t.whatsapp],borderWidth:2}]},
+    options:{
+      responsive:true,maintainAspectRatio:false,cutout:"64%",
+      plugins:{legend:{display:false},tooltip:{callbacks:{
+        label:function(ctx){
+          let v=ctx.raw||0, pct=total?((v/total)*100).toFixed(1):"0.0";
+          return " "+ctx.label+": "+v+" ("+pct+"%)";
+        }
+      }}}
+    }
+  });
+
+  let colors={correo:"#35a7ff",masiva:"#a98cff",whatsapp:"#31d17c"};
+  legend.innerHTML=["correo","masiva","whatsapp"].map(k=>{
+    let pct=total?((t[k]/total)*100).toFixed(1):"0.0";
+    return `<div class="legend-item"><div class="legend-top"><span class="dot" style="background:${colors[k]}"></span>${names[k]}</div><div class="legend-value">${t[k]}</div><div class="legend-pct">${pct}% del total</div></div>`;
+  }).join("");
+
+  renderTable();
 }
-function renderTable(){let q=(search.value||"").toLowerCase(),f=from.value,to=to.value;let ev=DATA.events.map(norm).filter(e=>{let d=e.fecha_hora.slice(0,10);return(!f||d>=f)&&(!to||d<=to)&&JSON.stringify(e).toLowerCase().includes(q)}).sort((a,b)=>new Date(b.fecha_hora)-new Date(a.fecha_hora));tbody.innerHTML=ev.map(e=>`<tr><td>${esc(new Date(e.fecha_hora).toLocaleString("es-PE"))}</td><td><span class="badge ${esc(e.tipo)}">${esc(labels[e.tipo]||e.tipo)}</span></td><td>${esc(e.asunto||e.detalle||"-")}</td><td>${esc(e.referencia||"-")}</td><td>${e.cantidad}</td></tr>`).join("")||'<tr><td colspan="5">No hay registros.</td></tr>'}
-async function load(){try{let r=await fetch("dashboard_data.json?ts="+Date.now(),{cache:"no-store"});if(!r.ok)throw Error(r.status);DATA=await r.json();render();status.textContent="Actualizado: "+new Date().toLocaleString("es-PE")}catch(e){status.textContent="Esperando dashboard_data.json…"}}
+
+function renderTable(){
+  let q=(search.value||"").toLowerCase(),f=from.value,to=to.value,selected=detailType.value;
+  let ev=DATA.events.map(norm).filter(e=>{
+    let d=(e.fecha_hora||"").slice(0,10);
+    return (selected==="all"||e.tipo===selected)&&(!f||d>=f)&&(!to||d<=to)&&JSON.stringify(e).toLowerCase().includes(q);
+  }).sort((a,b)=>new Date(b.fecha_hora)-new Date(a.fecha_hora));
+
+  let total=ev.reduce((s,e)=>s+e.cantidad,0);
+  summary.textContent=(selected==="all"?"Todos los envíos":names[selected])+" · Registros: "+ev.length+" · Cantidad: "+total;
+
+  if(selected==="all"){
+    thead.innerHTML="<tr><th>Fecha y hora</th><th>Tipo</th><th>Asunto / evento</th><th>Referencia</th><th>Cantidad</th></tr>";
+  }else{
+    let title=selected==="correo"?"Asunto del correo":selected==="masiva"?"Evento masivo":"Mensaje / detalle";
+    thead.innerHTML="<tr><th>Fecha y hora</th><th>"+title+"</th><th>Referencia</th><th>Cantidad</th></tr>";
+  }
+
+  tbody.innerHTML=ev.map(e=>{
+    let dt=esc(new Date(e.fecha_hora).toLocaleString("es-PE"));
+    if(selected!=="all")
+      return `<tr><td>${dt}</td><td>${esc(e.asunto||e.detalle||"-")}</td><td>${esc(e.referencia||"-")}</td><td>${e.cantidad}</td></tr>`;
+    return `<tr><td>${dt}</td><td><span class="badge ${esc(e.tipo)}">${esc(labels[e.tipo]||e.tipo)}</span></td><td>${esc(e.asunto||e.detalle||"-")}</td><td>${esc(e.referencia||"-")}</td><td>${e.cantidad}</td></tr>`;
+  }).join("")||`<tr><td colspan="${selected==="all"?5:4}" style="text-align:center;padding:24px;color:#91a4ba">No hay registros para la selección.</td></tr>`;
+}
+
+async function load(){
+  try{
+    let r=await fetch("dashboard_data.json?ts="+Date.now(),{cache:"no-store"});
+    if(!r.ok)throw Error(r.status);
+    DATA=await r.json(); render();
+    status.textContent="Actualizado: "+new Date().toLocaleString("es-PE");
+  }catch(e){status.textContent="Esperando dashboard_data.json…"}
+}
 load();setInterval(load,15000);
-</script></body></html>
+</script>
+</body>
+</html>
