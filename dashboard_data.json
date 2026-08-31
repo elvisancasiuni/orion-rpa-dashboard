@@ -116,6 +116,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
       "detalle": "Correo enviado",
       "referencia": "391728"
+    },
+    {
+      "id": "2026-08-31T08:08:53-05:00-correo-433621",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T08:08:53-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | AJEPER DEL ORIENTE S.A - S433621 - DBI - 35Mbps - JIRON GUILLERMO SISLEY NRO. 1523 - TARAPOTO",
+      "detalle": "Correo enviado",
+      "referencia": "433621"
     }
   ]
 }
