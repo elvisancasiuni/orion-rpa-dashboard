@@ -17,14 +17,9 @@ body{margin:0;background:linear-gradient(135deg,#06101e,#0a1930 55%,#06101e);col
 h1{margin:0;font-size:28px;letter-spacing:-.4px}.sub{margin-top:6px;color:var(--muted);font-size:14px}
 .status{padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:#0b1a2c;color:var(--muted);font-size:12px}
 .cards{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:16px}
-.card{position:relative;overflow:hidden;background:rgba(13,27,46,.96);border:1px solid var(--line);border-radius:16px;padding:18px 20px;box-shadow:0 12px 30px #0004;min-height:122px}
+.card{background:rgba(13,27,46,.96);border:1px solid var(--line);border-radius:16px;padding:18px 20px;box-shadow:0 12px 30px #0004}
 .label{font-size:13px;color:var(--muted);font-weight:650}.num{font-size:36px;font-weight:800;margin-top:7px}
 .cardline{height:3px;width:44px;border-radius:3px;margin-top:10px}.blue{background:var(--blue)}.green{background:var(--green)}.purple{background:var(--purple)}.orange{background:var(--orange)}
-.card-icon{position:absolute;right:18px;top:50%;transform:translateY(-50%);width:68px;height:68px;border:2px solid currentColor;border-radius:50%;display:flex;align-items:center;justify-content:center;background:rgba(7,17,31,.35)}
-.card-icon svg{width:35px;height:35px;stroke:currentColor;fill:none;stroke-width:2.6;stroke-linecap:round;stroke-linejoin:round}
-.icon-blue{color:var(--blue)}.icon-green{color:var(--green)}.icon-purple{color:var(--purple)}.icon-orange{color:var(--orange)}
-.card-icon.whatsapp{border-color:var(--green)}.card-icon.whatsapp svg{stroke-width:2.4}
-.card-icon.megaphone svg{transform:rotate(-8deg)}
 .grid{display:grid;grid-template-columns:2fr 1fr;gap:16px}
 .panel{background:rgba(13,27,46,.96);border:1px solid var(--line);border-radius:16px;padding:18px;box-shadow:0 12px 30px #0003}
 .panel h2{font-size:16px;margin:0 0 14px}.chartbox{height:355px}
@@ -59,22 +54,10 @@ th{color:var(--muted);background:#0a1728;position:sticky;top:0}.badge{display:in
  </div>
 
  <div class="cards">
-  <div class="card">
-   <div class="label">Correos enviados</div><div class="num" id="nCorreo">0</div><div class="cardline blue"></div>
-   <div class="card-icon icon-blue" aria-hidden="true"><svg viewBox="0 0 48 48"><rect x="8" y="12" width="32" height="24" rx="2"></rect><path d="M9 14l15 12L39 14"></path></svg></div>
-  </div>
-  <div class="card">
-   <div class="label">WhatsApp enviados</div><div class="num" id="nWhats">0</div><div class="cardline green"></div>
-   <div class="card-icon whatsapp icon-green" aria-hidden="true"><svg viewBox="0 0 48 48"><path d="M24 8a15 15 0 0 0-12.8 22.8L9 40l9.4-2.1A15 15 0 1 0 24 8Z"></path><path d="M19 17c.7 5 3.8 8.1 8.8 8.8l2.5-2.4-2.4-1.8-1.7 1c-1.9-.8-3.4-2.3-4.2-4.2l1-1.7-1.8-2.4L19 17Z"></path></svg></div>
-  </div>
-  <div class="card">
-   <div class="label">Eventos masivos</div><div class="num" id="nMasiva">0</div><div class="cardline purple"></div>
-   <div class="card-icon megaphone icon-purple" aria-hidden="true"><svg viewBox="0 0 48 48"><path d="M9 26h8l15 7V15l-15 7H9z"></path><path d="M17 26l2 10h5l-2-8"></path><path d="M36 20c2 2 2 6 0 8"></path></svg></div>
-  </div>
-  <div class="card">
-   <div class="label">Total comunicaciones</div><div class="num" id="nTotal">0</div><div class="cardline blue"></div>
-   <div class="card-icon icon-blue" aria-hidden="true"><svg viewBox="0 0 48 48"><path d="M9 38V28"></path><path d="M19 38V20"></path><path d="M29 38V12"></path><path d="M39 38V24"></path><path d="M7 38h34"></path></svg></div>
-  </div>
+  <div class="card"><div class="label">Correos enviados</div><div class="num" id="nCorreo">0</div><div class="cardline blue"></div></div>
+  <div class="card"><div class="label">WhatsApp enviados</div><div class="num" id="nWhats">0</div><div class="cardline green"></div></div>
+  <div class="card"><div class="label">Eventos masivos</div><div class="num" id="nMasiva">0</div><div class="cardline purple"></div></div>
+  <div class="card"><div class="label">Total comunicaciones</div><div class="num" id="nTotal">0</div><div class="cardline orange"></div></div>
  </div>
 
  <div class="grid">
@@ -206,7 +189,7 @@ function render(){
  if(donut)donut.destroy();
  donut=new Chart(document.getElementById("donut"),{
   type:"doughnut",
-  data:{labels:["Correos","Eventos masivos","WhatsApp"],datasets:[{data:[t.correo,t.masiva,t.whatsapp],backgroundColor:["#35a7ff","#a98cff","#31d17c"],borderColor:["#35a7ff","#a98cff","#31d17c"],borderWidth:2}]},
+  data:{labels:["Correos","Eventos masivos","WhatsApp"],datasets:[{data:[t.correo,t.masiva,t.whatsapp],borderWidth:2}]},
   options:{responsive:true,maintainAspectRatio:false,cutout:"64%",
    plugins:{legend:{display:false},tooltip:{callbacks:{label:ctx=>{
     const v=ctx.raw||0,pct=total?((v/total)*100).toFixed(1):"0.0";
