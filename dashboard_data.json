@@ -458,6 +458,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS"
+    },
+    {
+      "id": "2026-08-31T03:55:31-05:00-whatsapp-SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA 'O ' S.P.S.A.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T03:55:31-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA 'O ' S.P.S.A."
     }
   ]
 }
