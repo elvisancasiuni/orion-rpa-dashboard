@@ -188,6 +188,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "ORANGE BUSINESS SERVICES US INC "
+    },
+    {
+      "id": "2026-08-31T06:50:34-05:00-whatsapp-SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T06:50:34-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP"
     }
   ]
 }
