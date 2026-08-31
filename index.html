@@ -7,24 +7,21 @@
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
 <style>
 :root{
- --bg:#07111f;--card:#0d1b2e;--card2:#0a1728;--text:#f4f7fb;--muted:#91a4ba;
- --line:#203751;--blue:#35a7ff;--green:#31d17c;--purple:#a98cff;--orange:#ff9f43
+  --bg:#07111f;--card:#0d1b2e;--card2:#0a1728;--text:#f4f7fb;--muted:#91a4ba;
+  --line:#203751;--blue:#35a7ff;--green:#31d17c;--purple:#a98cff;--orange:#ff9f43;
 }
 *{box-sizing:border-box}
-body{margin:0;background:linear-gradient(135deg,#06101e,#0a1930 55%,#06101e);color:var(--text);font-family:Inter,Segoe UI,Arial,sans-serif}
+body{margin:0;background:linear-gradient(135deg,#06101e,#0a1930 55%,#06101e);
+color:var(--text);font-family:Inter,Segoe UI,Arial,sans-serif}
 .wrap{max-width:1450px;margin:auto;padding:28px}
 .top{display:flex;justify-content:space-between;align-items:center;gap:20px;margin-bottom:22px}
 h1{margin:0;font-size:28px;letter-spacing:-.4px}.sub{margin-top:6px;color:var(--muted);font-size:14px}
 .status{padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:#0b1a2c;color:var(--muted);font-size:12px}
 .cards{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:16px}
-.card{position:relative;overflow:hidden;background:rgba(13,27,46,.96);border:1px solid var(--line);border-radius:16px;padding:18px 20px;box-shadow:0 12px 30px #0004;min-height:122px}
+.card{background:rgba(13,27,46,.96);border:1px solid var(--line);border-radius:16px;padding:18px 20px;box-shadow:0 12px 30px #0004}
 .label{font-size:13px;color:var(--muted);font-weight:650}.num{font-size:36px;font-weight:800;margin-top:7px}
-.cardline{height:3px;width:44px;border-radius:3px;margin-top:10px}.blue{background:var(--blue)}.green{background:var(--green)}.purple{background:var(--purple)}.orange{background:var(--orange)}
-.card-icon{position:absolute;right:18px;top:50%;transform:translateY(-50%);width:68px;height:68px;border:2px solid currentColor;border-radius:50%;display:flex;align-items:center;justify-content:center;background:rgba(7,17,31,.35)}
-.card-icon svg{width:35px;height:35px;stroke:currentColor;fill:none;stroke-width:2.6;stroke-linecap:round;stroke-linejoin:round}
-.icon-blue{color:var(--blue)}.icon-green{color:var(--green)}.icon-purple{color:var(--purple)}.icon-orange{color:var(--orange)}
-.card-icon.whatsapp{border-color:var(--green)}.card-icon.whatsapp svg{stroke-width:2.4}
-.card-icon.megaphone svg{transform:rotate(-8deg)}
+.cardline{height:3px;width:44px;border-radius:3px;margin-top:10px}.blue{background:var(--blue)}.green{background:var(--green)}
+.purple{background:var(--purple)}.orange{background:var(--orange)}
 .grid{display:grid;grid-template-columns:2fr 1fr;gap:16px}
 .panel{background:rgba(13,27,46,.96);border:1px solid var(--line);border-radius:16px;padding:18px;box-shadow:0 12px 30px #0003}
 .panel h2{font-size:16px;margin:0 0 14px}.chartbox{height:355px}
@@ -36,87 +33,79 @@ select,input{background:#081626;color:var(--text);border:1px solid var(--line);b
 .legend{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:10px}
 .legend-item{border:1px solid var(--line);border-radius:10px;padding:9px;background:#0a1728}
 .legend-top{display:flex;align-items:center;gap:7px;font-size:11px;color:var(--muted)}
-.dot{width:9px;height:9px;border-radius:50%;display:inline-block}
-.legend-pct{font-size:18px;font-weight:800;margin-top:5px}
-.legend-value{display:none}
-.detail{margin-top:16px}
-.detail-toolbar{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:12px}
+.dot{width:9px;height:9px;border-radius:50%;display:inline-block}.legend-value{font-size:16px;font-weight:750;margin-top:4px}.legend-pct{font-size:11px;color:var(--muted)}
+.detail{margin-top:16px}.detail-toolbar{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:12px}
 .detail-select{min-width:245px;font-weight:650}.summary{font-size:12px;color:var(--muted)}
 .tablewrap{overflow:auto;max-height:430px;border:1px solid var(--line);border-radius:10px}
-table{width:100%;border-collapse:collapse;font-size:13px}th,td{padding:11px 9px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap;vertical-align:top}.detail-text{white-space:normal;min-width:320px;max-width:650px;line-height:1.45}
+table{width:100%;border-collapse:collapse;font-size:13px}th,td{padding:11px 9px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap}
 th{color:var(--muted);background:#0a1728;position:sticky;top:0}.badge{display:inline-block;padding:4px 8px;border-radius:999px;font-size:11px;font-weight:700}
 .badge.correo{background:#0b3950;color:var(--blue)}.badge.masiva{background:#302452;color:var(--purple)}.badge.whatsapp{background:#17422c;color:var(--green)}
-.empty{padding:26px!important;text-align:center!important;color:var(--muted);white-space:normal}
 @media(max-width:950px){.cards{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:1fr}}
-@media(max-width:600px){.wrap{padding:14px}.cards{grid-template-columns:1fr}.top{flex-direction:column;align-items:flex-start}.legend{grid-template-columns:1fr}}
+@media(max-width:600px){.wrap{padding:14px}.cards{grid-template-columns:1fr}.top{flex-direction:column;align-items:flex-start}.legend{grid-template-columns:1fr}.chartbox{height:300px}}
 </style>
 </head>
 <body>
 <div class="wrap">
- <div class="top">
-  <div><h1>ORION RPA — Dashboard de comunicaciones</h1><div class="sub">Indicadores ejecutivos · Correos · WhatsApp · Eventos masivos</div></div>
-  <div class="status" id="status">Conectando…</div>
- </div>
-
- <div class="cards">
-  <div class="card">
-   <div class="label">Correos enviados</div><div class="num" id="nCorreo">0</div><div class="cardline blue"></div>
-   <div class="card-icon icon-blue" aria-hidden="true"><svg viewBox="0 0 48 48"><rect x="8" y="12" width="32" height="24" rx="2"></rect><path d="M9 14l15 12L39 14"></path></svg></div>
-  </div>
-  <div class="card">
-   <div class="label">WhatsApp enviados</div><div class="num" id="nWhats">0</div><div class="cardline green"></div>
-   <div class="card-icon whatsapp icon-green" aria-hidden="true"><svg viewBox="0 0 48 48"><path d="M24 8a15 15 0 0 0-12.8 22.8L9 40l9.4-2.1A15 15 0 1 0 24 8Z"></path><path d="M19 17c.7 5 3.8 8.1 8.8 8.8l2.5-2.4-2.4-1.8-1.7 1c-1.9-.8-3.4-2.3-4.2-4.2l1-1.7-1.8-2.4L19 17Z"></path></svg></div>
-  </div>
-  <div class="card">
-   <div class="label">Eventos masivos</div><div class="num" id="nMasiva">0</div><div class="cardline purple"></div>
-   <div class="card-icon megaphone icon-purple" aria-hidden="true"><svg viewBox="0 0 48 48"><path d="M9 26h8l15 7V15l-15 7H9z"></path><path d="M17 26l2 10h5l-2-8"></path><path d="M36 20c2 2 2 6 0 8"></path></svg></div>
-  </div>
-  <div class="card">
-   <div class="label">Total comunicaciones</div><div class="num" id="nTotal">0</div><div class="cardline blue"></div>
-   <div class="card-icon icon-blue" aria-hidden="true"><svg viewBox="0 0 48 48"><path d="M9 38V28"></path><path d="M19 38V20"></path><path d="M29 38V12"></path><path d="M39 38V24"></path><path d="M7 38h34"></path></svg></div>
-  </div>
- </div>
-
- <div class="grid">
-  <div class="panel">
-   <h2>Tendencia de envíos</h2>
-   <div class="filters">
-    <select id="period" onchange="render()"><option value="hour">Por hora</option><option value="day" selected>Por día</option></select>
-    <select id="channel" onchange="render()"><option value="all">Todos</option><option value="correo">Correos</option><option value="whatsapp">WhatsApp</option><option value="masiva">Eventos masivos</option></select>
-   </div>
-   <div class="chartbox"><canvas id="chart"></canvas></div>
+  <div class="top">
+    <div>
+      <h1>ORION RPA — Dashboard de comunicaciones</h1>
+      <div class="sub">Indicadores ejecutivos · Correos · WhatsApp · Eventos masivos</div>
+    </div>
+    <div class="status" id="status">Conectando…</div>
   </div>
 
-  <div class="panel">
-   <h2>Distribución por canal</h2>
-   <div class="donutbox">
-    <canvas id="donut"></canvas>
-   </div>
-   <div class="legend" id="legend"></div>
+  <div class="cards">
+    <div class="card"><div class="label">Correos enviados</div><div class="num" id="nCorreo">0</div><div class="cardline blue"></div></div>
+    <div class="card"><div class="label">WhatsApp enviados</div><div class="num" id="nWhats">0</div><div class="cardline green"></div></div>
+    <div class="card"><div class="label">Eventos masivos</div><div class="num" id="nMasiva">0</div><div class="cardline purple"></div></div>
+    <div class="card"><div class="label">Total comunicaciones</div><div class="num" id="nTotal">0</div><div class="cardline orange"></div></div>
   </div>
- </div>
 
- <div class="panel detail">
-  <h2>Detalle de envíos</h2>
-  <div class="detail-toolbar">
-   <select id="detailType" class="detail-select" onchange="renderTable()">
-    <option value="all">Todos los envíos</option>
-    <option value="correo">Correos enviados</option>
-    <option value="masiva">Eventos masivos</option>
-    <option value="whatsapp">WhatsApp enviados</option>
-   </select>
-   <div class="summary" id="summary">Registros: 0 · Cantidad: 0</div>
+  <div class="grid">
+    <div class="panel">
+      <h2>Tendencia de envíos</h2>
+      <div class="filters">
+        <select id="period" onchange="render()">
+          <option value="hour">Por hora</option><option value="day" selected>Por día</option>
+        </select>
+        <select id="channel" onchange="render()">
+          <option value="all">Todos</option><option value="correo">Correos</option>
+          <option value="whatsapp">WhatsApp</option><option value="masiva">Eventos masivos</option>
+        </select>
+      </div>
+      <div class="chartbox"><canvas id="chart"></canvas></div>
+    </div>
+
+    <div class="panel">
+      <h2>Distribución por canal</h2>
+      <div class="donutbox">
+        <canvas id="donut"></canvas>
+        <div class="donut-total"><strong id="donutTotal">0</strong><span>Total</span></div>
+      </div>
+      <div class="legend" id="legend"></div>
+    </div>
   </div>
-  <div class="filters">
-   <input id="search" placeholder="Buscar asunto, referencia o detalle…" oninput="renderTable()">
-   <input id="from" type="date" onchange="renderTable()">
-   <input id="to" type="date" onchange="renderTable()">
-   <button id="clearFilters" type="button" onclick="clearFilters()">Limpiar filtros</button>
+
+  <div class="panel detail">
+    <h2>Detalle de envíos</h2>
+    <div class="detail-toolbar">
+      <select id="detailType" class="detail-select" onchange="renderTable()">
+        <option value="all">Todos los envíos</option>
+        <option value="correo">Correos enviados</option>
+        <option value="masiva">Eventos masivos</option>
+        <option value="whatsapp">WhatsApp enviados</option>
+      </select>
+      <div class="summary" id="summary">Registros: 0 · Cantidad: 0</div>
+    </div>
+    <div class="filters">
+      <input id="search" placeholder="Buscar asunto, referencia o detalle…" oninput="renderTable()">
+      <input id="from" type="date" onchange="renderTable()">
+      <input id="to" type="date" onchange="renderTable()">
+    </div>
+    <div class="tablewrap">
+      <table><thead id="thead"></thead><tbody id="tbody"></tbody></table>
+    </div>
   </div>
-  <div class="tablewrap">
-   <table><thead id="thead"></thead><tbody id="tbody"></tbody></table>
-  </div>
- </div>
 </div>
 
 <script>
@@ -125,163 +114,92 @@ const labels={correo:"Correo",masiva:"Evento masivo",whatsapp:"WhatsApp"};
 const names={correo:"Correos",masiva:"Eventos masivos",whatsapp:"WhatsApp"};
 
 function esc(s){return String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
-
-function normalTipo(v){
- let s=String(v||"").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"");
- if(s.includes("whatsapp")||s.includes("whats")) return "whatsapp";
- if(s.includes("masiv")||s.includes("evento")) return "masiva";
- return "correo";
-}
-
-function normalizeEvent(e){
- e=e||{};
- const tipo=normalTipo(e.tipo||e.canal||e.type);
- const fecha=e.fecha_hora||e.fechaHora||e.fecha||e.timestamp||e.hora||"";
- const asunto=e.asunto||e.subject||e.detalle||e.mensaje||e.evento||e.descripcion||"";
- const referencia=e.referencia||e.reference||e.oit||e.id_referencia||"";
- let cantidad=Number(e.cantidad);
- if(!Number.isFinite(cantidad)||cantidad<=0) cantidad=1;
- return {...e,tipo,fecha_hora:String(fecha),asunto:String(asunto),referencia:String(referencia),cantidad};
-}
-
-function getEvents(){
- if(Array.isArray(DATA)) return DATA.map(normalizeEvent);
- if(Array.isArray(DATA.events)) return DATA.events.map(normalizeEvent);
- if(Array.isArray(DATA.registros)) return DATA.registros.map(normalizeEvent);
- if(Array.isArray(DATA.data)) return DATA.data.map(normalizeEvent);
- return [];
-}
-
-function parseDate(v){
- if(v instanceof Date) return isNaN(v.getTime())?null:v;
- if(v===null||v===undefined||v==="") return null;
- const s=String(v).trim();
- // ISO / timestamps
- let d=new Date(s);
- if(!isNaN(d.getTime())) return d;
- // DD/MM/YYYY [HH:mm[:ss]]
- let m=s.match(/^(\\d{1,2})[\\/\\-](\\d{1,2})[\\/\\-](\\d{4})(?:[ T](\\d{1,2}):(\\d{2})(?::(\\d{2}))?)?/);
- if(m){
-   d=new Date(Number(m[3]),Number(m[2])-1,Number(m[1]),Number(m[4]||0),Number(m[5]||0),Number(m[6]||0));
-   return isNaN(d.getTime())?null:d;
- }
- return null;
-}
-function dateKey(v){
- const d=parseDate(v);
- if(!d) return "";
- const y=d.getFullYear(),m=String(d.getMonth()+1).padStart(2,"0"),day=String(d.getDate()).padStart(2,"0");
- return `${y}-${m}-${day}`;
-}
-
-function totals(){
- const t={correo:0,masiva:0,whatsapp:0};
- getEvents().forEach(e=>{if(t[e.tipo]!=null)t[e.tipo]+=e.cantidad});
- return t;
-}
+function norm(e){return {...e,cantidad:Number(e.cantidad||1),tipo:e.tipo||"correo"}}
+function totals(){let t={correo:0,masiva:0,whatsapp:0};DATA.events.map(norm).forEach(e=>{if(t[e.tipo]!=null)t[e.tipo]+=e.cantidad});return t}
 
 function render(){
- const t=totals(),total=t.correo+t.whatsapp+t.masiva;
- nCorreo.textContent=t.correo;nWhats.textContent=t.whatsapp;nMasiva.textContent=t.masiva;nTotal.textContent=total;
+  let t=totals(), total=t.correo+t.whatsapp+t.masiva;
+  nCorreo.textContent=t.correo; nWhats.textContent=t.whatsapp; nMasiva.textContent=t.masiva; nTotal.textContent=total; donutTotal.textContent=total;
 
- const ev=getEvents().filter(e=>parseDate(e.fecha_hora)).sort((a,b)=>parseDate(a.fecha_hora)-parseDate(b.fecha_hora));
- const p=period.value,ch=channel.value,b={};
- ev.forEach(e=>{
-  if(ch!=="all"&&e.tipo!==ch)return;
-  const d=parseDate(e.fecha_hora);
-  const k=p==="hour"
-   ? d.toLocaleString("es-PE",{day:"2-digit",month:"2-digit",hour:"2-digit"})
-   : d.toLocaleDateString("es-PE",{day:"2-digit",month:"2-digit"});
-  b[k]=(b[k]||0)+e.cantidad;
- });
- const ks=Object.keys(b);
- if(chart)chart.destroy();
- chart=new Chart(document.getElementById("chart"),{
-  type:"line",
-  data:{labels:ks,datasets:[{label:"Envíos",data:ks.map(k=>b[k]),tension:.28,fill:true}]},
-  options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{labels:{color:"#91a4ba"}}},
-  scales:{x:{ticks:{color:"#91a4ba"},grid:{color:"#203751"}},y:{beginAtZero:true,ticks:{color:"#91a4ba"},grid:{color:"#203751"}}}}
- });
+  let ev=DATA.events.map(norm).sort((a,b)=>new Date(a.fecha_hora)-new Date(b.fecha_hora));
+  let p=period.value,ch=channel.value,b={};
+  ev.forEach(e=>{
+    if(ch!="all"&&e.tipo!=ch)return;
+    let d=new Date(e.fecha_hora);
+    let k=p=="hour"
+      ? d.toLocaleString("es-PE",{day:"2-digit",month:"2-digit",hour:"2-digit"})
+      : d.toLocaleDateString("es-PE",{day:"2-digit",month:"2-digit"});
+    b[k]=(b[k]||0)+e.cantidad;
+  });
+  let ks=Object.keys(b);
 
- if(donut)donut.destroy();
- donut=new Chart(document.getElementById("donut"),{
-  type:"doughnut",
-  data:{labels:["Correos","Eventos masivos","WhatsApp"],datasets:[{data:[t.correo,t.masiva,t.whatsapp],backgroundColor:["#35a7ff","#a98cff","#31d17c"],borderColor:["#35a7ff","#a98cff","#31d17c"],borderWidth:2}]},
-  options:{responsive:true,maintainAspectRatio:false,cutout:"64%",
-   plugins:{legend:{display:false},tooltip:{callbacks:{label:ctx=>{
-    const v=ctx.raw||0,pct=total?((v/total)*100).toFixed(1):"0.0";
-    return " "+ctx.label+": "+pct+"%";
-   }}}}}
- });
+  if(chart)chart.destroy();
+  chart=new Chart(document.getElementById("chart"),{
+    type:"line",
+    data:{labels:ks,datasets:[{label:"Envíos",data:ks.map(k=>b[k]),tension:.28,fill:true}]},
+    options:{
+      responsive:true,maintainAspectRatio:false,
+      plugins:{legend:{labels:{color:"#91a4ba"}}},
+      scales:{x:{ticks:{color:"#91a4ba"},grid:{color:"#203751"}},y:{beginAtZero:true,ticks:{color:"#91a4ba"},grid:{color:"#203751"}}}
+    }
+  });
 
- const colors={correo:"#35a7ff",masiva:"#a98cff",whatsapp:"#31d17c"};
- legend.innerHTML=["correo","masiva","whatsapp"].map(k=>{
-  const pct=total?((t[k]/total)*100).toFixed(1):"0.0";
-  return `<div class="legend-item"><div class="legend-top"><span class="dot" style="background:${colors[k]}"></span>${names[k]}</div>
-  <div class="legend-pct">${pct}%</div></div>`;
- }).join("");
+  if(donut)donut.destroy();
+  donut=new Chart(document.getElementById("donut"),{
+    type:"doughnut",
+    data:{labels:["Correos","Eventos masivos","WhatsApp"],datasets:[{data:[t.correo,t.masiva,t.whatsapp],borderWidth:2}]},
+    options:{
+      responsive:true,maintainAspectRatio:false,cutout:"64%",
+      plugins:{legend:{display:false},tooltip:{callbacks:{
+        label:function(ctx){
+          let v=ctx.raw||0, pct=total?((v/total)*100).toFixed(1):"0.0";
+          return " "+ctx.label+": "+v+" ("+pct+"%)";
+        }
+      }}}
+    }
+  });
 
- renderTable();
+  let colors={correo:"#35a7ff",masiva:"#a98cff",whatsapp:"#31d17c"};
+  legend.innerHTML=["correo","masiva","whatsapp"].map(k=>{
+    let pct=total?((t[k]/total)*100).toFixed(1):"0.0";
+    return `<div class="legend-item"><div class="legend-top"><span class="dot" style="background:${colors[k]}"></span>${names[k]}</div><div class="legend-value">${t[k]}</div><div class="legend-pct">${pct}% del total</div></div>`;
+  }).join("");
+
+  renderTable();
 }
 
 function renderTable(){
- const q=(search.value||"").trim().toLowerCase();
- const f=from.value, to=to.value, selected=detailType.value;
+  let q=(search.value||"").toLowerCase(),f=from.value,to=to.value,selected=detailType.value;
+  let ev=DATA.events.map(norm).filter(e=>{
+    let d=(e.fecha_hora||"").slice(0,10);
+    return (selected==="all"||e.tipo===selected)&&(!f||d>=f)&&(!to||d<=to)&&JSON.stringify(e).toLowerCase().includes(q);
+  }).sort((a,b)=>new Date(b.fecha_hora)-new Date(a.fecha_hora));
 
- let ev=getEvents().filter(e=>{
-  const d=dateKey(e.fecha_hora);
-  const texto=JSON.stringify(e).toLowerCase();
-  return (selected==="all"||e.tipo===selected)
-    &&(!f||d>=f)
-    &&(!to||d<=to)
-    &&(!q||texto.includes(q));
- }).sort((a,b)=>(parseDate(b.fecha_hora)||0)-(parseDate(a.fecha_hora)||0));
+  let total=ev.reduce((s,e)=>s+e.cantidad,0);
+  summary.textContent=(selected==="all"?"Todos los envíos":names[selected])+" · Registros: "+ev.length+" · Cantidad: "+total;
 
- const total=ev.reduce((s,e)=>s+e.cantidad,0);
- summary.textContent=(selected==="all"?"Todos los envíos":names[selected])
-   +" · Registros: "+ev.length+" · Cantidad: "+total;
+  if(selected==="all"){
+    thead.innerHTML="<tr><th>Fecha y hora</th><th>Tipo</th><th>Asunto / evento</th><th>Referencia</th><th>Cantidad</th></tr>";
+  }else{
+    let title=selected==="correo"?"Asunto del correo":selected==="masiva"?"Evento masivo":"Mensaje / detalle";
+    thead.innerHTML="<tr><th>Fecha y hora</th><th>"+title+"</th><th>Referencia</th><th>Cantidad</th></tr>";
+  }
 
- if(selected==="all"){
-   thead.innerHTML="<tr><th>Fecha y hora</th><th>Tipo</th><th>Asunto / evento / mensaje</th><th>Referencia</th><th>Cantidad</th></tr>";
- }else{
-   const title=selected==="correo"?"Asunto del correo"
-     :selected==="masiva"?"Evento masivo":"Mensaje de WhatsApp";
-   thead.innerHTML="<tr><th>Fecha y hora</th><th>"+title+"</th><th>Referencia</th><th>Cantidad</th></tr>";
- }
-
- if(!ev.length){
-   const mensaje=(f||to)
-     ? "No hay registros de "+names[selected]+" dentro del rango de fechas seleccionado."
-     : "No hay registros para esta selección. Verifique que dashboard_data.json contenga eventos.";
-   tbody.innerHTML=`<tr><td colspan="${selected==="all"?5:4}" class="empty">${mensaje}</td></tr>`;
-   return;
- }
-
- tbody.innerHTML=ev.map(e=>{
-   const d=parseDate(e.fecha_hora);
-   const dt=d?d.toLocaleString("es-PE",{dateStyle:"short",timeStyle:"medium"}):(e.fecha_hora||"-");
-   const detalle=e.asunto||e.detalle||e.mensaje||e.evento||e.descripcion||"-";
-   const ref=e.referencia||e.reference||e.oit||e.id_referencia||"-";
-   if(selected!=="all"){
-     return `<tr><td>${esc(dt)}</td><td class="detail-text">${esc(detalle)}</td><td>${esc(ref)}</td><td>${e.cantidad}</td></tr>`;
-   }
-   return `<tr><td>${esc(dt)}</td><td><span class="badge ${esc(e.tipo)}">${esc(labels[e.tipo]||e.tipo)}</span></td><td class="detail-text">${esc(detalle)}</td><td>${esc(ref)}</td><td>${e.cantidad}</td></tr>`;
- }).join("");
+  tbody.innerHTML=ev.map(e=>{
+    let dt=esc(new Date(e.fecha_hora).toLocaleString("es-PE"));
+    if(selected!=="all")
+      return `<tr><td>${dt}</td><td>${esc(e.asunto||e.detalle||"-")}</td><td>${esc(e.referencia||"-")}</td><td>${e.cantidad}</td></tr>`;
+    return `<tr><td>${dt}</td><td><span class="badge ${esc(e.tipo)}">${esc(labels[e.tipo]||e.tipo)}</span></td><td>${esc(e.asunto||e.detalle||"-")}</td><td>${esc(e.referencia||"-")}</td><td>${e.cantidad}</td></tr>`;
+  }).join("")||`<tr><td colspan="${selected==="all"?5:4}" style="text-align:center;padding:24px;color:#91a4ba">No hay registros para la selección.</td></tr>`;
 }
-function clearFilters(){search.value="";from.value="";to.value="";detailType.value="all";renderTable()}
 
 async function load(){
- try{
-  const r=await fetch("dashboard_data.json?ts="+Date.now(),{cache:"no-store"});
-  if(!r.ok)throw Error(r.status);
-  DATA=await r.json();
-  render();
-  const n=getEvents().length;
-  status.textContent="Actualizado: "+new Date().toLocaleString("es-PE")+" · "+n+" registros";
- }catch(e){
-  status.textContent="No se pudo cargar dashboard_data.json";
-  DATA={events:[]};render();
- }
+  try{
+    let r=await fetch("dashboard_data.json?ts="+Date.now(),{cache:"no-store"});
+    if(!r.ok)throw Error(r.status);
+    DATA=await r.json(); render();
+    status.textContent="Actualizado: "+new Date().toLocaleString("es-PE");
+  }catch(e){status.textContent="Esperando dashboard_data.json…"}
 }
 load();setInterval(load,15000);
 </script>
