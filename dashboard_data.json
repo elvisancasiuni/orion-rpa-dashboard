@@ -404,6 +404,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
+    },
+    {
+      "id": "2026-08-31T12:26:12-05:00-correo-247958",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T12:26:12-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | CONGRESO DE LA REPUBLICA - S247958 - JIRON MIROQUESADA NRO. 247 OFICINA 406 (LIMA - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "247958"
     }
   ]
 }
