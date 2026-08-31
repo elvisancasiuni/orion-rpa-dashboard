@@ -323,6 +323,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
+    },
+    {
+      "id": "2026-08-31T11:56:29-05:00-correo-446001",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T11:56:29-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S446001 Compañia Hard Discount DBA",
+      "detalle": "Correo enviado",
+      "referencia": "446001"
     }
   ]
 }
