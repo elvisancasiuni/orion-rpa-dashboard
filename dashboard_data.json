@@ -107,6 +107,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPAÑIA HARD DISCOUNT S.A.C - DBA - S430045",
       "detalle": "Correo enviado",
       "referencia": "430045"
+    },
+    {
+      "id": "2026-08-31T08:08:35-05:00-correo-391728",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T08:08:35-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
+      "detalle": "Correo enviado",
+      "referencia": "391728"
     }
   ]
 }
