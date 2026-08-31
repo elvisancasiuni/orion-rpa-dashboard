@@ -8,6 +8,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S463487 - DBI - ORANGE ESPAÑA",
       "detalle": "Correo enviado",
       "referencia": "463487"
+    },
+    {
+      "id": "2026-08-31T11:30:55-05:00-correo-433621",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T11:30:55-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | AJEPER DEL ORIENTE S.A - S433621 - DBI - 35Mbps - JIRON GUILLERMO SISLEY NRO. 1523 - TARAPOTO",
+      "detalle": "Correo enviado",
+      "referencia": "433621"
     }
   ]
 }
