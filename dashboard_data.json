@@ -287,6 +287,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "ALFIN BANCO S.A.  (EX BANCO AZTECA)"
+    },
+    {
+      "id": "2026-08-31T08:14:38-05:00-whatsapp-MINISTERIO DE TRANSPORTES Y COMUNICACION",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T08:14:38-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
     }
   ]
 }
