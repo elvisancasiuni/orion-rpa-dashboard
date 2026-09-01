@@ -2141,6 +2141,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414021 - MASS_TOMASAL_1",
       "detalle": "Correo enviado",
       "referencia": "345854"
+    },
+    {
+      "id": "2026-09-01T05:10:40-05:00-correo-399819",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:10:40-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUNAFIL - DBI - S399830 - PIURA",
+      "detalle": "Correo enviado",
+      "referencia": "399819"
     }
   ]
 }
