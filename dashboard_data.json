@@ -1484,6 +1484,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS - DBI - S464234 - Avenida PerÚ Nro. S/N (San Martin De Porres - Lima - Lima)",
       "detalle": "Correo enviado",
       "referencia": "395050"
+    },
+    {
+      "id": "2026-09-01T04:46:16-05:00-correo-480123",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:46:16-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_A - CAJAMARCA - S258961 - 76711024 al 76711031 | TUP00058 al TUP00065 | Jr. Eten 206, Cajamarca Cercado",
+      "detalle": "Correo enviado",
+      "referencia": "480123"
     }
   ]
 }
