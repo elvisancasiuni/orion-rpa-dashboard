@@ -1358,6 +1358,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398866 - AMERICATEL - DGDPAJ - Lima Sur - Chorrillos - Casa del Adulto Mayor",
       "detalle": "Correo enviado",
       "referencia": "372455"
+    },
+    {
+      "id": "2026-09-01T04:41:39-05:00-correo-369280",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:41:39-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | ORANGE - DBI - S372455 - PLIM940_GIVAUDAN_CID159879",
+      "detalle": "Correo enviado",
+      "referencia": "369280"
     }
   ]
 }
