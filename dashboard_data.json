@@ -1700,6 +1700,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | BOTICAS IP S.A.C - S420777 - AVENIDA REVOLUCIÓN NRO. 2664 MZ. H2 LTE. 09 ASENTAMIENTO HUMANO COLLIQUE ZONA IV (COMAS - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "427236"
+    },
+    {
+      "id": "2026-09-01T15:05:50-05:00-correo-389797",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T15:05:50-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S427236-UCV-HUARAZ",
+      "detalle": "Correo enviado",
+      "referencia": "389797"
     }
   ]
 }
