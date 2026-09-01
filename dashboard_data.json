@@ -1799,6 +1799,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SERVICIO NACIONAL DE ADIESTRAMIENTO - SENATI"
+    },
+    {
+      "id": "2026-09-01T15:18:17-05:00-whatsapp-SERVICIO NACIONAL DE ADIESTRAMIENTO - SENATI",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-01T15:18:17-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SERVICIO NACIONAL DE ADIESTRAMIENTO - SENATI"
     }
   ]
 }
