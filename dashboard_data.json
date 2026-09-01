@@ -1043,6 +1043,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | FRAVATEL - DBA - S411748",
       "detalle": "Correo enviado",
       "referencia": "424257"
+    },
+    {
+      "id": "2026-09-01T04:30:07-05:00-correo-368939",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:30:07-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_A - LA LIBERTAD - S424257 - 44750000 al 44750004 | Av Larco 780, Trujillo",
+      "detalle": "Correo enviado",
+      "referencia": "368939"
     }
   ]
 }
