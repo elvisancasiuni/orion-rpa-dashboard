@@ -2123,6 +2123,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUNAFIL – DBI - S399833 - CHICLAYO",
       "detalle": "Correo enviado",
       "referencia": "399842"
+    },
+    {
+      "id": "2026-09-01T05:10:00-05:00-correo-399835",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:10:00-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUNAFIL - DBI - S399836 - HUACHO",
+      "detalle": "Correo enviado",
+      "referencia": "399835"
     }
   ]
 }
