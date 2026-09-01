@@ -1772,6 +1772,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S408210 - AMERICATEL - DGDPAJ - Lima Sur - Villa El Salvador - NEXTNET_CID112016",
       "detalle": "Correo enviado",
       "referencia": "419432"
+    },
+    {
+      "id": "2026-09-01T04:56:56-05:00-correo-437360",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:56:56-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINJUS - S408208 - PASAJE NEPTUNO NRO. S/N KILOMETRO 14.5 (COMAS - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "437360"
     }
   ]
 }
