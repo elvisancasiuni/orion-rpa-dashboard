@@ -1169,6 +1169,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398835 - AMERICATEL - CONSEJO DE SUPERVIGILANCIA DE FUNDACIONES - CONSEJO DE SUPERVIGILANCIA DE FUNDACIONES",
       "detalle": "Correo enviado",
       "referencia": "398821"
+    },
+    {
+      "id": "2026-09-01T04:34:40-05:00-correo-398830",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:34:40-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398821 - AMERICATEL - DGDPAJ - Lima Centro - E.P._Chorrillos",
+      "detalle": "Correo enviado",
+      "referencia": "398830"
     }
   ]
 }
