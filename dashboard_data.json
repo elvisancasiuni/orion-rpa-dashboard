@@ -1214,6 +1214,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S408185 - AMERICATEL - DGDPAJ - Callao - Nueva Sede Poder Judicial - NEXTNET_CID112005",
       "detalle": "Correo enviado",
       "referencia": "398833"
+    },
+    {
+      "id": "2026-09-01T04:36:20-05:00-correo-398051",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:36:20-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398833 - AMERICATEL - DGDPAJ - Lima Centro - Infractores",
+      "detalle": "Correo enviado",
+      "referencia": "398051"
     }
   ]
 }
