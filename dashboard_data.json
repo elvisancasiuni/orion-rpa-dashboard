@@ -2069,6 +2069,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_A - ICA - S258955 - 56710993 | TUP00017 | Av. San Martin 170 interior 102 - Ica Cercado",
       "detalle": "Correo enviado",
       "referencia": "399836"
+    },
+    {
+      "id": "2026-09-01T05:07:59-05:00-correo-414021",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:07:59-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | UNION YCHICAWA S.A. (UYSA) - S390596 - JIRON MONSEFU NRO. 786 (LIMA - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "414021"
     }
   ]
 }
