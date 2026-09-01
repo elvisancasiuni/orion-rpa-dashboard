@@ -1844,6 +1844,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S408212 - AMERICATEL - DGDPAJ - Lima Sur - Sede Central - Centro ALEGRA San Juan de Miraflores - NEXTNET_CID112019",
       "detalle": "Correo enviado",
       "referencia": "471223"
+    },
+    {
+      "id": "2026-09-01T04:59:35-05:00-correo-409918",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:59:35-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | GTD PERÚ S.A - DBA - S459441-S459442",
+      "detalle": "Correo enviado",
+      "referencia": "409918"
     }
   ]
 }
