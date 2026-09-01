@@ -980,6 +980,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUNAT - DBI - S372525 - PRINCIPAL",
       "detalle": "Correo enviado",
       "referencia": "434459"
+    },
+    {
+      "id": "2026-09-01T04:27:50-05:00-correo-408206",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:27:50-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TDA_ENTEL - DBA - S434459 - TPF_MALL_AVENTURA_IQUITOS",
+      "detalle": "Correo enviado",
+      "referencia": "408206"
     }
   ]
 }
