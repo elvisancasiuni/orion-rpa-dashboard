@@ -1619,6 +1619,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398870 - AMERICATEL - DGDPAJ - Lima Sur - Centro ALEGRA - Manchay",
       "detalle": "Correo enviado",
       "referencia": "398849"
+    },
+    {
+      "id": "2026-09-01T04:51:15-05:00-correo-413499",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:51:15-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S408186 - AMERICATEL - DGDPAJ - Lima Este - MBJ - El Agustino - NEXTNET_CID112015",
+      "detalle": "Correo enviado",
+      "referencia": "413499"
     }
   ]
 }
