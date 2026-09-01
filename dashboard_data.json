@@ -917,6 +917,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS BANCO S.A. - DBI - S487603",
       "detalle": "Correo enviado",
       "referencia": "436291"
+    },
+    {
+      "id": "2026-09-01T04:25:33-05:00-correo-379807",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:25:33-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_E - LA LIBERTAD - S436291 - 750007, 750008",
+      "detalle": "Correo enviado",
+      "referencia": "379807"
     }
   ]
 }
