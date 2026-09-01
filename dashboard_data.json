@@ -1637,6 +1637,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S409917 - AMERICATEL - DGDPAJ - Lima Nor Oeste (Ventanilla) - Fiscalía Penal de Turno Permanente",
       "detalle": "Correo enviado",
       "referencia": "398853"
+    },
+    {
+      "id": "2026-09-01T04:51:55-05:00-correo-465632",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:51:55-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398818 - AMERICATEL - DGDPAJ - Callao - Callao_Sede Central",
+      "detalle": "Correo enviado",
+      "referencia": "465632"
     }
   ]
 }
