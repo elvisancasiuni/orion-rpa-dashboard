@@ -2204,6 +2204,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | PRISONTEC S.A.C. - S432137 - PROLONGACION CENTENARIO NRO. S/N (CALLAO - CALLAO - LIMA) (REF: COORDENADAS -12.018338 -77.136349, E.P. DEL CALLAO)",
       "detalle": "Correo enviado",
       "referencia": "432137"
+    },
+    {
+      "id": "2026-09-01T05:53:07-05:00-correo-389797",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:53:07-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | ALFIN BANCO || SEDE LOS OLIVOS || DBA 389797 || 6M",
+      "detalle": "Correo enviado",
+      "referencia": "389797"
     }
   ]
 }
