@@ -332,6 +332,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S465712 - DBI - EMEMSA - SEDE AREQUIPA",
       "detalle": "Correo enviado",
       "referencia": "465712"
+    },
+    {
+      "id": "2026-09-01T02:15:13-05:00-whatsapp-EMAPA CANETE S.A",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-01T02:15:13-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "EMAPA CANETE S.A"
     }
   ]
 }
