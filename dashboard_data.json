@@ -404,6 +404,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - S468711 - DBA - BREÑA",
       "detalle": "Correo enviado",
       "referencia": "468711"
+    },
+    {
+      "id": "2026-08-31T23:06:33-05:00-correo-465647",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T23:06:33-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465647 - ECER HUARAZ",
+      "detalle": "Correo enviado",
+      "referencia": "465647"
     }
   ]
 }
