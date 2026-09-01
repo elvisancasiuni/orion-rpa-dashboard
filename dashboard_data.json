@@ -2060,6 +2060,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_A - ICA - S258955 - 56710994 | TUP00018 | Av. San Martin 170 interior 102 - Ica Cercado",
       "detalle": "Correo enviado",
       "referencia": "399833"
+    },
+    {
+      "id": "2026-09-01T05:07:39-05:00-correo-399836",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:07:39-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_A - ICA - S258955 - 56710993 | TUP00017 | Av. San Martin 170 interior 102 - Ica Cercado",
+      "detalle": "Correo enviado",
+      "referencia": "399836"
     }
   ]
 }
