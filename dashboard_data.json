@@ -1403,6 +1403,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | EXPEREO INTERNATIONAL - DBI - S411186 - Huawei AR651",
       "detalle": "Correo enviado",
       "referencia": "434113"
+    },
+    {
+      "id": "2026-09-01T04:43:16-05:00-correo-456106",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:43:16-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S433185-FW-BES-TUMBES-OFICINA2",
+      "detalle": "Correo enviado",
+      "referencia": "456106"
     }
   ]
 }
