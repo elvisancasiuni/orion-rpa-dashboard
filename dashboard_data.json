@@ -1520,6 +1520,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | HILLSTONE A2600",
       "detalle": "Correo enviado",
       "referencia": "471222"
+    },
+    {
+      "id": "2026-09-01T04:47:36-05:00-correo-393791",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:47:36-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINJUS - S480123 - AMERICATEL - DGDPAJ - JIRON AMELIA NRO. 761 URB. ASCARRUNZ (SAN JUAN DE LURIGANCHO - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "393791"
     }
   ]
 }
