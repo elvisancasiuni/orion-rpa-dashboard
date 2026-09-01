@@ -1322,6 +1322,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S408213 - AMERICATEL - DGDPAJ - Lima Este - MBJ - Huaycán - NEXTNET_CID112003",
       "detalle": "Correo enviado",
       "referencia": "449642"
+    },
+    {
+      "id": "2026-09-01T04:40:16-05:00-correo-398816",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:40:16-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | GLOBOKAS PERU S.A. - DBA - S449642 - Respaldo",
+      "detalle": "Correo enviado",
+      "referencia": "398816"
     }
   ]
 }
