@@ -719,6 +719,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S483619 - SERNANP - CUSCO - DBI",
       "detalle": "Correo enviado",
       "referencia": "483619"
+    },
+    {
+      "id": "2026-09-01T04:18:21-05:00-correo-398865",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:18:21-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398865 - AMERICATEL - DGDPAJ - Lima Norte - Lima Norte - Sede Central",
+      "detalle": "Correo enviado",
+      "referencia": "398865"
     }
   ]
 }
