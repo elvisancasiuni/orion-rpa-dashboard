@@ -2015,6 +2015,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | DEFENSA BANDA 3.5 S397547 - SITE LA_YARADA",
       "detalle": "Correo enviado",
       "referencia": "390596"
+    },
+    {
+      "id": "2026-09-01T05:05:57-05:00-correo-375739",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:05:57-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | DEFENSA BANDA 3.5 S409132 - SITE LA_YARADA",
+      "detalle": "Correo enviado",
+      "referencia": "375739"
     }
   ]
 }
