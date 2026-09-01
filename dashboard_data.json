@@ -530,6 +530,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S413991 - MASS_VIPOL",
       "detalle": "Correo enviado",
       "referencia": "413991"
+    },
+    {
+      "id": "2026-08-31T23:11:34-05:00-correo-414029",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T23:11:34-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414029 - MASS ALMENDRAS 2",
+      "detalle": "Correo enviado",
+      "referencia": "414029"
     }
   ]
 }
