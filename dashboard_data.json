@@ -1016,6 +1016,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S408205 - AMERICATEL - DGTAIPD - DGTAIPD - NEXTNET_CID111996",
       "detalle": "Correo enviado",
       "referencia": "351038"
+    },
+    {
+      "id": "2026-09-01T04:29:08-05:00-correo-398839",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:29:08-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIFARMA S.A.C. - S351038 - S412496 - AVENIDA UNIVERSITARIA NRO. 5821 URB. LAS VEGAS (COMAS - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "398839"
     }
   ]
 }
