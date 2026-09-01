@@ -701,6 +701,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ALFIN BANCO || CABECERA SURCO_PR-DBA_399402 || 500M ||BK_399403",
       "detalle": "Correo enviado",
       "referencia": "399402"
+    },
+    {
+      "id": "2026-09-01T04:17:41-05:00-correo-398859",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:17:41-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398859 - AMERICATEL - DGDPAJ - Lima Norte - MBJ - Los Olivos",
+      "detalle": "Correo enviado",
+      "referencia": "398859"
     }
   ]
 }
