@@ -1583,6 +1583,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | CENCOSUD PERU S.A - S412240 - AVENIDA JAVIER PRADO ESTE NRO. 6230 (LA MOLINA - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "398870"
+    },
+    {
+      "id": "2026-09-01T04:49:57-05:00-correo-408186",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:49:57-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398875 - AMERICATEL - DGDPAJ - Lima Nor Oeste (Ventanilla) - CISAJ Puente Piedra",
+      "detalle": "Correo enviado",
+      "referencia": "408186"
     }
   ]
 }
