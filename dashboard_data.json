@@ -1727,6 +1727,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SW SENCICO - CHICLAYO [RESPALDO] - S411425",
       "detalle": "Correo enviado",
       "referencia": "411425"
+    },
+    {
+      "id": "2026-09-01T15:07:15-05:00-correo-468711",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T15:07:15-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SENCICO - CHICLAYO [RESPALDO] - S411425",
+      "detalle": "Correo enviado",
+      "referencia": "468711"
     }
   ]
 }
