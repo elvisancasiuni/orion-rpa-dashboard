@@ -2447,6 +2447,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ENTEL VP - DBI - S387943 - Juan Diego de Vinatea",
       "detalle": "Correo enviado",
       "referencia": "387943"
+    },
+    {
+      "id": "2026-09-01T08:32:31-05:00-whatsapp-TIENDAS ENTEL",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-01T08:32:31-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "TIENDAS ENTEL"
     }
   ]
 }
