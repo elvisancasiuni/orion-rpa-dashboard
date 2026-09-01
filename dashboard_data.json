@@ -359,6 +359,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "TIENDAS ENTEL"
+    },
+    {
+      "id": "2026-09-01T02:35:51-05:00-correo-389797",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T02:35:51-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | ALFIN BANCO || SEDE LOS OLIVOS || DBA 389797 || 6M",
+      "detalle": "Correo enviado",
+      "referencia": "389797"
     }
   ]
 }
