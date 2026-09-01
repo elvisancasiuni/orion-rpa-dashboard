@@ -1736,6 +1736,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S408188 - AMERICATEL - DGDPAJ - Lima Sur - Módulo Único de Flagrancia San Juan de Miraflores - NEXTNET_CID112021",
       "detalle": "Correo enviado",
       "referencia": "408210"
+    },
+    {
+      "id": "2026-09-01T04:55:36-05:00-correo-408208",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:55:36-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS - S398854 - AVENIDA SANTA ROSA NRO. 460 (SAN JUAN DE LURIGANCHO - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "408208"
     }
   ]
 }
