@@ -1457,6 +1457,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S408194 - AMERICATEL - DGDPAJ - Callao - Ministerio Público, Primer Piso, Fiscalía De Familia – Infractores Callao - NEXTNET_CID111997",
       "detalle": "Correo enviado",
       "referencia": "464234"
+    },
+    {
+      "id": "2026-09-01T04:45:15-05:00-correo-258961",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:45:15-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398861 - AMERICATEL - DGDPAJ - Lima Norte - Comisaria de Independencia",
+      "detalle": "Correo enviado",
+      "referencia": "258961"
     }
   ]
 }
