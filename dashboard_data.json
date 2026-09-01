@@ -2177,6 +2177,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUNAFIL - DBI - S399843 - TACNA",
       "detalle": "Correo enviado",
       "referencia": "399822"
+    },
+    {
+      "id": "2026-09-01T05:13:00-05:00-correo-390104",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:13:00-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUNAFIL - DBI - S399842 - PUCALLPA",
+      "detalle": "Correo enviado",
+      "referencia": "390104"
     }
   ]
 }
