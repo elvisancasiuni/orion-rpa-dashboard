@@ -1025,6 +1025,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIFARMA S.A.C. - S351038 - S412496 - AVENIDA UNIVERSITARIA NRO. 5821 URB. LAS VEGAS (COMAS - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "398839"
+    },
+    {
+      "id": "2026-09-01T04:29:27-05:00-correo-411748",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:29:27-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398839 - AMERICATEL - DGDPAJ - Lima Centro - Contumaza",
+      "detalle": "Correo enviado",
+      "referencia": "411748"
     }
   ]
 }
