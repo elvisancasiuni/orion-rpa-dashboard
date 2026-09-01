@@ -1790,6 +1790,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S449340 - AMERICATEL - DGDPAJ - Lima Nor Oeste (Ventanilla) - Lima Nor Oeste (Ventanilla) - Sede Central",
       "detalle": "Correo enviado",
       "referencia": "398873"
+    },
+    {
+      "id": "2026-09-01T04:57:35-05:00-correo-408212",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:57:35-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_E - CAJAMARCA - S434115 - 711104,711105 on Av Jose Carlos Mariategui 357",
+      "detalle": "Correo enviado",
+      "referencia": "408212"
     }
   ]
 }
