@@ -1898,6 +1898,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S409918 - AMERICATEL - DGDPAJ - Lima Nor Oeste (Ventanilla) - Juzgado Penal de Turno Permanente",
       "detalle": "Correo enviado",
       "referencia": "410377"
+    },
+    {
+      "id": "2026-09-01T05:01:34-05:00-correo-401302",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:01:34-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SOFTYS PERU S.A.C - DBI - S423929 - CALLE LOS CEDROS NRO. S/N MZ. D LTE. 7 URB. LA CAPITANA DEL CENTRO POBLADO STA MARIA (LURIGANCHO (CHOSICA)",
+      "detalle": "Correo enviado",
+      "referencia": "401302"
     }
   ]
 }
