@@ -1295,6 +1295,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | GTD PERU - DBA - S414741- S414742",
       "detalle": "Correo enviado",
       "referencia": "314985"
+    },
+    {
+      "id": "2026-09-01T04:39:15-05:00-correo-314985",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:39:15-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | ORANGE - DBA - S314985 - PLIM826_DUTCH_CID128965_LADO CLIENTE",
+      "detalle": "Correo enviado",
+      "referencia": "314985"
     }
   ]
 }
