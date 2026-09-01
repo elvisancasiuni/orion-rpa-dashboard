@@ -2456,6 +2456,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "TIENDAS ENTEL"
+    },
+    {
+      "id": "2026-09-01T09:14:09-05:00-correo-412068",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T09:14:09-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SENATI - DBA - S412068 - AVENIDA 27 DE OCTUBRE NRO. S/N (CAJARURO - UTCUBAMBA - AMAZONAS) (REF: -5.736388889, -78.42763889)",
+      "detalle": "Correo enviado",
+      "referencia": "412068"
     }
   ]
 }
