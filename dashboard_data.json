@@ -1601,6 +1601,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE ECONOMIA Y FINANZAS - DBA - S445134 - PRINCIPAL",
       "detalle": "Correo enviado",
       "referencia": "409917"
+    },
+    {
+      "id": "2026-09-01T04:50:36-05:00-correo-398818",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:50:36-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE ECONOMIA Y FINANZAS - DBA - S445136 - BACKUP",
+      "detalle": "Correo enviado",
+      "referencia": "398818"
     }
   ]
 }
