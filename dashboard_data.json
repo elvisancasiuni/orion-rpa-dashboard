@@ -998,6 +998,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S408206 - AMERICATEL - DGDPAJ -DCMA - DCMA-Sede Central - NEXTNET_CID111998",
       "detalle": "Correo enviado",
       "referencia": "398841"
+    },
+    {
+      "id": "2026-09-01T04:28:29-05:00-correo-408205",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:28:29-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398841 - AMERICATEL - DGDPAJ - Lima Centro - Carabaya",
+      "detalle": "Correo enviado",
+      "referencia": "408205"
     }
   ]
 }
