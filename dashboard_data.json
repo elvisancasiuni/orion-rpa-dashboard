@@ -386,6 +386,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414168 - MASS_ROSATORO_7_SL",
       "detalle": "Correo enviado",
       "referencia": "414168"
+    },
+    {
+      "id": "2026-09-01T03:58:25-05:00-correo-389797",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T03:58:25-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | ALFIN BANCO || SEDE LOS OLIVOS || DBA 389797 || 6M",
+      "detalle": "Correo enviado",
+      "referencia": "389797"
     }
   ]
 }
