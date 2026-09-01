@@ -1709,6 +1709,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S427236-UCV-HUARAZ",
       "detalle": "Correo enviado",
       "referencia": "389797"
+    },
+    {
+      "id": "2026-09-01T15:06:14-05:00-correo-411425",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T15:06:14-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | ALFIN BANCO || SEDE LOS OLIVOS || DBA 389797 || 6M",
+      "detalle": "Correo enviado",
+      "referencia": "411425"
     }
   ]
 }
