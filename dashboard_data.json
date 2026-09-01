@@ -1781,6 +1781,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINJUS - S408208 - PASAJE NEPTUNO NRO. S/N KILOMETRO 14.5 (COMAS - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "437360"
+    },
+    {
+      "id": "2026-09-01T04:57:16-05:00-correo-398873",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:57:16-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S449340 - AMERICATEL - DGDPAJ - Lima Nor Oeste (Ventanilla) - Lima Nor Oeste (Ventanilla) - Sede Central",
+      "detalle": "Correo enviado",
+      "referencia": "398873"
     }
   ]
 }
