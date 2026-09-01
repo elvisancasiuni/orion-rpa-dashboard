@@ -2186,6 +2186,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUNAFIL - DBI - S399842 - PUCALLPA",
       "detalle": "Correo enviado",
       "referencia": "390104"
+    },
+    {
+      "id": "2026-09-01T05:52:25-05:00-correo-412072",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:52:25-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SERVIC NAC DE ADIESTRAM EN TRABAJ INDUST - DBA - S412072",
+      "detalle": "Correo enviado",
+      "referencia": "412072"
     }
   ]
 }
