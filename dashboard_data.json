@@ -935,6 +935,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUTRAN - DBA - S379807 - CARRETERA PANAMERICANA NORTE KILOMETRO 588 (CHICAMA - ASCOPE - LA LIBERTAD)",
       "detalle": "Correo enviado",
       "referencia": "450370"
+    },
+    {
+      "id": "2026-09-01T04:26:12-05:00-correo-459979",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:26:12-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SERVICIOS COMPARTIDOS DE RESTAURANTES S.A.C. - DBA - S450370",
+      "detalle": "Correo enviado",
+      "referencia": "459979"
     }
   ]
 }
