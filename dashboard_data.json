@@ -1826,6 +1826,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_E - AREQUIPA - S437360 - 751233, 751086",
       "detalle": "Correo enviado",
       "referencia": "480124"
+    },
+    {
+      "id": "2026-09-01T04:58:54-05:00-correo-434115",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:58:54-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398873 - AMERICATEL - DGDPAJ - Lima Nor Oeste (Ventanilla) - PODER JUDICIAL MI PERÚ",
+      "detalle": "Correo enviado",
+      "referencia": "434115"
     }
   ]
 }
