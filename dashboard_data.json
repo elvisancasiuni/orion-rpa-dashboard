@@ -2213,6 +2213,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ALFIN BANCO || SEDE LOS OLIVOS || DBA 389797 || 6M",
       "detalle": "Correo enviado",
       "referencia": "389797"
+    },
+    {
+      "id": "2026-09-01T05:53:27-05:00-correo-445088",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:53:27-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE ECONOMIA - S445088 - PRINCIPAL - 2",
+      "detalle": "Correo enviado",
+      "referencia": "445088"
     }
   ]
 }
