@@ -1565,6 +1565,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | AT&T - DBA - S393791",
       "detalle": "Correo enviado",
       "referencia": "445134"
+    },
+    {
+      "id": "2026-09-01T04:49:17-05:00-correo-445136",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:49:17-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398879 - AMERICATEL - DGDPAJ - Lima Este - Los Meteorólogos - La Molina",
+      "detalle": "Correo enviado",
+      "referencia": "445136"
     }
   ]
 }
