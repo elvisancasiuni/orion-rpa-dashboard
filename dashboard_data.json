@@ -773,6 +773,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS - DBI - S464231 - Avenida Carlos Izaguirre Nro. 176 Independencia - Lima",
       "detalle": "Correo enviado",
       "referencia": "464231"
+    },
+    {
+      "id": "2026-09-01T04:20:23-05:00-correo-414015",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:20:23-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414015 - MASS_TELLO_2_CDL",
+      "detalle": "Correo enviado",
+      "referencia": "414015"
     }
   ]
 }
