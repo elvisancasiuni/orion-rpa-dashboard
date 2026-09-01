@@ -854,6 +854,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398831 - AMERICATEL - DGDPAJ - Lima Centro - Corte Suprema",
       "detalle": "Correo enviado",
       "referencia": "408204"
+    },
+    {
+      "id": "2026-08-31T23:24:38-05:00-correo-430615",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T23:24:38-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S408204 - AMERICATEL - DGDPAJ - Lima Centro - CCG - Magdalena - NEXTNET_CID111995",
+      "detalle": "Correo enviado",
+      "referencia": "430615"
     }
   ]
 }
