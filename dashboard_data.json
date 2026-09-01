@@ -1241,6 +1241,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | DIRECCION DE REDES INTEGRADAS DE SALUD LIMA NORTE - NGN - S340594",
       "detalle": "Correo enviado",
       "referencia": "388622"
+    },
+    {
+      "id": "2026-09-01T04:37:18-05:00-correo-398828",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:37:18-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | CORPORACION PERUANA DE AEROPUERTOS Y AVI - TELEFONIA DIGITAL - S388622",
+      "detalle": "Correo enviado",
+      "referencia": "398828"
     }
   ]
 }
