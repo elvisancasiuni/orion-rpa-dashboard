@@ -1178,6 +1178,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398821 - AMERICATEL - DGDPAJ - Lima Centro - E.P._Chorrillos",
       "detalle": "Correo enviado",
       "referencia": "398830"
+    },
+    {
+      "id": "2026-09-01T04:35:00-05:00-correo-398053",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:35:00-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398830 - AMERICATEL - DGDPAJ - Lima Centro - Comisaria de la Victoria - JPL",
+      "detalle": "Correo enviado",
+      "referencia": "398053"
     }
   ]
 }
