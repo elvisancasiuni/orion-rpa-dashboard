@@ -1925,6 +1925,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_A - CAJAMARCA - S258962 - 76711080 al 76711087 | TUP00114 al TUP00121 | Jr. Eten 231, Cajamarca Cercado",
       "detalle": "Correo enviado",
       "referencia": "456198"
+    },
+    {
+      "id": "2026-09-01T05:02:34-05:00-correo-398827",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:02:34-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | IGP-DBI-448759-CONTINGENCIA-80Mbps-SACHACA-AREQUIPA",
+      "detalle": "Correo enviado",
+      "referencia": "398827"
     }
   ]
 }
