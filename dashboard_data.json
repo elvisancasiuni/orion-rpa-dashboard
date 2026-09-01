@@ -845,6 +845,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | RED ENTEL - LIM_SBRJ_AGG_3",
       "detalle": "Correo enviado",
       "referencia": "398898"
+    },
+    {
+      "id": "2026-09-01T04:22:58-05:00-correo-433837",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:22:58-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | DIRECCION DE REDES INTEGRADAS DE SALUD LIMA ESTE - ToIP - S398898",
+      "detalle": "Correo enviado",
+      "referencia": "433837"
     }
   ]
 }
