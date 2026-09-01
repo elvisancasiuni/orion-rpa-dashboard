@@ -1232,6 +1232,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | TDA_ENTEL_REAL_PLAZA_PIURA-DBA_PRI-S398051_BKP_S377379",
       "detalle": "Correo enviado",
       "referencia": "340594"
+    },
+    {
+      "id": "2026-09-01T04:36:59-05:00-correo-388622",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:36:59-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | DIRECCION DE REDES INTEGRADAS DE SALUD LIMA NORTE - NGN - S340594",
+      "detalle": "Correo enviado",
+      "referencia": "388622"
     }
   ]
 }
