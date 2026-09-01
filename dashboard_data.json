@@ -1115,6 +1115,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | TDA_ENTEL - DBA - S423037 - TP_LARCO_BACKUP_OPTICAL_CID18756",
       "detalle": "Correo enviado",
       "referencia": "265545"
+    },
+    {
+      "id": "2026-09-01T04:32:42-05:00-correo-413717",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:32:42-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | AUTORIDAD MUNICIPAL DE LOS PANTANOS DE VILLA-S265545-NGN",
+      "detalle": "Correo enviado",
+      "referencia": "413717"
     }
   ]
 }
