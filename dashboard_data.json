@@ -1889,6 +1889,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS - DBI - S471223 - Avenida Los Ecologos Nro. S/N Mz. J Lte. 30 Asentamiento Humano Heroes Del Cenepa (Ventanilla - Callao - Lima)",
       "detalle": "Correo enviado",
       "referencia": "448759"
+    },
+    {
+      "id": "2026-09-01T05:01:14-05:00-correo-410377",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:01:14-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S409918 - AMERICATEL - DGDPAJ - Lima Nor Oeste (Ventanilla) - Juzgado Penal de Turno Permanente",
+      "detalle": "Correo enviado",
+      "referencia": "410377"
     }
   ]
 }
