@@ -2411,6 +2411,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S379555 - MASS JOSÉ LEAL 8",
       "detalle": "Correo enviado",
       "referencia": "379555"
+    },
+    {
+      "id": "2026-09-01T07:29:16-05:00-whatsapp-SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA 'O ' S.P.S.A.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-01T07:29:16-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA 'O ' S.P.S.A."
     }
   ]
 }
