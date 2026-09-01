@@ -1052,6 +1052,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_A - LA LIBERTAD - S424257 - 44750000 al 44750004 | Av Larco 780, Trujillo",
       "detalle": "Correo enviado",
       "referencia": "368939"
+    },
+    {
+      "id": "2026-09-01T04:30:27-05:00-correo-389801",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:30:27-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBI - S368939 - 02_Santa Martha_Respaldo",
+      "detalle": "Correo enviado",
+      "referencia": "389801"
     }
   ]
 }
