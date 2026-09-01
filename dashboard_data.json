@@ -1421,6 +1421,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S408189 - AMERICATEL - DGDPAJ - Lima Centro - Centro De Diagnóstico Y Rehabilitación Maranga - NEXTNET_CID112008",
       "detalle": "Correo enviado",
       "referencia": "398863"
+    },
+    {
+      "id": "2026-09-01T04:43:56-05:00-correo-408194",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:43:56-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_E - CAJAMARCA - S434113 - 711093, 711094, 711095, 711096",
+      "detalle": "Correo enviado",
+      "referencia": "408194"
     }
   ]
 }
