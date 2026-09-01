@@ -1394,6 +1394,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | homo-starlink",
       "detalle": "Correo enviado",
       "referencia": "408189"
+    },
+    {
+      "id": "2026-09-01T04:42:56-05:00-correo-434113",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:42:56-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | EXPEREO INTERNATIONAL - DBI - S411186 - Huawei AR651",
+      "detalle": "Correo enviado",
+      "referencia": "434113"
     }
   ]
 }
