@@ -2051,6 +2051,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ADECCO PERU S.A. - DBI - S442422",
       "detalle": "Correo enviado",
       "referencia": "399837"
+    },
+    {
+      "id": "2026-09-01T05:07:18-05:00-correo-399833",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:07:18-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_A - ICA - S258955 - 56710994 | TUP00018 | Av. San Martin 170 interior 102 - Ica Cercado",
+      "detalle": "Correo enviado",
+      "referencia": "399833"
     }
   ]
 }
