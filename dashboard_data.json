@@ -1475,6 +1475,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ENTEL VP - DBI - S397604 - Piero Campos",
       "detalle": "Correo enviado",
       "referencia": "398817"
+    },
+    {
+      "id": "2026-09-01T04:45:56-05:00-correo-395050",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:45:56-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS - DBI - S464234 - Avenida PerÚ Nro. S/N (San Martin De Porres - Lima - Lima)",
+      "detalle": "Correo enviado",
+      "referencia": "395050"
     }
   ]
 }
