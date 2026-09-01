@@ -1259,6 +1259,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398828 - AMERICATEL - DGDPAJ - Lima Centro - Módulo Integral de Seguridad y Justicia de la Victoria",
       "detalle": "Correo enviado",
       "referencia": "405123"
+    },
+    {
+      "id": "2026-09-01T04:37:58-05:00-correo-395281",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:37:58-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S405123 - AMERICATEL - PRONABI - La Calera",
+      "detalle": "Correo enviado",
+      "referencia": "395281"
     }
   ]
 }
