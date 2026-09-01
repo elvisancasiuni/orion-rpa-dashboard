@@ -674,6 +674,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414042 - MASS_ESTRELLA_DE_PRO",
       "detalle": "Correo enviado",
       "referencia": "414042"
+    },
+    {
+      "id": "2026-09-01T04:16:40-05:00-correo-247929",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:16:40-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | CONGRESO DE LA REPUBLICA - S247929 - JIRON MIROQUESADA NRO. 247 OFICINA 412, (LIMA - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "247929"
     }
   ]
 }
