@@ -1502,6 +1502,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398817 - AMERICATEL - DGDPAJ - Callao - Antiguo PJ_Callao",
       "detalle": "Correo enviado",
       "referencia": "363101"
+    },
+    {
+      "id": "2026-09-01T04:46:56-05:00-correo-398848",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:46:56-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S395050 - MASS_TACNA9_MA_MS",
+      "detalle": "Correo enviado",
+      "referencia": "398848"
     }
   ]
 }
