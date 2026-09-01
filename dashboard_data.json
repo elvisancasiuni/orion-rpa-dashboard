@@ -1070,6 +1070,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | YOBEL - DBI - S389801 - PRINCIPAL _ BK S389802",
       "detalle": "Correo enviado",
       "referencia": "398831"
+    },
+    {
+      "id": "2026-09-01T04:31:06-05:00-correo-408204",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:31:06-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398831 - AMERICATEL - DGDPAJ - Lima Centro - Corte Suprema",
+      "detalle": "Correo enviado",
+      "referencia": "408204"
     }
   ]
 }
