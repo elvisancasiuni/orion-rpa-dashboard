@@ -2258,6 +2258,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S338636",
       "detalle": "Correo enviado",
       "referencia": "338636"
+    },
+    {
+      "id": "2026-09-01T05:55:10-05:00-correo-465679",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:55:10-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465679 - LEONCIO PRADO CHILCA",
+      "detalle": "Correo enviado",
+      "referencia": "465679"
     }
   ]
 }
