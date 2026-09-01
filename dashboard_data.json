@@ -1547,6 +1547,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398848 - AMERICATEL - DGDPAJ - Lima Este - Santa Anita",
       "detalle": "Correo enviado",
       "referencia": "412240"
+    },
+    {
+      "id": "2026-09-01T04:48:36-05:00-correo-398875",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:48:36-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS - DBI - S471222 - Avenida Lima Nro. 2481 Puesto 77 Piso 2 (San Martin De Porres - Lima - Lima)",
+      "detalle": "Correo enviado",
+      "referencia": "398875"
     }
   ]
 }
