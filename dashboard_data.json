@@ -728,6 +728,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398865 - AMERICATEL - DGDPAJ - Lima Norte - Lima Norte - Sede Central",
       "detalle": "Correo enviado",
       "referencia": "398865"
+    },
+    {
+      "id": "2026-09-01T04:18:41-05:00-correo-414114",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:18:41-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414114 - MASS_INSURGEN_12_CA",
+      "detalle": "Correo enviado",
+      "referencia": "414114"
     }
   ]
 }
