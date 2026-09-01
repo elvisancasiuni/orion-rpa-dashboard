@@ -1988,6 +1988,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE ECONOMIA Y FINANZAS - DBA - S456198 - BACKUP",
       "detalle": "Correo enviado",
       "referencia": "442422"
+    },
+    {
+      "id": "2026-09-01T05:04:57-05:00-correo-258955",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:04:57-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398827 - AMERICATEL - DGDPAJ - Lima Centro - Centro De Diagnóstico Y Rehabilitación Santa Margarita",
+      "detalle": "Correo enviado",
+      "referencia": "258955"
     }
   ]
 }
