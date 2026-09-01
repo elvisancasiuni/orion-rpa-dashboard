@@ -1997,6 +1997,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398827 - AMERICATEL - DGDPAJ - Lima Centro - Centro De Diagnóstico Y Rehabilitación Santa Margarita",
       "detalle": "Correo enviado",
       "referencia": "258955"
+    },
+    {
+      "id": "2026-09-01T05:05:17-05:00-correo-258955",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:05:17-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S447255 - GAMING AND SERVICES S.A.C. - DBI - 10Mbps",
+      "detalle": "Correo enviado",
+      "referencia": "258955"
     }
   ]
 }
