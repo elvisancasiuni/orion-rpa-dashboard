@@ -1655,6 +1655,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398849 - AMERICATEL - DGDPAJ - Lima Este - Las Flores - SJL",
       "detalle": "Correo enviado",
       "referencia": "465633"
+    },
+    {
+      "id": "2026-09-01T04:52:35-05:00-correo-470165",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:52:35-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | PRESIDENCIA DEL CONSEJO DE MINISTROS - DBI - S413499 - BACKUP - AVENIDA CIRCUNVALACIÓN NRO. S/N LTE. 1B - SUBLOTE 1-A FUNDO EL GRAMADAL (MOQUEGUA - MARISCAL NIETO - MOQUEGUA) (REF: -17.18759414, -70.93630271)",
+      "detalle": "Correo enviado",
+      "referencia": "470165"
     }
   ]
 }
