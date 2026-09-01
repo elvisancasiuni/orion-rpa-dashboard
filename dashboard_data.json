@@ -1799,6 +1799,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_E - CAJAMARCA - S434115 - 711104,711105 on Av Jose Carlos Mariategui 357",
       "detalle": "Correo enviado",
       "referencia": "408212"
+    },
+    {
+      "id": "2026-09-01T04:57:55-05:00-correo-459441",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:57:55-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | FRANQUICIAS ALIMENTARIAS S.A - DBA 419432 - PROLONGACION CESAR VALLEJO NRO. 1345 CENTRO COMERCIAL REAL PLAZA TRUIJILLO URB. REAL PLAZA (TRUJILLO - TRUJILLO - LA LIBERTAD)",
+      "detalle": "Correo enviado",
+      "referencia": "459441"
     }
   ]
 }
