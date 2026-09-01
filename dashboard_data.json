@@ -1835,6 +1835,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398873 - AMERICATEL - DGDPAJ - Lima Nor Oeste (Ventanilla) - PODER JUDICIAL MI PERÚ",
       "detalle": "Correo enviado",
       "referencia": "434115"
+    },
+    {
+      "id": "2026-09-01T04:59:14-05:00-correo-471223",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:59:14-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S408212 - AMERICATEL - DGDPAJ - Lima Sur - Sede Central - Centro ALEGRA San Juan de Miraflores - NEXTNET_CID112019",
+      "detalle": "Correo enviado",
+      "referencia": "471223"
     }
   ]
 }
