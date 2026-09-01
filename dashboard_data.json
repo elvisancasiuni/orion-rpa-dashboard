@@ -1763,6 +1763,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398860 - AMERICATEL - DGDPAJ - Lima Norte - MBJ - Carabayllo",
       "detalle": "Correo enviado",
       "referencia": "434115"
+    },
+    {
+      "id": "2026-09-01T04:56:36-05:00-correo-419432",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:56:36-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S408210 - AMERICATEL - DGDPAJ - Lima Sur - Villa El Salvador - NEXTNET_CID112016",
+      "detalle": "Correo enviado",
+      "referencia": "419432"
     }
   ]
 }
