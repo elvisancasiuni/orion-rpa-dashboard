@@ -944,6 +944,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SERVICIOS COMPARTIDOS DE RESTAURANTES S.A.C. - DBA - S450370",
       "detalle": "Correo enviado",
       "referencia": "459979"
+    },
+    {
+      "id": "2026-09-01T04:26:32-05:00-correo-459980",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:26:32-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SENATI - DBI - S459979 - AVENIDA PROCERES DE LA INDEPENDENCIA NRO. 2674 URB. SAN CARLOS (SAN JUAN DE LURIGANCHO - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "459980"
     }
   ]
 }
