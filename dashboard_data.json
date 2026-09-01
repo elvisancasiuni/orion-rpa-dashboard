@@ -206,6 +206,15 @@
       "asunto": "LISTA DE ALARMAS MASIVAS",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-01T01:52:21-05:00-correo-453244",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T01:52:21-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPAÑIA HARD DISCOUNT S.A.C. - DBA - S453244",
+      "detalle": "Correo enviado",
+      "referencia": "453244"
     }
   ]
 }
