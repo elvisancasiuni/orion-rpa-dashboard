@@ -2429,6 +2429,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S427236-UCV-HUARAZ",
       "detalle": "Correo enviado",
       "referencia": "427236"
+    },
+    {
+      "id": "2026-09-01T08:05:33-05:00-whatsapp-UNIVERSIDAD CESAR VALLEJO UCV",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-01T08:05:33-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
     }
   ]
 }
