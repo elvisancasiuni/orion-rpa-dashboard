@@ -26,6 +26,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUTRAN - DBA - S379813 - CARRETERA CENTRAL KILOMETRO 52 (ATE - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "379813"
+    },
+    {
+      "id": "2026-08-31T21:22:16-05:00-correo-338636",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T21:22:16-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S338636",
+      "detalle": "Correo enviado",
+      "referencia": "338636"
     }
   ]
 }
