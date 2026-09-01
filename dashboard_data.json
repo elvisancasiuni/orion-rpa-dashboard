@@ -305,6 +305,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": " SPSA - TIENDAS MASS (HARD DISCOUNT S.A.C)"
+    },
+    {
+      "id": "2026-08-31T22:53:17-05:00-correo-379813",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T22:53:17-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUTRAN - DBA - S379813 - CARRETERA CENTRAL KILOMETRO 52 (ATE - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "379813"
     }
   ]
 }
