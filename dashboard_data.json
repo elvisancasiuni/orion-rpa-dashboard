@@ -2357,6 +2357,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
+    },
+    {
+      "id": "2026-09-01T05:59:06-05:00-whatsapp-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-01T05:59:06-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
     }
   ]
 }
