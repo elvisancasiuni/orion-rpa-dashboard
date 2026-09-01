@@ -2168,6 +2168,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUNAFIL - DBI - S399816 - PRINCIPAL",
       "detalle": "Correo enviado",
       "referencia": "399821"
+    },
+    {
+      "id": "2026-09-01T05:11:39-05:00-correo-399822",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:11:39-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUNAFIL - DBI - S399843 - TACNA",
+      "detalle": "Correo enviado",
+      "referencia": "399822"
     }
   ]
 }
