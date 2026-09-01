@@ -854,6 +854,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | DIRECCION DE REDES INTEGRADAS DE SALUD LIMA ESTE - ToIP - S398898",
       "detalle": "Correo enviado",
       "referencia": "433837"
+    },
+    {
+      "id": "2026-09-01T04:23:16-05:00-correo-383073",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:23:16-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S433837",
+      "detalle": "Correo enviado",
+      "referencia": "383073"
     }
   ]
 }
