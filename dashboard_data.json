@@ -836,6 +836,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ORANGE - DBA - S395685 - PLIM975_CID171118",
       "detalle": "Correo enviado",
       "referencia": "395685"
+    },
+    {
+      "id": "2026-09-01T04:22:38-05:00-correo-398898",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:22:38-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | RED ENTEL - LIM_SBRJ_AGG_3",
+      "detalle": "Correo enviado",
+      "referencia": "398898"
     }
   ]
 }
