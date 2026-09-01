@@ -2105,6 +2105,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUNAFIL – DBI - S399828 - TUMBES",
       "detalle": "Correo enviado",
       "referencia": "399816"
+    },
+    {
+      "id": "2026-09-01T05:09:20-05:00-correo-399843",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:09:20-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUNAFIL - DBI - S399837 - PASCO",
+      "detalle": "Correo enviado",
+      "referencia": "399843"
     }
   ]
 }
