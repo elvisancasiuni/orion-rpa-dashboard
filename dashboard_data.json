@@ -323,6 +323,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "COMERCIAL COLRIDE S.A.C."
+    },
+    {
+      "id": "2026-09-01T02:14:42-05:00-correo-465712",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T02:14:42-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S465712 - DBI - EMEMSA - SEDE AREQUIPA",
+      "detalle": "Correo enviado",
+      "referencia": "465712"
     }
   ]
 }
