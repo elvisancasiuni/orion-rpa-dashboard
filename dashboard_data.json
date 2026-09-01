@@ -1493,6 +1493,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_A - CAJAMARCA - S258961 - 76711024 al 76711031 | TUP00058 al TUP00065 | Jr. Eten 206, Cajamarca Cercado",
       "detalle": "Correo enviado",
       "referencia": "480123"
+    },
+    {
+      "id": "2026-09-01T04:46:37-05:00-correo-363101",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:46:37-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398817 - AMERICATEL - DGDPAJ - Callao - Antiguo PJ_Callao",
+      "detalle": "Correo enviado",
+      "referencia": "363101"
     }
   ]
 }
