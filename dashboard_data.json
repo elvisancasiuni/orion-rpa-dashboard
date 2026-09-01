@@ -1727,6 +1727,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398868 - AMERICATEL - DGDPAJ - Lima Sur - Lurin",
       "detalle": "Correo enviado",
       "referencia": "398860"
+    },
+    {
+      "id": "2026-09-01T04:55:17-05:00-correo-408210",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:55:17-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S408188 - AMERICATEL - DGDPAJ - Lima Sur - Módulo Único de Flagrancia San Juan de Miraflores - NEXTNET_CID112021",
+      "detalle": "Correo enviado",
+      "referencia": "408210"
     }
   ]
 }
