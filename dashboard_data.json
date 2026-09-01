@@ -1268,6 +1268,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S405123 - AMERICATEL - PRONABI - La Calera",
       "detalle": "Correo enviado",
       "referencia": "395281"
+    },
+    {
+      "id": "2026-09-01T04:38:17-05:00-correo-398858",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:38:17-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S395281 - CDT AYACUCHO",
+      "detalle": "Correo enviado",
+      "referencia": "398858"
     }
   ]
 }
