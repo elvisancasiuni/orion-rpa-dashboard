@@ -791,6 +791,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414158 - MASS_LOS_HIGOS",
       "detalle": "Correo enviado",
       "referencia": "414158"
+    },
+    {
+      "id": "2026-09-01T04:21:02-05:00-correo-449216",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:21:02-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TELXIUS CABLE PERU S.A.C. - S449216 - DBA - 100Mbps - PASEO DE LA REPUBLICA NRO. 5895 OFICINA 604 - MIRAFLORES",
+      "detalle": "Correo enviado",
+      "referencia": "449216"
     }
   ]
 }
