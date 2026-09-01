@@ -179,6 +179,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
+    },
+    {
+      "id": "2026-08-31T21:29:25-05:00-whatsapp-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-08-31T21:29:25-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
     }
   ]
 }
