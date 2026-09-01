@@ -2078,6 +2078,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | UNION YCHICAWA S.A. (UYSA) - S390596 - JIRON MONSEFU NRO. 786 (LIMA - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "414021"
+    },
+    {
+      "id": "2026-09-01T05:08:20-05:00-correo-399830",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:08:20-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | INDECOPI - S375739 - S375740 - S375741 - PRI - CALLE DE LA PROSA NRO. 104, (SAN BORJA - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "399830"
     }
   ]
 }
