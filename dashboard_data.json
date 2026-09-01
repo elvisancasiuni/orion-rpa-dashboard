@@ -1034,6 +1034,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398839 - AMERICATEL - DGDPAJ - Lima Centro - Contumaza",
       "detalle": "Correo enviado",
       "referencia": "411748"
+    },
+    {
+      "id": "2026-09-01T04:29:46-05:00-correo-424257",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:29:46-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | FRAVATEL - DBA - S411748",
+      "detalle": "Correo enviado",
+      "referencia": "424257"
     }
   ]
 }
