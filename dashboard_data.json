@@ -1187,6 +1187,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398830 - AMERICATEL - DGDPAJ - Lima Centro - Comisaria de la Victoria - JPL",
       "detalle": "Correo enviado",
       "referencia": "398053"
+    },
+    {
+      "id": "2026-09-01T04:35:20-05:00-correo-448819",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:35:20-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TDA_ENTEL_OPEN_PLAZA_PIURA-DBA_PR-S398053_BK_S377366",
+      "detalle": "Correo enviado",
+      "referencia": "448819"
     }
   ]
 }
