@@ -1376,6 +1376,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ORANGE - DBI - S369280 - PLIM931_SONY_CID157885",
       "detalle": "Correo enviado",
       "referencia": "411186"
+    },
+    {
+      "id": "2026-09-01T04:42:18-05:00-correo-433185",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:42:18-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | RED ENTEL - JUN_TAMB_AGG_1",
+      "detalle": "Correo enviado",
+      "referencia": "433185"
     }
   ]
 }
