@@ -1745,6 +1745,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS - S398854 - AVENIDA SANTA ROSA NRO. 460 (SAN JUAN DE LURIGANCHO - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "408208"
+    },
+    {
+      "id": "2026-09-01T04:55:56-05:00-correo-449340",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:55:56-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398844 - AMERICATEL - DGDPAJ - Lima Este - MBJ - Banchero SJL",
+      "detalle": "Correo enviado",
+      "referencia": "449340"
     }
   ]
 }
