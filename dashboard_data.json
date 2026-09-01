@@ -1664,6 +1664,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | PRESIDENCIA DEL CONSEJO DE MINISTROS - DBI - S413499 - BACKUP - AVENIDA CIRCUNVALACIÓN NRO. S/N LTE. 1B - SUBLOTE 1-A FUNDO EL GRAMADAL (MOQUEGUA - MARISCAL NIETO - MOQUEGUA) (REF: -17.18759414, -70.93630271)",
       "detalle": "Correo enviado",
       "referencia": "470165"
+    },
+    {
+      "id": "2026-09-01T04:52:56-05:00-correo-409919",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:52:56-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS - DBA S398853 - AVENIDA LA MOLINA NRO. S/N MZ. D LTE. 29 (LA MOLINA - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "409919"
     }
   ]
 }
