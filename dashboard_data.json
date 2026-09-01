@@ -1556,6 +1556,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS - DBI - S471222 - Avenida Lima Nro. 2481 Puesto 77 Piso 2 (San Martin De Porres - Lima - Lima)",
       "detalle": "Correo enviado",
       "referencia": "398875"
+    },
+    {
+      "id": "2026-09-01T04:48:56-05:00-correo-445134",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:48:56-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | AT&T - DBA - S393791",
+      "detalle": "Correo enviado",
+      "referencia": "445134"
     }
   ]
 }
