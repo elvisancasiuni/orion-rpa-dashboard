@@ -1340,6 +1340,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398816 - AMERICATEL - DGDPAJ - Callao - E.P. - Callao - Ex Sarita Colonia",
       "detalle": "Correo enviado",
       "referencia": "408211"
+    },
+    {
+      "id": "2026-09-01T04:40:57-05:00-correo-398866",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:40:57-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S408211 - AMERICATEL - DGDPAJ - Lima Este - Lima Este - Sede Central - NEXTNET_CID112017",
+      "detalle": "Correo enviado",
+      "referencia": "398866"
     }
   ]
 }
