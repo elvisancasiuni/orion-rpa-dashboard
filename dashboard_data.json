@@ -2402,6 +2402,15 @@
       "asunto": "LISTA DE ALARMAS MASIVAS",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-01T07:28:49-05:00-correo-379555",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T07:28:49-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S379555 - MASS JOSÉ LEAL 8",
+      "detalle": "Correo enviado",
+      "referencia": "379555"
     }
   ]
 }
