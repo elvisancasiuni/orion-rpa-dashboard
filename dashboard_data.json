@@ -1430,6 +1430,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_E - CAJAMARCA - S434113 - 711093, 711094, 711095, 711096",
       "detalle": "Correo enviado",
       "referencia": "408194"
+    },
+    {
+      "id": "2026-09-01T04:44:16-05:00-correo-398861",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:44:16-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | DBA - S456106 - ZONA REGISTRAL N XII - SUNARP - PARRA BACKUP - 20 Mbps",
+      "detalle": "Correo enviado",
+      "referencia": "398861"
     }
   ]
 }
