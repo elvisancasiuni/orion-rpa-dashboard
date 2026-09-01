@@ -1970,6 +1970,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | RED ENTEL - LIM_ECDR_AGG_1",
       "detalle": "Correo enviado",
       "referencia": "409131"
+    },
+    {
+      "id": "2026-09-01T05:04:15-05:00-correo-383072",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:04:15-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S478071 - S478072 - AT&T GLOBAL NETWORK",
+      "detalle": "Correo enviado",
+      "referencia": "383072"
     }
   ]
 }
