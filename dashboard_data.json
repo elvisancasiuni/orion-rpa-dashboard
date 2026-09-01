@@ -1277,6 +1277,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S395281 - CDT AYACUCHO",
       "detalle": "Correo enviado",
       "referencia": "398858"
+    },
+    {
+      "id": "2026-09-01T04:38:36-05:00-correo-414741",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:38:36-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398858 - AMERICATEL - DGDPAJ - Lima Norte - Canta",
+      "detalle": "Correo enviado",
+      "referencia": "414741"
     }
   ]
 }
