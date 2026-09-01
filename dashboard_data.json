@@ -1196,6 +1196,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | TDA_ENTEL_OPEN_PLAZA_PIURA-DBA_PR-S398053_BK_S377366",
       "detalle": "Correo enviado",
       "referencia": "448819"
+    },
+    {
+      "id": "2026-09-01T04:35:40-05:00-correo-408185",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:35:40-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S448819 - DBA - MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS - AVENIDA COMANDANTE ESPINAR NRO. 160 (MIRAFLORES - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "408185"
     }
   ]
 }
