@@ -926,6 +926,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_E - LA LIBERTAD - S436291 - 750007, 750008",
       "detalle": "Correo enviado",
       "referencia": "379807"
+    },
+    {
+      "id": "2026-09-01T04:25:53-05:00-correo-450370",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:25:53-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUTRAN - DBA - S379807 - CARRETERA PANAMERICANA NORTE KILOMETRO 588 (CHICAMA - ASCOPE - LA LIBERTAD)",
+      "detalle": "Correo enviado",
+      "referencia": "450370"
     }
   ]
 }
