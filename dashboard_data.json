@@ -1880,6 +1880,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_E - CAJAMARCA - S434115 - 711100,711101,711102,711103 on Av Jose Carlos Mariategui 357",
       "detalle": "Correo enviado",
       "referencia": "258962"
+    },
+    {
+      "id": "2026-09-01T05:00:55-05:00-correo-448759",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:00:55-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS - DBI - S471223 - Avenida Los Ecologos Nro. S/N Mz. J Lte. 30 Asentamiento Humano Heroes Del Cenepa (Ventanilla - Callao - Lima)",
+      "detalle": "Correo enviado",
+      "referencia": "448759"
     }
   ]
 }
