@@ -1448,6 +1448,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398863 - AMERICATEL - DGDPAJ - Lima Norte - MBJ - Condevilla",
       "detalle": "Correo enviado",
       "referencia": "397604"
+    },
+    {
+      "id": "2026-09-01T04:44:55-05:00-correo-464234",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:44:55-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S408194 - AMERICATEL - DGDPAJ - Callao - Ministerio Público, Primer Piso, Fiscalía De Familia – Infractores Callao - NEXTNET_CID111997",
+      "detalle": "Correo enviado",
+      "referencia": "464234"
     }
   ]
 }
