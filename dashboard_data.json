@@ -1871,6 +1871,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINJUS - S480124 - AVENIDA LAS DALIAS NRO. S/N MZ. V26 LTE. 12 URB. SATELITE VENTANILLA",
       "detalle": "Correo enviado",
       "referencia": "398871"
+    },
+    {
+      "id": "2026-09-01T05:00:35-05:00-correo-258962",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:00:35-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_E - CAJAMARCA - S434115 - 711100,711101,711102,711103 on Av Jose Carlos Mariategui 357",
+      "detalle": "Correo enviado",
+      "referencia": "258962"
     }
   ]
 }
