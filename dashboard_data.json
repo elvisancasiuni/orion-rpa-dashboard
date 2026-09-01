@@ -1214,6 +1214,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | DBA - S456106 - ZONA REGISTRAL N XII - SUNARP - PARRA BACKUP - 20 Mbps",
       "detalle": "Correo enviado",
       "referencia": "398861"
+    },
+    {
+      "id": "2026-08-31T23:38:39-05:00-correo-397604",
+      "tipo": "correo",
+      "fecha_hora": "2026-08-31T23:38:39-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398863 - AMERICATEL - DGDPAJ - Lima Norte - MBJ - Condevilla",
+      "detalle": "Correo enviado",
+      "referencia": "397604"
     }
   ]
 }
