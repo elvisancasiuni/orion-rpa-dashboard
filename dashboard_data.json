@@ -1952,6 +1952,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ENTEL PERU S.A. - S410377 - DBA - 50 Mbps - TPF_TUMBES_PR",
       "detalle": "Correo enviado",
       "referencia": "397547"
+    },
+    {
+      "id": "2026-09-01T05:03:34-05:00-correo-409132",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T05:03:34-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | INVERSIONES MAMAY E.I.R.L - S401302 - PASAJE RADA NRO. 154 (CHORRILLOS - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "409132"
     }
   ]
 }
