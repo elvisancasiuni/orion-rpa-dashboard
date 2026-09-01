@@ -1412,6 +1412,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S433185-FW-BES-TUMBES-OFICINA2",
       "detalle": "Correo enviado",
       "referencia": "456106"
+    },
+    {
+      "id": "2026-09-01T04:43:36-05:00-correo-398863",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-01T04:43:36-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S408189 - AMERICATEL - DGDPAJ - Lima Centro - Centro De Diagnóstico Y Rehabilitación Maranga - NEXTNET_CID112008",
+      "detalle": "Correo enviado",
+      "referencia": "398863"
     }
   ]
 }
