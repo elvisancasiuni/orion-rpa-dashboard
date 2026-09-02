@@ -2636,6 +2636,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S338636",
       "detalle": "Correo enviado",
       "referencia": "338636"
+    },
+    {
+      "id": "2026-09-02T02:01:55-05:00-correo-398358",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-02T02:01:55-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | ENTEL VP - DBI - S398358 - Francisco Dulanto",
+      "detalle": "Correo enviado",
+      "referencia": "398358"
     }
   ]
 }
