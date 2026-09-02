@@ -2744,6 +2744,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "ORANGE BUSINESS SERVICES US INC "
+    },
+    {
+      "id": "2026-09-02T02:24:00-05:00-correo-414922",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-02T02:24:00-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | GTD PERU - DBA - S414922 - S414923",
+      "detalle": "Correo enviado",
+      "referencia": "414922"
     }
   ]
 }
