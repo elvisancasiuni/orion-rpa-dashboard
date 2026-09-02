@@ -2708,6 +2708,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "COMERCIAL COLRIDE S.A.C."
+    },
+    {
+      "id": "2026-09-02T02:05:07-05:00-whatsapp-TIENDAS ENTEL",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-02T02:05:07-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "TIENDAS ENTEL"
     }
   ]
 }
