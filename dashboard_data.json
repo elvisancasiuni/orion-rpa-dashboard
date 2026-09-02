@@ -2168,6 +2168,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "PRISONTEC"
+    },
+    {
+      "id": "2026-09-02T05:43:53-05:00-whatsapp-PRISONTEC",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-02T05:43:53-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "PRISONTEC"
     }
   ]
 }
