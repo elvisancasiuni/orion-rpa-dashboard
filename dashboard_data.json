@@ -35,6 +35,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465642 - ECER LORETO",
       "detalle": "Correo enviado",
       "referencia": "465642"
+    },
+    {
+      "id": "2026-09-02T12:08:23-05:00-whatsapp-Netcall CLBS",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-02T12:08:23-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "Netcall CLBS"
     }
   ]
 }
