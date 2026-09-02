@@ -2258,6 +2258,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | GTD PERU - DBA - S414929_S414928",
       "detalle": "Correo enviado",
       "referencia": "414929"
+    },
+    {
+      "id": "2026-09-02T06:15:31-05:00-correo-338636",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-02T06:15:31-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S338636",
+      "detalle": "Correo enviado",
+      "referencia": "338636"
     }
   ]
 }
