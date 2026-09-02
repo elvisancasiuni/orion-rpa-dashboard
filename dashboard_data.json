@@ -2177,6 +2177,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "PRISONTEC"
+    },
+    {
+      "id": "2026-09-02T05:44:39-05:00-correo-465353",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-02T05:44:39-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TGP - DBA - S465353 - SCADA PS3",
+      "detalle": "Correo enviado",
+      "referencia": "465353"
     }
   ]
 }
