@@ -2366,6 +2366,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ALFIN BANCO || SEDE SURCO INTERNET || DBI 415818 || 300M",
       "detalle": "Correo enviado",
       "referencia": "399402"
+    },
+    {
+      "id": "2026-09-02T06:20:01-05:00-correo-398859",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-02T06:20:01-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | ALFIN BANCO || CABECERA SURCO_PR-DBA_399402 || 500M ||BK_399403",
+      "detalle": "Correo enviado",
+      "referencia": "398859"
     }
   ]
 }
