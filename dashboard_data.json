@@ -2753,6 +2753,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | GTD PERU - DBA - S414922 - S414923",
       "detalle": "Correo enviado",
       "referencia": "414922"
+    },
+    {
+      "id": "2026-09-02T02:24:29-05:00-whatsapp-GTD PERU S.A",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-02T02:24:29-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "GTD PERU S.A"
     }
   ]
 }
