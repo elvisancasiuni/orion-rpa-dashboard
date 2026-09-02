@@ -2780,6 +2780,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "TELEFONICA DEL PERU S.A.A."
+    },
+    {
+      "id": "2026-09-02T03:00:25-05:00-correo-483607",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-02T03:00:25-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S483607 - SERNANP - AREQUIPA - DBI STK",
+      "detalle": "Correo enviado",
+      "referencia": "483607"
     }
   ]
 }
