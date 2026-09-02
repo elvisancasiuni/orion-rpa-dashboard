@@ -2735,6 +2735,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "AT & T GLOBAL NETWORK SERVICES DEL PERU S.R.L."
+    },
+    {
+      "id": "2026-09-02T02:06:23-05:00-whatsapp-ORANGE BUSINESS SERVICES US INC ",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-02T02:06:23-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "ORANGE BUSINESS SERVICES US INC "
     }
   ]
 }
