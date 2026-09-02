@@ -2024,6 +2024,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ENTEL VP - DBI - S398358 - Francisco Dulanto",
       "detalle": "Correo enviado",
       "referencia": "398358"
+    },
+    {
+      "id": "2026-09-02T05:36:11-05:00-correo-465679",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-02T05:36:11-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465679 - LEONCIO PRADO CHILCA",
+      "detalle": "Correo enviado",
+      "referencia": "465679"
     }
   ]
 }
