@@ -2717,6 +2717,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "TIENDAS ENTEL"
+    },
+    {
+      "id": "2026-09-02T02:05:33-05:00-whatsapp-MINISTERIO DE TRANSPORTES Y COMUNICACION",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-02T02:05:33-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
     }
   ]
 }
