@@ -2762,6 +2762,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "GTD PERU S.A"
+    },
+    {
+      "id": "2026-09-02T02:26:49-05:00-correo-433621",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-02T02:26:49-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | AJEPER DEL ORIENTE S.A - S433621 - DBI - 35Mbps - JIRON GUILLERMO SISLEY NRO. 1523 - TARAPOTO",
+      "detalle": "Correo enviado",
+      "referencia": "433621"
     }
   ]
 }
