@@ -1,49 +1,4 @@
 {
   "events": [
-    {
-      "id": "2026-09-02T12:02:14-05:00-masiva-masivo",
-      "tipo": "masiva",
-      "fecha_hora": "2026-09-02T12:02:14-05:00",
-      "cantidad": 1,
-      "asunto": "LISTA DE ALARMAS MASIVAS",
-      "detalle": "Evento masivo enviado por WhatsApp",
-      "referencia": "masivo"
-    },
-    {
-      "id": "2026-09-02T12:05:02-05:00-correo-444551",
-      "tipo": "correo",
-      "fecha_hora": "2026-09-02T12:05:02-05:00",
-      "cantidad": 1,
-      "asunto": "MONITOREO | STATUS: SERVICE DOWN | ALFIN BANCO || SEDE PUCALLPA || DBA 444551 || 6M",
-      "detalle": "Correo enviado",
-      "referencia": "444551"
-    },
-    {
-      "id": "2026-09-02T12:05:22-05:00-whatsapp-ALFIN BANCO S.A.  (EX BANCO AZTECA)",
-      "tipo": "whatsapp",
-      "fecha_hora": "2026-09-02T12:05:22-05:00",
-      "cantidad": 1,
-      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
-      "detalle": "Mensaje WhatsApp enviado",
-      "referencia": "ALFIN BANCO S.A.  (EX BANCO AZTECA)"
-    },
-    {
-      "id": "2026-09-02T12:07:59-05:00-correo-465642",
-      "tipo": "correo",
-      "fecha_hora": "2026-09-02T12:07:59-05:00",
-      "cantidad": 1,
-      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465642 - ECER LORETO",
-      "detalle": "Correo enviado",
-      "referencia": "465642"
-    },
-    {
-      "id": "2026-09-02T12:08:23-05:00-whatsapp-Netcall CLBS",
-      "tipo": "whatsapp",
-      "fecha_hora": "2026-09-02T12:08:23-05:00",
-      "cantidad": 1,
-      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
-      "detalle": "Mensaje WhatsApp enviado",
-      "referencia": "Netcall CLBS"
-    }
   ]
 }
