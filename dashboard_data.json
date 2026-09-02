@@ -2051,6 +2051,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | PRISONTEC S.A.C. - S473510 - COORDENADA -6.160792,-77.868778 (HUANCAS - CHACHAPOYAS - AMAZONAS)",
       "detalle": "Correo enviado",
       "referencia": "473510"
+    },
+    {
+      "id": "2026-09-02T05:37:23-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-09-02T05:37:23-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
     }
   ]
 }
