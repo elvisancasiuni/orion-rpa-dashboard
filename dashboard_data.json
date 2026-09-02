@@ -2231,6 +2231,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "TRANSPORTADORA DE GAS DEL PERU"
+    },
+    {
+      "id": "2026-09-02T06:14:24-05:00-correo-483607",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-02T06:14:24-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S483607 - SERNANP - AREQUIPA - DBI STK",
+      "detalle": "Correo enviado",
+      "referencia": "483607"
     }
   ]
 }
