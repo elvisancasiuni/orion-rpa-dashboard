@@ -2807,6 +2807,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | TGP - DBA - S465353 - SCADA PS3",
       "detalle": "Correo enviado",
       "referencia": "465353"
+    },
+    {
+      "id": "2026-09-02T06:32:13-05:00-whatsapp-TRANSPORTADORA DE GAS DEL PERU",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-02T06:32:13-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "TRANSPORTADORA DE GAS DEL PERU"
     }
   ]
 }
