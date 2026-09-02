@@ -2555,6 +2555,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "LA TINKA S.A."
+    },
+    {
+      "id": "2026-09-02T01:25:37-05:00-whatsapp-GTD PERU S.A",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-02T01:25:37-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "GTD PERU S.A"
     }
   ]
 }
