@@ -2285,6 +2285,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | AT&T GLOBAL NETWORK SERVICES PERU S.R.L. - DBI - S430942",
       "detalle": "Correo enviado",
       "referencia": "430942"
+    },
+    {
+      "id": "2026-09-02T06:16:40-05:00-correo-297198",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-02T06:16:40-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | RED ENTEL - SW_BD8810_ACC_MIL",
+      "detalle": "Correo enviado",
+      "referencia": "297198"
     }
   ]
 }
