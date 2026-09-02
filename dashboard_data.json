@@ -26,6 +26,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "ALFIN BANCO S.A.  (EX BANCO AZTECA)"
+    },
+    {
+      "id": "2026-09-02T12:07:59-05:00-correo-465642",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-02T12:07:59-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465642 - ECER LORETO",
+      "detalle": "Correo enviado",
+      "referencia": "465642"
     }
   ]
 }
