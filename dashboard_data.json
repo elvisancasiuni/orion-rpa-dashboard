@@ -2564,6 +2564,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "GTD PERU S.A"
+    },
+    {
+      "id": "2026-09-02T01:26:02-05:00-whatsapp-COMERCIAL COLRIDE S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-02T01:26:02-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "COMERCIAL COLRIDE S.A.C."
     }
   ]
 }
