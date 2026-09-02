@@ -2672,6 +2672,24 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | RED ENTEL - SW_BD8810_ACC_MIL",
       "detalle": "Correo enviado",
       "referencia": "297198"
+    },
+    {
+      "id": "2026-09-02T02:03:21-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-09-02T02:03:21-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-02T02:03:50-05:00-whatsapp-LA TINKA S.A.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-02T02:03:50-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "LA TINKA S.A."
     }
   ]
 }
