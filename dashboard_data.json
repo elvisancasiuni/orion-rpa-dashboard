@@ -8,6 +8,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414155 - MASS_NICOLINI_2",
       "detalle": "Correo enviado",
       "referencia": "414155"
+    },
+    {
+      "id": "2026-09-03T17:39:48-05:00-correo-450303",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-03T17:39:48-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S450303-S450304 DBA_MGMT",
+      "detalle": "Correo enviado",
+      "referencia": "450303"
     }
   ]
 }
