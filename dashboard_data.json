@@ -521,6 +521,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | H & M HENNES & MAURITZ S.A.C. - S368996 - DBI - PPEE - LAS CASUARINAS, Prolongación CESAR VALLEJO nro. 1345",
       "detalle": "Correo enviado",
       "referencia": "368996"
+    },
+    {
+      "id": "2026-09-04T04:52:49-05:00-correo-471608",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T04:52:49-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S471608 DORELL CAB BK",
+      "detalle": "Correo enviado",
+      "referencia": "471608"
     }
   ]
 }
