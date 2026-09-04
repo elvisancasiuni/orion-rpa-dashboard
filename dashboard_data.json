@@ -1,4 +1,643 @@
 {
   "events": [
+    {
+      "id": "2026-09-03T17:39:20-05:00-correo-414155",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-03T17:39:20-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414155 - MASS_NICOLINI_2",
+      "detalle": "Correo enviado",
+      "referencia": "414155"
+    },
+    {
+      "id": "2026-09-03T17:39:48-05:00-correo-450303",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-03T17:39:48-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S450303-S450304 DBA_MGMT",
+      "detalle": "Correo enviado",
+      "referencia": "450303"
+    },
+    {
+      "id": "2026-09-03T17:40:16-05:00-correo-395685",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-03T17:40:16-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | ORANGE - DBA - S395685 - PLIM975_CID171118",
+      "detalle": "Correo enviado",
+      "referencia": "395685"
+    },
+    {
+      "id": "2026-09-03T23:23:11-05:00-correo-486044",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-03T23:23:11-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S486044-UCV-Lima Centro",
+      "detalle": "Correo enviado",
+      "referencia": "486044"
+    },
+    {
+      "id": "2026-09-03T23:23:46-05:00-correo-391728",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-03T23:23:46-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
+      "detalle": "Correo enviado",
+      "referencia": "391728"
+    },
+    {
+      "id": "2026-09-03T23:24:39-05:00-correo-368759",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-03T23:24:39-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBI - S368759 - 16_Collique",
+      "detalle": "Correo enviado",
+      "referencia": "368759"
+    },
+    {
+      "id": "2026-09-03T23:25:31-05:00-correo-368760",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-03T23:25:31-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBA - S368760 - 16_Collique",
+      "detalle": "Correo enviado",
+      "referencia": "368760"
+    },
+    {
+      "id": "2026-09-03T23:25:45-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-09-03T23:25:45-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-03T23:26:23-05:00-whatsapp-UNIVERSIDAD CESAR VALLEJO UCV",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-03T23:26:23-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
+    },
+    {
+      "id": "2026-09-03T23:35:42-05:00-correo-486044",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-03T23:35:42-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S486044-UCV-Lima Centro",
+      "detalle": "Correo enviado",
+      "referencia": "486044"
+    },
+    {
+      "id": "2026-09-03T23:36:18-05:00-correo-391728",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-03T23:36:18-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
+      "detalle": "Correo enviado",
+      "referencia": "391728"
+    },
+    {
+      "id": "2026-09-03T23:37:13-05:00-correo-368759",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-03T23:37:13-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBI - S368759 - 16_Collique",
+      "detalle": "Correo enviado",
+      "referencia": "368759"
+    },
+    {
+      "id": "2026-09-03T23:38:07-05:00-correo-368760",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-03T23:38:07-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBA - S368760 - 16_Collique",
+      "detalle": "Correo enviado",
+      "referencia": "368760"
+    },
+    {
+      "id": "2026-09-03T23:38:30-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-09-03T23:38:30-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-03T23:39:22-05:00-whatsapp-UNIVERSIDAD CESAR VALLEJO UCV",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-03T23:39:22-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
+    },
+    {
+      "id": "2026-09-04T00:07:40-05:00-correo-391728",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T00:07:40-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
+      "detalle": "Correo enviado",
+      "referencia": "391728"
+    },
+    {
+      "id": "2026-09-04T00:08:33-05:00-correo-368759",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T00:08:33-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBI - S368759 - 16_Collique",
+      "detalle": "Correo enviado",
+      "referencia": "368759"
+    },
+    {
+      "id": "2026-09-04T00:09:22-05:00-correo-368760",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T00:09:22-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBA - S368760 - 16_Collique",
+      "detalle": "Correo enviado",
+      "referencia": "368760"
+    },
+    {
+      "id": "2026-09-04T00:09:47-05:00-correo-473198",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T00:09:47-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | OPTICAL NETWORKS S.A.C. DBA S473198",
+      "detalle": "Correo enviado",
+      "referencia": "473198"
+    },
+    {
+      "id": "2026-09-04T00:09:59-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-09-04T00:09:59-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-04T00:44:46-05:00-correo-391728",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T00:44:46-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
+      "detalle": "Correo enviado",
+      "referencia": "391728"
+    },
+    {
+      "id": "2026-09-04T00:45:34-05:00-correo-368759",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T00:45:34-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBI - S368759 - 16_Collique",
+      "detalle": "Correo enviado",
+      "referencia": "368759"
+    },
+    {
+      "id": "2026-09-04T00:46:23-05:00-correo-368760",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T00:46:23-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBA - S368760 - 16_Collique",
+      "detalle": "Correo enviado",
+      "referencia": "368760"
+    },
+    {
+      "id": "2026-09-04T00:46:48-05:00-correo-473198",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T00:46:48-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | OPTICAL NETWORKS S.A.C. DBA S473198",
+      "detalle": "Correo enviado",
+      "referencia": "473198"
+    },
+    {
+      "id": "2026-09-04T00:47:01-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-09-04T00:47:01-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-04T01:20:15-05:00-correo-395283",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T01:20:15-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S395283 - OSOA Aeropuerto Nazca",
+      "detalle": "Correo enviado",
+      "referencia": "395283"
+    },
+    {
+      "id": "2026-09-04T01:20:51-05:00-correo-391728",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T01:20:51-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
+      "detalle": "Correo enviado",
+      "referencia": "391728"
+    },
+    {
+      "id": "2026-09-04T01:21:41-05:00-correo-368759",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T01:21:41-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBI - S368759 - 16_Collique",
+      "detalle": "Correo enviado",
+      "referencia": "368759"
+    },
+    {
+      "id": "2026-09-04T01:22:29-05:00-correo-368760",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T01:22:29-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBA - S368760 - 16_Collique",
+      "detalle": "Correo enviado",
+      "referencia": "368760"
+    },
+    {
+      "id": "2026-09-04T01:22:45-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-09-04T01:22:45-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-04T01:34:37-05:00-correo-395283",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T01:34:37-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S395283 - OSOA Aeropuerto Nazca",
+      "detalle": "Correo enviado",
+      "referencia": "395283"
+    },
+    {
+      "id": "2026-09-04T01:35:09-05:00-correo-391728",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T01:35:09-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
+      "detalle": "Correo enviado",
+      "referencia": "391728"
+    },
+    {
+      "id": "2026-09-04T01:35:58-05:00-correo-368759",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T01:35:58-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBI - S368759 - 16_Collique",
+      "detalle": "Correo enviado",
+      "referencia": "368759"
+    },
+    {
+      "id": "2026-09-04T01:36:45-05:00-correo-368760",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T01:36:45-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBA - S368760 - 16_Collique",
+      "detalle": "Correo enviado",
+      "referencia": "368760"
+    },
+    {
+      "id": "2026-09-04T01:37:02-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-09-04T01:37:02-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-04T01:55:33-05:00-correo-312990",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T01:55:33-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | H & M HENNES & MAURITZ S.A.C. - S312990 - DBI - PPEE - Centro Comercial PLAZA NORTE",
+      "detalle": "Correo enviado",
+      "referencia": "312990"
+    },
+    {
+      "id": "2026-09-04T01:56:02-05:00-correo-484476",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T01:56:02-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | AT&T GLOBAL NETWORK SERVICES PERU S.R.L. - DBI - S484476",
+      "detalle": "Correo enviado",
+      "referencia": "484476"
+    },
+    {
+      "id": "2026-09-04T01:56:32-05:00-correo-391728",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T01:56:32-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
+      "detalle": "Correo enviado",
+      "referencia": "391728"
+    },
+    {
+      "id": "2026-09-04T01:57:18-05:00-correo-368759",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T01:57:18-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBI - S368759 - 16_Collique",
+      "detalle": "Correo enviado",
+      "referencia": "368759"
+    },
+    {
+      "id": "2026-09-04T01:57:28-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-09-04T01:57:28-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-04T02:10:33-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-09-04T02:10:33-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-04T02:11:36-05:00-whatsapp-COMPARTAMOS FINANCIERA S.A.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-04T02:11:36-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "COMPARTAMOS FINANCIERA S.A."
+    },
+    {
+      "id": "2026-09-04T02:12:08-05:00-whatsapp-COMPARTAMOS FINANCIERA S.A.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-04T02:12:08-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "COMPARTAMOS FINANCIERA S.A."
+    },
+    {
+      "id": "2026-09-04T02:13:18-05:00-whatsapp-COMPARTAMOS FINANCIERA S.A.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-04T02:13:18-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "COMPARTAMOS FINANCIERA S.A."
+    },
+    {
+      "id": "2026-09-04T02:53:57-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-09-04T02:53:57-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-04T02:56:07-05:00-whatsapp-COMPARTAMOS FINANCIERA S.A.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-04T02:56:07-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "COMPARTAMOS FINANCIERA S.A."
+    },
+    {
+      "id": "2026-09-04T03:12:36-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-09-04T03:12:36-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-04T03:32:18-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-09-04T03:32:18-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-04T03:48:01-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-09-04T03:48:01-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-04T03:48:26-05:00-whatsapp-UNION YCHICAWA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-04T03:48:26-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNION YCHICAWA"
+    },
+    {
+      "id": "2026-09-04T04:10:47-05:00-correo-390579",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T04:10:47-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | UNION YCHICAWA - S390579 - Server-Db.uysa.com.pe",
+      "detalle": "Correo enviado",
+      "referencia": "390579"
+    },
+    {
+      "id": "2026-09-04T04:11:38-05:00-correo-368996",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T04:11:38-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | H & M HENNES & MAURITZ S.A.C. - S368996 - DBI - PPEE - LAS CASUARINAS, Prolongación CESAR VALLEJO nro. 1345",
+      "detalle": "Correo enviado",
+      "referencia": "368996"
+    },
+    {
+      "id": "2026-09-04T04:12:14-05:00-correo-471608",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T04:12:14-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S471608 DORELL CAB BK",
+      "detalle": "Correo enviado",
+      "referencia": "471608"
+    },
+    {
+      "id": "2026-09-04T04:13:04-05:00-correo-487603",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T04:13:04-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS BANCO S.A. - DBI - S487603",
+      "detalle": "Correo enviado",
+      "referencia": "487603"
+    },
+    {
+      "id": "2026-09-04T04:29:05-05:00-correo-390579",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T04:29:05-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | UNION YCHICAWA - S390579 - Server-Db.uysa.com.pe",
+      "detalle": "Correo enviado",
+      "referencia": "390579"
+    },
+    {
+      "id": "2026-09-04T04:50:48-05:00-correo-390579",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T04:50:48-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | UNION YCHICAWA - S390579 - ServerWeb2024.uysa.com.pe",
+      "detalle": "Correo enviado",
+      "referencia": "390579"
+    },
+    {
+      "id": "2026-09-04T04:51:24-05:00-correo-390579",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T04:51:24-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | UNION YCHICAWA - S390579 - Server-Db.uysa.com.pe",
+      "detalle": "Correo enviado",
+      "referencia": "390579"
+    },
+    {
+      "id": "2026-09-04T04:52:13-05:00-correo-368996",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T04:52:13-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | H & M HENNES & MAURITZ S.A.C. - S368996 - DBI - PPEE - LAS CASUARINAS, Prolongación CESAR VALLEJO nro. 1345",
+      "detalle": "Correo enviado",
+      "referencia": "368996"
+    },
+    {
+      "id": "2026-09-04T04:52:49-05:00-correo-471608",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T04:52:49-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S471608 DORELL CAB BK",
+      "detalle": "Correo enviado",
+      "referencia": "471608"
+    },
+    {
+      "id": "2026-09-04T04:53:06-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-09-04T04:53:06-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-04T04:53:41-05:00-whatsapp-UNION YCHICAWA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-04T04:53:41-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNION YCHICAWA"
+    },
+    {
+      "id": "2026-09-04T04:54:15-05:00-whatsapp-UNION YCHICAWA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-04T04:54:15-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNION YCHICAWA"
+    },
+    {
+      "id": "2026-09-04T04:54:50-05:00-whatsapp-UNION YCHICAWA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-04T04:54:50-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNION YCHICAWA"
+    },
+    {
+      "id": "2026-09-04T04:55:21-05:00-whatsapp-UNION YCHICAWA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-04T04:55:21-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNION YCHICAWA"
+    },
+    {
+      "id": "2026-09-04T04:55:52-05:00-whatsapp-UNION YCHICAWA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-04T04:55:52-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNION YCHICAWA"
+    },
+    {
+      "id": "2026-09-04T04:56:23-05:00-whatsapp-UNION YCHICAWA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-04T04:56:23-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNION YCHICAWA"
+    },
+    {
+      "id": "2026-09-04T04:57:19-05:00-whatsapp-TRANSPORTADORA DE GAS DEL PERU",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-04T04:57:19-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "TRANSPORTADORA DE GAS DEL PERU"
+    },
+    {
+      "id": "2026-09-04T04:57:45-05:00-whatsapp-TRANSPORTADORA DE GAS DEL PERU",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-04T04:57:45-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "TRANSPORTADORA DE GAS DEL PERU"
+    },
+    {
+      "id": "2026-09-04T04:58:18-05:00-whatsapp-TRANSPORTADORA DE GAS DEL PERU",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-04T04:58:18-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "TRANSPORTADORA DE GAS DEL PERU"
+    },
+    {
+      "id": "2026-09-04T04:59:11-05:00-whatsapp-TRANSPORTADORA DE GAS DEL PERU",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-04T04:59:11-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "TRANSPORTADORA DE GAS DEL PERU"
+    },
+    {
+      "id": "2026-09-04T04:59:38-05:00-whatsapp-TRANSPORTADORA DE GAS DEL PERU",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-04T04:59:38-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "TRANSPORTADORA DE GAS DEL PERU"
+    }
   ]
 }
