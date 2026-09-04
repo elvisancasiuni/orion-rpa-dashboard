@@ -224,6 +224,15 @@
       "asunto": "LISTA DE ALARMAS MASIVAS",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-04T01:20:15-05:00-correo-395283",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T01:20:15-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S395283 - OSOA Aeropuerto Nazca",
+      "detalle": "Correo enviado",
+      "referencia": "395283"
     }
   ]
 }
