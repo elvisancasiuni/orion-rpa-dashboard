@@ -125,6 +125,15 @@
       "asunto": "LISTA DE ALARMAS MASIVAS",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-03T23:39:22-05:00-whatsapp-UNIVERSIDAD CESAR VALLEJO UCV",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-03T23:39:22-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
     }
   ]
 }
