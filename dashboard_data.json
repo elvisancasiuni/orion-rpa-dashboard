@@ -449,6 +449,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "UNION YCHICAWA"
+    },
+    {
+      "id": "2026-09-04T04:10:47-05:00-correo-390579",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T04:10:47-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | UNION YCHICAWA - S390579 - Server-Db.uysa.com.pe",
+      "detalle": "Correo enviado",
+      "referencia": "390579"
     }
   ]
 }
