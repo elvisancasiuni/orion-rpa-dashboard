@@ -332,6 +332,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | AT&T GLOBAL NETWORK SERVICES PERU S.R.L. - DBI - S484476",
       "detalle": "Correo enviado",
       "referencia": "484476"
+    },
+    {
+      "id": "2026-09-04T01:56:32-05:00-correo-391728",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T01:56:32-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
+      "detalle": "Correo enviado",
+      "referencia": "391728"
     }
   ]
 }
