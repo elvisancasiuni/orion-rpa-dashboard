@@ -62,6 +62,24 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBA - S368760 - 16_Collique",
       "detalle": "Correo enviado",
       "referencia": "368760"
+    },
+    {
+      "id": "2026-09-03T23:25:45-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-09-03T23:25:45-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-03T23:26:23-05:00-whatsapp-UNIVERSIDAD CESAR VALLEJO UCV",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-03T23:26:23-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
     }
   ]
 }
