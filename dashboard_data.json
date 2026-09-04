@@ -143,6 +143,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
       "detalle": "Correo enviado",
       "referencia": "391728"
+    },
+    {
+      "id": "2026-09-04T00:08:33-05:00-correo-368759",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T00:08:33-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBI - S368759 - 16_Collique",
+      "detalle": "Correo enviado",
+      "referencia": "368759"
     }
   ]
 }
