@@ -233,6 +233,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S395283 - OSOA Aeropuerto Nazca",
       "detalle": "Correo enviado",
       "referencia": "395283"
+    },
+    {
+      "id": "2026-09-04T01:20:51-05:00-correo-391728",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T01:20:51-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
+      "detalle": "Correo enviado",
+      "referencia": "391728"
     }
   ]
 }
