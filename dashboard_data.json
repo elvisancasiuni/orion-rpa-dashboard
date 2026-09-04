@@ -593,6 +593,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "UNION YCHICAWA"
+    },
+    {
+      "id": "2026-09-04T04:57:19-05:00-whatsapp-TRANSPORTADORA DE GAS DEL PERU",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-04T04:57:19-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "TRANSPORTADORA DE GAS DEL PERU"
     }
   ]
 }
