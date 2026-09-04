@@ -485,6 +485,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS BANCO S.A. - DBI - S487603",
       "detalle": "Correo enviado",
       "referencia": "487603"
+    },
+    {
+      "id": "2026-09-04T04:29:05-05:00-correo-390579",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T04:29:05-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | UNION YCHICAWA - S390579 - Server-Db.uysa.com.pe",
+      "detalle": "Correo enviado",
+      "referencia": "390579"
     }
   ]
 }
