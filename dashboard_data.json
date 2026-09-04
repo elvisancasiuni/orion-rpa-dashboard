@@ -170,6 +170,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | OPTICAL NETWORKS S.A.C. DBA S473198",
       "detalle": "Correo enviado",
       "referencia": "473198"
+    },
+    {
+      "id": "2026-09-04T00:09:59-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-09-04T00:09:59-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
     }
   ]
 }
