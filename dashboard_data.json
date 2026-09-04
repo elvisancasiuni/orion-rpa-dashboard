@@ -26,6 +26,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ORANGE - DBA - S395685 - PLIM975_CID171118",
       "detalle": "Correo enviado",
       "referencia": "395685"
+    },
+    {
+      "id": "2026-09-03T23:23:11-05:00-correo-486044",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-03T23:23:11-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S486044-UCV-Lima Centro",
+      "detalle": "Correo enviado",
+      "referencia": "486044"
     }
   ]
 }
