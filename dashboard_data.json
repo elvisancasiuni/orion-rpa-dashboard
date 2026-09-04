@@ -323,6 +323,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | H & M HENNES & MAURITZ S.A.C. - S312990 - DBI - PPEE - Centro Comercial PLAZA NORTE",
       "detalle": "Correo enviado",
       "referencia": "312990"
+    },
+    {
+      "id": "2026-09-04T01:56:02-05:00-correo-484476",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T01:56:02-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | AT&T GLOBAL NETWORK SERVICES PERU S.R.L. - DBI - S484476",
+      "detalle": "Correo enviado",
+      "referencia": "484476"
     }
   ]
 }
