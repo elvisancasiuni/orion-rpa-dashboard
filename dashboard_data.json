@@ -512,6 +512,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | UNION YCHICAWA - S390579 - Server-Db.uysa.com.pe",
       "detalle": "Correo enviado",
       "referencia": "390579"
+    },
+    {
+      "id": "2026-09-04T04:52:13-05:00-correo-368996",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-04T04:52:13-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | H & M HENNES & MAURITZ S.A.C. - S368996 - DBI - PPEE - LAS CASUARINAS, Prolongación CESAR VALLEJO nro. 1345",
+      "detalle": "Correo enviado",
+      "referencia": "368996"
     }
   ]
 }
