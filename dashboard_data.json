@@ -251,6 +251,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S440193-UCV-MOYOBAMBA CAMPUS",
       "detalle": "Correo enviado",
       "referencia": "440193"
+    },
+    {
+      "id": "2026-09-05T11:06:36-05:00-correo-446011",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-05T11:06:36-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPAÑIA HARD DISCOUNT S.A.C. - S446011 - DBA",
+      "detalle": "Correo enviado",
+      "referencia": "446011"
     }
   ]
 }
