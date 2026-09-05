@@ -152,6 +152,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "ALFIN BANCO S.A.  (EX BANCO AZTECA)"
+    },
+    {
+      "id": "2026-09-05T09:17:40-05:00-whatsapp- SPSA - TIENDAS MASS (HARD DISCOUNT S.A.C)",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-05T09:17:40-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": " SPSA - TIENDAS MASS (HARD DISCOUNT S.A.C)"
     }
   ]
 }
