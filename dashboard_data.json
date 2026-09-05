@@ -53,6 +53,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465667 - CDT SAN MARTIN",
       "detalle": "Correo enviado",
       "referencia": "465667"
+    },
+    {
+      "id": "2026-09-05T08:23:58-05:00-correo-446011",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-05T08:23:58-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPAÑIA HARD DISCOUNT S.A.C. - S446011 - DBA",
+      "detalle": "Correo enviado",
+      "referencia": "446011"
     }
   ]
 }
