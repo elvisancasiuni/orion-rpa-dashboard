@@ -134,6 +134,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "ALFIN BANCO S.A.  (EX BANCO AZTECA)"
+    },
+    {
+      "id": "2026-09-05T09:16:57-05:00-whatsapp-ALFIN BANCO S.A.  (EX BANCO AZTECA)",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-05T09:16:57-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "ALFIN BANCO S.A.  (EX BANCO AZTECA)"
     }
   ]
 }
