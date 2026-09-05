@@ -71,6 +71,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SOC. MINERA CORONA S.A - DBI - S423988 - ALIS - YAUYOS - LIMA",
       "detalle": "Correo enviado",
       "referencia": "423988"
+    },
+    {
+      "id": "2026-09-05T08:44:45-05:00-whatsapp-MINERA CORONA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-05T08:44:45-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINERA CORONA"
     }
   ]
 }
