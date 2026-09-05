@@ -62,6 +62,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPAÑIA HARD DISCOUNT S.A.C. - S446011 - DBA",
       "detalle": "Correo enviado",
       "referencia": "446011"
+    },
+    {
+      "id": "2026-09-05T08:44:23-05:00-correo-423988",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-05T08:44:23-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SOC. MINERA CORONA S.A - DBI - S423988 - ALIS - YAUYOS - LIMA",
+      "detalle": "Correo enviado",
+      "referencia": "423988"
     }
   ]
 }
