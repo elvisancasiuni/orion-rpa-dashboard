@@ -233,6 +233,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
+    },
+    {
+      "id": "2026-09-05T11:05:48-05:00-correo-452326",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-05T11:05:48-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS FINANCIERA S.A. - DBI - S452326_131_AGENCIA_CAJABAMBA",
+      "detalle": "Correo enviado",
+      "referencia": "452326"
     }
   ]
 }
