@@ -44,6 +44,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SERVICIO NACIONAL DE ADIESTRAMIENTO - SENATI"
+    },
+    {
+      "id": "2026-09-05T07:32:19-05:00-correo-465667",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-05T07:32:19-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465667 - CDT SAN MARTIN",
+      "detalle": "Correo enviado",
+      "referencia": "465667"
     }
   ]
 }
