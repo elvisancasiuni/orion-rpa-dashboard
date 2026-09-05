@@ -170,6 +170,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": " SPSA - TIENDAS MASS (HARD DISCOUNT S.A.C)"
+    },
+    {
+      "id": "2026-09-05T09:18:29-05:00-whatsapp- SPSA - TIENDAS MASS (HARD DISCOUNT S.A.C)",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-05T09:18:29-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": " SPSA - TIENDAS MASS (HARD DISCOUNT S.A.C)"
     }
   ]
 }
