@@ -125,6 +125,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465649 - ECER TARAPOTO",
       "detalle": "Correo enviado",
       "referencia": "465649"
+    },
+    {
+      "id": "2026-09-05T09:16:37-05:00-whatsapp-ALFIN BANCO S.A.  (EX BANCO AZTECA)",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-05T09:16:37-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "ALFIN BANCO S.A.  (EX BANCO AZTECA)"
     }
   ]
 }
