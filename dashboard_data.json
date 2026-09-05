@@ -17,6 +17,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SERVIC NAC DE ADIESTRAM EN TRABAJ INDUST - DBA - S412072",
       "detalle": "Correo enviado",
       "referencia": "412072"
+    },
+    {
+      "id": "2026-09-05T06:25:35-05:00-correo-411455",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-05T06:25:35-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SW SENCICO - MOYOBAMBA [RESPALDO] - S411455",
+      "detalle": "Correo enviado",
+      "referencia": "411455"
     }
   ]
 }
