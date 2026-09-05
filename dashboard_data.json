@@ -215,6 +215,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S440193-UCV-MOYOBAMBA CAMPUS",
       "detalle": "Correo enviado",
       "referencia": "440193"
+    },
+    {
+      "id": "2026-09-05T11:03:54-05:00-correo-440193",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-05T11:03:54-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S440193-UCV-MOYOBAMBA CAMPUS",
+      "detalle": "Correo enviado",
+      "referencia": "440193"
     }
   ]
 }
