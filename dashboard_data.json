@@ -944,6 +944,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE ECONOMIA Y FINANZAS - 438851 - ANCASH HUARAZ",
       "detalle": "Correo enviado",
       "referencia": "438851"
+    },
+    {
+      "id": "2026-09-07T13:52:42-05:00-whatsapp-PROMOTORES ELECTRICOS S A PROMELSA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-07T13:52:42-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "PROMOTORES ELECTRICOS S A PROMELSA"
     }
   ]
 }
