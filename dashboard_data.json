@@ -674,6 +674,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "MINISTERIO PUBLICO-GERENCIA GENERAL"
+    },
+    {
+      "id": "2026-09-07T10:35:46-05:00-correo-427244",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-07T10:35:46-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S427244-UCV-CHIMBOTE",
+      "detalle": "Correo enviado",
+      "referencia": "427244"
     }
   ]
 }
