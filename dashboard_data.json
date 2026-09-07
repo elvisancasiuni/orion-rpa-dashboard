@@ -1196,6 +1196,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA 'O ' S.P.S.A."
+    },
+    {
+      "id": "2026-09-07T14:08:36-05:00-correo-438853",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-07T14:08:36-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE ECONOMIA Y FINANZAS - DBA - S438853 - BACKUP",
+      "detalle": "Correo enviado",
+      "referencia": "438853"
     }
   ]
 }
