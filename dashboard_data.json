@@ -818,6 +818,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ORANGE - DBA - S293199 - PPCL002_SITA AIRCOM_CID120643",
       "detalle": "Correo enviado",
       "referencia": "293199"
+    },
+    {
+      "id": "2026-09-07T13:46:45-05:00-correo-451059",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-07T13:46:45-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | GTD PERU S.A - DBA - S451059-S451060",
+      "detalle": "Correo enviado",
+      "referencia": "451059"
     }
   ]
 }
