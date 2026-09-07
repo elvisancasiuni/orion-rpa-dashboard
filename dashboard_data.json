@@ -1295,6 +1295,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA 'O ' S.P.S.A."
+    },
+    {
+      "id": "2026-09-07T14:14:38-05:00-correo-402028",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-07T14:14:38-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO PUBLICO-GERENCIA GENERAL - NGN - S402028",
+      "detalle": "Correo enviado",
+      "referencia": "402028"
     }
   ]
 }
