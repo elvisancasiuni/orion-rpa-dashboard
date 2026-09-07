@@ -377,6 +377,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS"
+    },
+    {
+      "id": "2026-09-07T05:14:42-05:00-whatsapp-TIENDAS ENTEL",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-07T05:14:42-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "TIENDAS ENTEL"
     }
   ]
 }
