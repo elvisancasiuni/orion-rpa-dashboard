@@ -908,6 +908,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "EJERCITO PERUANO"
+    },
+    {
+      "id": "2026-09-07T13:51:08-05:00-correo-407576",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-07T13:51:08-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | PROMELSA - S407576 - SRVTEMPUS2.Promelsa.com.pe",
+      "detalle": "Correo enviado",
+      "referencia": "407576"
     }
   ]
 }
