@@ -719,6 +719,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO PUBLICO-GERENCIA GENERAL - NGN - S402028",
       "detalle": "Correo enviado",
       "referencia": "402028"
+    },
+    {
+      "id": "2026-09-07T13:02:51-05:00-correo-407576",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-07T13:02:51-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | PROMELSA - S407576 - SRVTEMPUS2.Promelsa.com.pe",
+      "detalle": "Correo enviado",
+      "referencia": "407576"
     }
   ]
 }
