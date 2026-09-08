@@ -1718,6 +1718,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465679 - LEONCIO PRADO CHILCA",
       "detalle": "Correo enviado",
       "referencia": "465679"
+    },
+    {
+      "id": "2026-09-08T00:31:47-05:00-whatsapp-MINISTERIO DE TRANSPORTES Y COMUNICACION",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-08T00:31:47-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
     }
   ]
 }
