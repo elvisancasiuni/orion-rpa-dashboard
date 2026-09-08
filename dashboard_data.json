@@ -2546,6 +2546,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | AUTORIDAD MUNICIPAL DE LOS PANTANOS DE VILLA-S265545-NGN",
       "detalle": "Correo enviado",
       "referencia": "398852"
+    },
+    {
+      "id": "2026-09-08T07:30:56-05:00-correo-398835",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:30:56-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S413717 - AMERICATEL - DGDPAJ - Lima Este - Juzgado De Chosica - NEXTNET_CID123227",
+      "detalle": "Correo enviado",
+      "referencia": "398835"
     }
   ]
 }
