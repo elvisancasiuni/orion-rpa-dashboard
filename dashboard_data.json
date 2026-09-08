@@ -2717,6 +2717,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ORANGE - DBA - S314985 - PLIM826_DUTCH_CID128965_LADO CLIENTE",
       "detalle": "Correo enviado",
       "referencia": "449642"
+    },
+    {
+      "id": "2026-09-08T07:38:15-05:00-correo-398816",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:38:15-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | ORANGE - DBA - S314985 - PLIM826_DUTCH_CID128965_LADO NODO",
+      "detalle": "Correo enviado",
+      "referencia": "398816"
     }
   ]
 }
