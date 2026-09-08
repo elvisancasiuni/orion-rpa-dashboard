@@ -2564,6 +2564,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398843 - AMERICATEL - UF - Unidad Funcional",
       "detalle": "Correo enviado",
       "referencia": "398821"
+    },
+    {
+      "id": "2026-09-08T07:31:43-05:00-correo-398830",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:31:43-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398852 - AMERICATEL - DGDPAJ - Lima Este - Sol de la Molina 1",
+      "detalle": "Correo enviado",
+      "referencia": "398830"
     }
   ]
 }
