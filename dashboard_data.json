@@ -1691,6 +1691,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS"
+    },
+    {
+      "id": "2026-09-08T00:24:16-05:00-whatsapp-SUPERINTENDENCIA NACIONAL DE FISCALIZACION LABORAL (SUNAFIL)",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-08T00:24:16-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SUPERINTENDENCIA NACIONAL DE FISCALIZACION LABORAL (SUNAFIL)"
     }
   ]
 }
