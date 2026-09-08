@@ -3059,6 +3059,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398818 - AMERICATEL - DGDPAJ - Callao - Callao_Sede Central",
       "detalle": "Correo enviado",
       "referencia": "470165"
+    },
+    {
+      "id": "2026-09-08T07:52:59-05:00-correo-409919",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:52:59-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398849 - AMERICATEL - DGDPAJ - Lima Este - Las Flores - SJL",
+      "detalle": "Correo enviado",
+      "referencia": "409919"
     }
   ]
 }
