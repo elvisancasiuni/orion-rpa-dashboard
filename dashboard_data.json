@@ -1709,6 +1709,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "TIENDAS ENTEL"
+    },
+    {
+      "id": "2026-09-08T00:31:25-05:00-correo-465679",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T00:31:25-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465679 - LEONCIO PRADO CHILCA",
+      "detalle": "Correo enviado",
+      "referencia": "465679"
     }
   ]
 }
