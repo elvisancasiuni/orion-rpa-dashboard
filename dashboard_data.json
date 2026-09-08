@@ -1538,6 +1538,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUNAFIL - DBI - S399831 - AYACUCHO",
       "detalle": "Correo enviado",
       "referencia": "398358"
+    },
+    {
+      "id": "2026-09-08T00:17:44-05:00-correo-414114",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T00:17:44-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414114 - MASS_INSURGEN_12_CA",
+      "detalle": "Correo enviado",
+      "referencia": "414114"
     }
   ]
 }
