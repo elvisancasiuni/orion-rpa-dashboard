@@ -3086,6 +3086,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS - DBA S398853 - AVENIDA LA MOLINA NRO. S/N MZ. D LTE. 29 (LA MOLINA - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "398868"
+    },
+    {
+      "id": "2026-09-08T07:54:08-05:00-correo-408188",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:54:08-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465632 - LINCE PRINCIPAL",
+      "detalle": "Correo enviado",
+      "referencia": "408188"
     }
   ]
 }
