@@ -2168,6 +2168,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S483619 - SERNANP - CUSCO - DBI",
       "detalle": "Correo enviado",
       "referencia": "414161"
+    },
+    {
+      "id": "2026-09-08T07:14:50-05:00-correo-413991",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:14:50-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398865 - AMERICATEL - DGDPAJ - Lima Norte - Lima Norte - Sede Central",
+      "detalle": "Correo enviado",
+      "referencia": "413991"
     }
   ]
 }
