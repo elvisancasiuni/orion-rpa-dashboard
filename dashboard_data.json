@@ -3545,6 +3545,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUNAFIL - DBI - S399836 - HUACHO",
       "detalle": "Correo enviado",
       "referencia": "399819"
+    },
+    {
+      "id": "2026-09-08T08:13:58-05:00-correo-399820",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T08:13:58-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414021 - MASS_TOMASAL_1",
+      "detalle": "Correo enviado",
+      "referencia": "399820"
     }
   ]
 }
