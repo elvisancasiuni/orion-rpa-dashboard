@@ -1988,6 +1988,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | CONGRESO DE LA REPUBLICA - S247958 - JIRON MIROQUESADA NRO. 247 OFICINA 406 (LIMA - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "247958"
+    },
+    {
+      "id": "2026-09-08T07:07:10-05:00-correo-338636",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:07:10-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S338636",
+      "detalle": "Correo enviado",
+      "referencia": "338636"
     }
   ]
 }
