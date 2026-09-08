@@ -2393,6 +2393,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | INSTITUTO GEOLOGICO MINERO Y METALURGICO - DBI - S396199",
       "detalle": "Correo enviado",
       "referencia": "408206"
+    },
+    {
+      "id": "2026-09-08T07:24:28-05:00-correo-398841",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:24:28-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUNAT - DBI - S372525 - PRINCIPAL",
+      "detalle": "Correo enviado",
+      "referencia": "398841"
     }
   ]
 }
