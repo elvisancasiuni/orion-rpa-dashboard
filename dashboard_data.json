@@ -3230,6 +3230,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | RED ENTEL - ARQ_PLMR_AGG_1",
       "detalle": "Correo enviado",
       "referencia": "434115"
+    },
+    {
+      "id": "2026-09-08T08:00:20-05:00-correo-471223",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T08:00:20-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_E - AREQUIPA - S437360 - 751233, 751086",
+      "detalle": "Correo enviado",
+      "referencia": "471223"
     }
   ]
 }
