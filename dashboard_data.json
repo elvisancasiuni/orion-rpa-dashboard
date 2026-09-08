@@ -2744,6 +2744,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | GLOBOKAS PERU S.A. - DBA - S449642 - Respaldo",
       "detalle": "Correo enviado",
       "referencia": "398866"
+    },
+    {
+      "id": "2026-09-08T07:39:25-05:00-correo-372455",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:39:25-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398816 - AMERICATEL - DGDPAJ - Callao - E.P. - Callao - Ex Sarita Colonia",
+      "detalle": "Correo enviado",
+      "referencia": "372455"
     }
   ]
 }
