@@ -2069,6 +2069,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398819 - AMERICATEL - DGDPAJ - Callao - Centro MEGA ALEGRA - Callao",
       "detalle": "Correo enviado",
       "referencia": "399831"
+    },
+    {
+      "id": "2026-09-08T07:10:37-05:00-correo-398358",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:10:37-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUNAFIL - DBI - S399831 - AYACUCHO",
+      "detalle": "Correo enviado",
+      "referencia": "398358"
     }
   ]
 }
