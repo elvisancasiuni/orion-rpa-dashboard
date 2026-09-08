@@ -1817,6 +1817,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "COMERCIAL COLRIDE S.A.C."
+    },
+    {
+      "id": "2026-09-08T04:10:32-05:00-correo-486044",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T04:10:32-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S486044-UCV-Lima Centro",
+      "detalle": "Correo enviado",
+      "referencia": "486044"
     }
   ]
 }
