@@ -3329,6 +3329,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398871 - AMERICATEL - DGDPAJ - Lima Sur - Centro ALEGRA - CEDIF Rosa de Lima de Villa María Del Triunfo",
       "detalle": "Correo enviado",
       "referencia": "398827"
+    },
+    {
+      "id": "2026-09-08T08:04:37-05:00-correo-447255",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T08:04:37-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_A - CAJAMARCA - S258962 - 76711080 al 76711087 | TUP00114 al TUP00121 | Jr. Eten 231, Cajamarca Cercado",
+      "detalle": "Correo enviado",
+      "referencia": "447255"
     }
   ]
 }
