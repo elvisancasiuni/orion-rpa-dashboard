@@ -2006,6 +2006,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414114 - MASS_INSURGEN_12_CA",
       "detalle": "Correo enviado",
       "referencia": "414114"
+    },
+    {
+      "id": "2026-09-08T07:07:55-05:00-correo-407576",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:07:55-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | PROMELSA - S407576 - SRVTEMPUS2.Promelsa.com.pe",
+      "detalle": "Correo enviado",
+      "referencia": "407576"
     }
   ]
 }
