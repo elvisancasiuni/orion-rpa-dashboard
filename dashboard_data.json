@@ -2240,6 +2240,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414107 - MASS_CANTA_31",
       "detalle": "Correo enviado",
       "referencia": "450303"
+    },
+    {
+      "id": "2026-09-08T07:17:54-05:00-correo-395685",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:17:54-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414155 - MASS_NICOLINI_2",
+      "detalle": "Correo enviado",
+      "referencia": "395685"
     }
   ]
 }
