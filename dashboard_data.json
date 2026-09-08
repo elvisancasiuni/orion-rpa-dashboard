@@ -2483,6 +2483,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBI - S368939 - 02_Santa Martha_Respaldo",
       "detalle": "Correo enviado",
       "referencia": "408204"
+    },
+    {
+      "id": "2026-09-08T07:28:17-05:00-correo-430615",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:28:17-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | YOBEL - DBI - S389801 - PRINCIPAL _ BK S389802",
+      "detalle": "Correo enviado",
+      "referencia": "430615"
     }
   ]
 }
