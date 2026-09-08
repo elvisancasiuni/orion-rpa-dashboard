@@ -2312,6 +2312,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | UNION YCHICAWA - S390579 - AplicSapHana.uysa.com.pe",
       "detalle": "Correo enviado",
       "referencia": "471608"
+    },
+    {
+      "id": "2026-09-08T07:20:58-05:00-correo-436291",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:20:58-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | UNION YCHICAWA - S390579 - Server-Db.uysa.com.pe",
+      "detalle": "Correo enviado",
+      "referencia": "436291"
     }
   ]
 }
