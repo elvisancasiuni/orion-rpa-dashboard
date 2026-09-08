@@ -2051,6 +2051,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBI - S368793 - 37_Callao",
       "detalle": "Correo enviado",
       "referencia": "368793"
+    },
+    {
+      "id": "2026-09-08T07:09:51-05:00-correo-398819",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:09:51-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | H3C",
+      "detalle": "Correo enviado",
+      "referencia": "398819"
     }
   ]
 }
