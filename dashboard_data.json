@@ -3347,6 +3347,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | IGP-DBI-448759-CONTINGENCIA-80Mbps-SACHACA-AREQUIPA",
       "detalle": "Correo enviado",
       "referencia": "397547"
+    },
+    {
+      "id": "2026-09-08T08:05:26-05:00-correo-409132",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T08:05:26-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SECRETARIA GENERAL DE LA COMUNIDAD ANDINA - O03635 - AVENIDA PASEO DE LA REPUBLICA NRO. 3895 (SAN ISIDRO - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "409132"
     }
   ]
 }
