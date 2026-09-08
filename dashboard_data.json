@@ -3563,6 +3563,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUNAFIL - DBI - S399830 - PIURA",
       "detalle": "Correo enviado",
       "referencia": "399821"
+    },
+    {
+      "id": "2026-09-08T08:14:45-05:00-correo-399822",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T08:14:45-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUNAFIL - DBI - S399817 - BACKUP",
+      "detalle": "Correo enviado",
+      "referencia": "399822"
     }
   ]
 }
