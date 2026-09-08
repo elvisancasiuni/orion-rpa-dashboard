@@ -2879,6 +2879,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398861 - AMERICATEL - DGDPAJ - Lima Norte - Comisaria de Independencia",
       "detalle": "Correo enviado",
       "referencia": "395050"
+    },
+    {
+      "id": "2026-09-08T07:45:15-05:00-correo-480123",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:45:15-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | ENTEL VP - DBI - S397604 - Piero Campos",
+      "detalle": "Correo enviado",
+      "referencia": "480123"
     }
   ]
 }
