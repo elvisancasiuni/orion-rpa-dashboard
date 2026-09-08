@@ -3383,6 +3383,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | RED ENTEL - LIM_ECDR_AGG_1",
       "detalle": "Correo enviado",
       "referencia": "442422"
+    },
+    {
+      "id": "2026-09-08T08:06:58-05:00-correo-258955",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T08:06:58-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S478071 - S478072 - AT&T GLOBAL NETWORK",
+      "detalle": "Correo enviado",
+      "referencia": "258955"
     }
   ]
 }
