@@ -1457,6 +1457,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBI - S368793 - 37_Callao",
       "detalle": "Correo enviado",
       "referencia": "368793"
+    },
+    {
+      "id": "2026-09-08T00:04:22-05:00-correo-414114",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T00:04:22-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414114 - MASS_INSURGEN_12_CA",
+      "detalle": "Correo enviado",
+      "referencia": "414114"
     }
   ]
 }
