@@ -3419,6 +3419,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S447255 - GAMING AND SERVICES S.A.C. - DBI - 10Mbps",
       "detalle": "Correo enviado",
       "referencia": "375739"
+    },
+    {
+      "id": "2026-09-08T08:08:32-05:00-correo-399827",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T08:08:32-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | DEFENSA BANDA 3.5 S397547 - SITE LA_YARADA",
+      "detalle": "Correo enviado",
+      "referencia": "399827"
     }
   ]
 }
