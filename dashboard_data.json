@@ -2618,6 +2618,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S448819 - DBA - MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS - AVENIDA COMANDANTE ESPINAR NRO. 160 (MIRAFLORES - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "398051"
+    },
+    {
+      "id": "2026-09-08T07:34:01-05:00-correo-340594",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:34:01-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S408185 - AMERICATEL - DGDPAJ - Callao - Nueva Sede Poder Judicial - NEXTNET_CID112005",
+      "detalle": "Correo enviado",
+      "referencia": "340594"
     }
   ]
 }
