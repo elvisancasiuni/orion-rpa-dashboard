@@ -2708,6 +2708,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | GTD PERU - DBA - S414741- S414742",
       "detalle": "Correo enviado",
       "referencia": "408213"
+    },
+    {
+      "id": "2026-09-08T07:37:51-05:00-correo-449642",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:37:51-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | ORANGE - DBA - S314985 - PLIM826_DUTCH_CID128965_LADO CLIENTE",
+      "detalle": "Correo enviado",
+      "referencia": "449642"
     }
   ]
 }
