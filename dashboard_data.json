@@ -2789,6 +2789,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ORANGE - DBI - S369280 - PLIM931_SONY_CID157885",
       "detalle": "Correo enviado",
       "referencia": "408189"
+    },
+    {
+      "id": "2026-09-08T07:41:19-05:00-correo-434113",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:41:19-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | RED ENTEL - JUN_TAMB_AGG_1",
+      "detalle": "Correo enviado",
+      "referencia": "434113"
     }
   ]
 }
