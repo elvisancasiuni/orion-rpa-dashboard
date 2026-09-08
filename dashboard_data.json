@@ -3023,6 +3023,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE ECONOMIA Y FINANZAS - DBA - S445136 - BACKUP",
       "detalle": "Correo enviado",
       "referencia": "413499"
+    },
+    {
+      "id": "2026-09-08T07:51:26-05:00-correo-398853",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:51:26-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398870 - AMERICATEL - DGDPAJ - Lima Sur - Centro ALEGRA - Manchay",
+      "detalle": "Correo enviado",
+      "referencia": "398853"
     }
   ]
 }
