@@ -1943,6 +1943,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | OPTICAL NETWORKS - S434413-S434414 - AVENIDA CIRCUNVALACIÓN NRO. 2886 NODO MS02 (SAN BORJA - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "434413"
+    },
+    {
+      "id": "2026-09-08T04:54:21-05:00-correo-466980",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T04:54:21-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S466980-S466981",
+      "detalle": "Correo enviado",
+      "referencia": "466980"
     }
   ]
 }
