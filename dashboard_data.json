@@ -2123,6 +2123,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SENCICO - CHICLAYO [RESPALDO] - S411425",
       "detalle": "Correo enviado",
       "referencia": "414042"
+    },
+    {
+      "id": "2026-09-08T07:12:55-05:00-correo-247929",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:12:55-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - S468711 - DBA - BREÑA",
+      "detalle": "Correo enviado",
+      "referencia": "247929"
     }
   ]
 }
