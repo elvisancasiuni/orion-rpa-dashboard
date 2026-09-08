@@ -3275,6 +3275,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_E - AREQUIPA - S437360 - 751206, 751207, 751209, 751210",
       "detalle": "Correo enviado",
       "referencia": "258962"
+    },
+    {
+      "id": "2026-09-08T08:02:16-05:00-correo-448759",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T08:02:16-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINJUS - S480124 - AVENIDA LAS DALIAS NRO. S/N MZ. V26 LTE. 12 URB. SATELITE VENTANILLA",
+      "detalle": "Correo enviado",
+      "referencia": "448759"
     }
   ]
 }
