@@ -3221,6 +3221,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | FRANQUICIAS ALIMENTARIAS S.A - DBA 419432 - PROLONGACION CESAR VALLEJO NRO. 1345 CENTRO COMERCIAL REAL PLAZA TRUIJILLO URB. REAL PLAZA (TRUJILLO - TRUJILLO - LA LIBERTAD)",
       "detalle": "Correo enviado",
       "referencia": "480124"
+    },
+    {
+      "id": "2026-09-08T07:59:57-05:00-correo-434115",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:59:57-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | RED ENTEL - ARQ_PLMR_AGG_1",
+      "detalle": "Correo enviado",
+      "referencia": "434115"
     }
   ]
 }
