@@ -2951,6 +2951,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | PANAMERICAN - DBI - S363101 - FW_PRINCIPAL",
       "detalle": "Correo enviado",
       "referencia": "398875"
+    },
+    {
+      "id": "2026-09-08T07:48:20-05:00-correo-445134",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:48:20-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398848 - AMERICATEL - DGDPAJ - Lima Este - Santa Anita",
+      "detalle": "Correo enviado",
+      "referencia": "445134"
     }
   ]
 }
