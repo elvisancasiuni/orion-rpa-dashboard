@@ -1853,6 +1853,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
+    },
+    {
+      "id": "2026-09-08T04:12:04-05:00-whatsapp-IG Networks",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-08T04:12:04-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "IG Networks"
     }
   ]
 }
