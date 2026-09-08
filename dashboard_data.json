@@ -3266,6 +3266,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | GTD PERÚ S.A - DBA - S459441-S459442",
       "detalle": "Correo enviado",
       "referencia": "398871"
+    },
+    {
+      "id": "2026-09-08T08:01:52-05:00-correo-258962",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T08:01:52-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_E - AREQUIPA - S437360 - 751206, 751207, 751209, 751210",
+      "detalle": "Correo enviado",
+      "referencia": "258962"
     }
   ]
 }
