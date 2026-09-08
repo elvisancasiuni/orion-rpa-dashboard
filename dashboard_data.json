@@ -2798,6 +2798,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | RED ENTEL - JUN_TAMB_AGG_1",
       "detalle": "Correo enviado",
       "referencia": "434113"
+    },
+    {
+      "id": "2026-09-08T07:41:41-05:00-correo-456106",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:41:41-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | homo-starlink",
+      "detalle": "Correo enviado",
+      "referencia": "456106"
     }
   ]
 }
