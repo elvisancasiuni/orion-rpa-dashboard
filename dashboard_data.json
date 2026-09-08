@@ -1844,6 +1844,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SOFTYS PERU - S423927 - AVENIDA LOS ROSALES NRO. 620",
       "detalle": "Correo enviado",
       "referencia": "423927"
+    },
+    {
+      "id": "2026-09-08T04:11:41-05:00-whatsapp-UNIVERSIDAD CESAR VALLEJO UCV",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-08T04:11:41-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
     }
   ]
 }
