@@ -2096,6 +2096,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | RED ENTEL - SW_BD8810_ACC_MIL",
       "detalle": "Correo enviado",
       "referencia": "411425"
+    },
+    {
+      "id": "2026-09-08T07:11:47-05:00-correo-411425",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:11:47-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | ORANGE - DBA - S297198 - SLIM645_UPS_CID122237",
+      "detalle": "Correo enviado",
+      "referencia": "411425"
     }
   ]
 }
