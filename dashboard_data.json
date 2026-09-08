@@ -2258,6 +2258,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S450303-S450304 DBA_MGMT",
       "detalle": "Correo enviado",
       "referencia": "398898"
+    },
+    {
+      "id": "2026-09-08T07:18:40-05:00-correo-433837",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:18:40-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | ORANGE - DBA - S395685 - PLIM975_CID171118",
+      "detalle": "Correo enviado",
+      "referencia": "433837"
     }
   ]
 }
