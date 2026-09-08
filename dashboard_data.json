@@ -2060,6 +2060,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | H3C",
       "detalle": "Correo enviado",
       "referencia": "398819"
+    },
+    {
+      "id": "2026-09-08T07:10:14-05:00-correo-399831",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-08T07:10:14-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S398819 - AMERICATEL - DGDPAJ - Callao - Centro MEGA ALEGRA - Callao",
+      "detalle": "Correo enviado",
+      "referencia": "399831"
     }
   ]
 }
