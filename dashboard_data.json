@@ -26,6 +26,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE ECONOMIA Y FINANZAS - DBA - S438847 - AMAZONAS/CHACHAPOYAS",
       "detalle": "Correo enviado",
       "referencia": "438847"
+    },
+    {
+      "id": "2026-09-10T10:13:07-05:00-correo-414114",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-10T10:13:07-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414114 - MASS_INSURGEN_12_CA",
+      "detalle": "Correo enviado",
+      "referencia": "414114"
     }
   ]
 }
