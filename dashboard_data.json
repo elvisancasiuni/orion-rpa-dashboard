@@ -17,6 +17,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | PRISONTEC S.A.C. - S473510 - COORDENADA -6.160792,-77.868778 (HUANCAS - CHACHAPOYAS - AMAZONAS)",
       "detalle": "Correo enviado",
       "referencia": "473510"
+    },
+    {
+      "id": "2026-09-10T10:12:43-05:00-correo-438847",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-10T10:12:43-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE ECONOMIA Y FINANZAS - DBA - S438847 - AMAZONAS/CHACHAPOYAS",
+      "detalle": "Correo enviado",
+      "referencia": "438847"
     }
   ]
 }
