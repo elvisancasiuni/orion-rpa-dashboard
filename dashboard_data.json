@@ -260,6 +260,24 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | GTD PERU - DBA - S407088 - S407089",
       "detalle": "Correo enviado",
       "referencia": "407088"
+    },
+    {
+      "id": "2026-09-10T12:04:25-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-09-10T12:04:25-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-10T12:04:52-05:00-whatsapp-S427240-UCV-TARAPOTO CAMPUS",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-10T12:04:52-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "S427240-UCV-TARAPOTO CAMPUS"
     }
   ]
 }
