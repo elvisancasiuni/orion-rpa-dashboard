@@ -107,6 +107,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "PRISONTEC"
+    },
+    {
+      "id": "2026-09-10T10:16:42-05:00-whatsapp-MINISTERIO DE ECONOMIA Y FINANZAS - MEF",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-10T10:16:42-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE ECONOMIA Y FINANZAS - MEF"
     }
   ]
 }
