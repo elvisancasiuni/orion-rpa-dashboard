@@ -251,6 +251,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO DE ECONOMIA Y FINANZAS - DBA - S440565 - CABECERA PRINCIPAL (LIMA)",
       "detalle": "Correo enviado",
       "referencia": "440565"
+    },
+    {
+      "id": "2026-09-10T12:04:11-05:00-correo-407088",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-10T12:04:11-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | GTD PERU - DBA - S407088 - S407089",
+      "detalle": "Correo enviado",
+      "referencia": "407088"
     }
   ]
 }
