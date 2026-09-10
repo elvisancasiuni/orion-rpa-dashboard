@@ -98,6 +98,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "S427240-UCV-TARAPOTO CAMPUS"
+    },
+    {
+      "id": "2026-09-10T10:16:20-05:00-whatsapp-PRISONTEC",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-10T10:16:20-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "PRISONTEC"
     }
   ]
 }
