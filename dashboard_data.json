@@ -80,6 +80,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ORANGE - DBA - S293199 - PPCL002_SITA AIRCOM_CID120643",
       "detalle": "Correo enviado",
       "referencia": "293199"
+    },
+    {
+      "id": "2026-09-10T10:15:33-05:00-correo-465351",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-10T10:15:33-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TGP - DBA - S465351 - SCADA PS2",
+      "detalle": "Correo enviado",
+      "referencia": "465351"
     }
   ]
 }
