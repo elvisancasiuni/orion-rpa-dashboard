@@ -1,4 +1,13 @@
 {
   "events": [
+    {
+      "id": "2026-09-15T15:44:06-05:00-correo-MINISTERIO DE CULTURA",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-15T15:44:06-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | CONGRESO DE LA REPUBLICA - S247948 - JIRON MIROQUESADA NRO. 247 OFICINA 405 (LIMA - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "MINISTERIO DE CULTURA"
+    }
   ]
 }
