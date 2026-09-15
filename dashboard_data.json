@@ -53,6 +53,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S441650 - AMERICATEL - SNEJ ATE 2 - Lima Este - AVENIDA SEPARADORA INDUSTRIAL NRO. S/N MZ. F LTE. 6 PISO 4 URB. MAYORAZGO - CHICO (ATE - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "MINISTERIO DE CULTURA"
+    },
+    {
+      "id": "2026-09-15T12:41:08-05:00-correo-MINISTERIO DE CULTURA",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-15T12:41:08-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIN_JUST_DER - S412236 - AMERICATEL - PRONABI - SEDE CENTRAL PRONABI",
+      "detalle": "Correo enviado",
+      "referencia": "MINISTERIO DE CULTURA"
     }
   ]
 }
