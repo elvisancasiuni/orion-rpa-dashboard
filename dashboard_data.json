@@ -17,6 +17,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | AT&T GLOBAL NETWORK SERVICES PERU S.R.L. - DBI - S44974",
       "detalle": "Correo enviado",
       "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
+    },
+    {
+      "id": "2026-09-15T12:29:55-05:00-correo-MINISTERIO DE CULTURA",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-15T12:29:55-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S483345-UCV-JESUS MARIA(300 MBPS)",
+      "detalle": "Correo enviado",
+      "referencia": "MINISTERIO DE CULTURA"
     }
   ]
 }
