@@ -8,6 +8,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S427238-UCV-CHEPEN",
       "detalle": "Correo enviado",
       "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
+    },
+    {
+      "id": "2026-09-15T12:29:24-05:00-correo-UNIVERSIDAD CESAR VALLEJO UCV",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-15T12:29:24-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | AT&T GLOBAL NETWORK SERVICES PERU S.R.L. - DBI - S44974",
+      "detalle": "Correo enviado",
+      "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
     }
   ]
 }
