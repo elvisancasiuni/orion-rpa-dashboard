@@ -89,6 +89,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
+    },
+    {
+      "id": "2026-09-15T12:42:49-05:00-whatsapp-MINISTERIO DE CULTURA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-15T12:42:49-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE CULTURA"
     }
   ]
 }
