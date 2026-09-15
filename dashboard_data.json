@@ -161,6 +161,15 @@
       "asunto": "LISTA DE ALARMAS MASIVAS",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-15T13:40:36-05:00-correo-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-15T13:40:36-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | FALABELLA - DBA - S443263 - HT_SF_SD_BELLAVISTA (339106)",
+      "detalle": "Correo enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
     }
   ]
 }
