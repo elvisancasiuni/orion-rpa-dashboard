@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ORION RPA — Dashboard de comunicaciones</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+<style>
+:root{--bg:#06111f;--card:#0d1b2e;--text:#eef5fb;--muted:#91a4ba;--line:#223a55;--blue:#55c2ff;--green:#43e58b;--purple:#ad91ff;--orange:#ffad4d}
+*{box-sizing:border-box}body{margin:0;background:linear-gradient(135deg,#06111f,#0b1930 55%,#06111f);color:var(--text);font-family:Inter,Segoe UI,Arial,sans-serif}
+.wrap{max-width:1460px;margin:auto;padding:24px 28px}.top{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:20px}
+h1{font-size:29px;margin:0;font-weight:800}.sub{color:var(--muted);font-size:13px;margin-top:6px}.status{font-size:12px;color:var(--muted);border:1px solid var(--line);padding:9px 12px;border-radius:10px}
+.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:16px}.card,.panel{background:rgba(13,27,46,.96);border:1px solid var(--line);border-radius:16px;box-shadow:0 10px 28px rgba(0,0,0,.16)}
+.card{padding:18px 20px;min-height:120px}.label{font-size:13px;color:var(--muted);font-weight:650}.num{font-size:35px;font-weight:850;margin-top:7px}.cardline{width:44px;height:3px;border-radius:4px;margin-top:12px}.blue{background:var(--blue)}.green{background:var(--green)}.purple{background:var(--purple)}.orange{background:var(--orange)}
+.grid{display:grid;grid-template-columns:2fr 1fr;gap:16px;margin-bottom:16px}.panel{padding:18px}.panel h2{font-size:16px;margin:0 0 14px;font-weight:800}.filters{display:flex;gap:9px;flex-wrap:wrap;margin-bottom:12px}
+.filterLabel{display:flex;align-items:center;gap:6px;color:var(--muted);font-size:12px;font-weight:650}.filterNote,.detailContext{font-size:11px;color:var(--muted);margin:0 0 12px}.detailContext{padding:9px 11px;background:#091728;border:1px solid var(--line);border-radius:9px}
+select,input,button{background:#081626;color:var(--text);border:1px solid var(--line);border-radius:9px;padding:9px 11px;outline:none}button{cursor:pointer}
+.chartbox{height:350px;position:relative}.donutbox{height:270px;position:relative}.legend{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:10px}.legendItem{background:#091728;border:1px solid var(--line);border-radius:10px;padding:10px}.legendName{font-size:12px;color:var(--muted);display:flex;align-items:center;gap:7px}.dot{width:8px;height:8px;border-radius:50%;display:inline-block}.legendPct{font-size:22px;font-weight:850;margin-top:5px}.legendDesc{font-size:10px;color:var(--muted)}
+.detailTop{display:flex;justify-content:space-between;align-items:center;gap:15px;flex-wrap:wrap}.summary{font-size:12px;color:var(--muted)}.tablewrap{overflow:auto;max-height:430px;border:1px solid var(--line);border-radius:10px}
+table{width:100%;border-collapse:collapse;font-size:13px}th,td{padding:11px 9px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}th{color:var(--muted);background:#0a1728;position:sticky;top:0}.detail-text{white-space:normal;min-width:320px;max-width:720px;line-height:1.45}.ref{font-family:Consolas,monospace;font-size:12px;color:#b9c9d8}
+.badge{display:inline-block;padding:5px 8px;border-radius:999px;font-size:11px;font-weight:750}.badge.correo{background:#0b3950;color:var(--blue)}.badge.masiva{background:#302452;color:var(--purple)}.badge.whatsapp{background:#17422c;color:var(--green)}.client{font-weight:650;white-space:normal;min-width:280px;max-width:650px}.state{display:inline-flex;align-items:center;gap:6px;color:#7fe0a9;font-weight:700}.state:before{content:"";width:7px;height:7px;border-radius:50%;background:#31d17c}.empty{padding:28px!important;text-align:center!important;color:var(--muted);white-space:normal}
+@media(max-width:1000px){.cards{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:1fr}}@media(max-width:620px){.wrap{padding:14px}.cards{grid-template-columns:1fr}.top{flex-direction:column}.legend{grid-template-columns:1fr}}
+</style>
+</head>
+<body><div class="wrap">
+<div class="top"><div><h1>ORION RPA — Dashboard de comunicaciones</h1><div class="sub">Indicadores ejecutivos · Correos · WhatsApp · Eventos masivos</div></div><div class="status" id="status">Conectando…</div></div>
+<div class="cards">
+<div class="card"><div class="label">Correos enviados</div><div class="num" id="nCorreo">0</div><div class="cardline blue"></div></div>
+<div class="card"><div class="label">WhatsApp enviados</div><div class="num" id="nWhats">0</div><div class="cardline green"></div></div>
+<div class="card"><div class="label">Eventos masivos</div><div class="num" id="nMasiva">0</div><div class="cardline purple"></div></div>
+<div class="card"><div class="label">Total comunicaciones</div><div class="num" id="nTotal">0</div><div class="cardline orange"></div></div>
+</div>
+<div class="grid">
+<div class="panel"><h2>Tendencia de envíos</h2><div class="filters">
+<select id="period" onchange="render()"><option value="hour">Por hora</option><option value="day" selected>Por día</option></select>
+<select id="channel" onchange="render()"><option value="all">Todos los canales</option><option value="correo">Correos</option><option value="masiva">Eventos masivos</option><option value="whatsapp">WhatsApp</option></select>
+<label class="filterLabel">Desde <input id="globalFrom" type="date" onchange="render()"></label>
+<label class="filterLabel">Hasta <input id="globalTo" type="date" onchange="render()"></label>
+<button onclick="clearGlobalFilters()">Limpiar filtros</button>
+</div><div class="filterNote">Este es el único filtro del dashboard y se aplica a todos los indicadores, gráfico y detalle de envíos.</div><div class="chartbox"><canvas id="trend"></canvas></div></div>
+<div class="panel"><h2>Distribución por canal</h2><div class="donutbox"><canvas id="donut"></canvas></div><div class="legend" id="legend"></div></div>
+</div>
+<div class="panel">
+<div class="detailTop"><h2>Detalle de envíos</h2><div class="summary" id="summary">Registros: 0 · Cantidad: 0</div></div>
+<div class="detailContext" id="detailContext">Mostrando los registros según el filtro único seleccionado arriba.</div>
+<div class="tablewrap"><table><thead><tr><th>FECHA</th><th>CLIENTE</th><th>CANAL</th><th>ESTADO</th></tr></thead><tbody id="tbody"></tbody></table></div>
+</div></div>
+<script>
+let DATA={events:[]},trendChart=null,donutChart=null;
+const names={all:"Todos los envíos",correo:"Correos enviados",masiva:"Eventos masivos",whatsapp:"WhatsApp enviados"};
+const labels={correo:"Correo",masiva:"Evento masivo",whatsapp:"WhatsApp"};
+function esc(v){return String(v??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));}
+function getEvents(){const r=Array.isArray(DATA)?DATA:(DATA.events||[]);return r.map(e=>({...e,tipo:String(e.tipo||"").toLowerCase(),cantidad:Number(e.cantidad||1)}));}
+function parseDate(v){if(!v)return null;let d=new Date(v);if(!isNaN(d))return d;const m=String(v).match(/^(\d{2})\/(\d{2})\/(\d{4})(?:\s+(.*))?$/);if(m){d=new Date(m[3]+"-"+m[2]+"-"+m[1]+"T"+(m[4]||"00:00:00"));if(!isNaN(d))return d;}return null;}
+function dateKey(v){const d=parseDate(v);if(!d)return "";return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");}
+function totals(){const t={correo:0,masiva:0,whatsapp:0};getEvents().forEach(e=>{if(t[e.tipo]!==undefined)t[e.tipo]+=e.cantidad});return t;}
+function filteredEvents(){
+ const f=(globalFrom.value||"").trim(), to=(globalTo.value||"").trim(), ch=channel.value;
+ return getEvents().filter(e=>{
+   const d=dateKey(e.fecha_hora);
+   return (ch==="all"||e.tipo===ch)&&(!f||d>=f)&&(!to||d<=to);
+ });
+}
+function totalsFrom(ev){const t={correo:0,masiva:0,whatsapp:0};ev.forEach(e=>{if(t[e.tipo]!==undefined)t[e.tipo]+=e.cantidad});return t;}
+function render(){
+ const e=filteredEvents(),t=totalsFrom(e),total=t.correo+t.masiva+t.whatsapp;
+ nCorreo.textContent=t.correo;nWhats.textContent=t.whatsapp;nMasiva.textContent=t.masiva;nTotal.textContent=total;
+ const vals=[t.correo,t.masiva,t.whatsapp],p=vals.map(v=>total?v/total*100:0);
+ legend.innerHTML=[["#55c2ff","Correos",p[0]],["#ad91ff","Eventos masivos",p[1]],["#43e58b","WhatsApp",p[2]]].map(x=>'<div class="legendItem"><div class="legendName"><span class="dot" style="background:'+x[0]+'"></span>'+x[1]+'</div><div class="legendPct">'+x[2].toFixed(1)+'%</div><div class="legendDesc">del total filtrado</div></div>').join("");
+ if(donutChart)donutChart.destroy();
+ donutChart=new Chart(document.getElementById("donut"),{type:"doughnut",data:{labels:["Correos","Eventos masivos","WhatsApp"],datasets:[{data:vals}]},options:{responsive:true,maintainAspectRatio:false,cutout:"58%",plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>" "+c.label+": "+(total?c.raw/total*100:0).toFixed(1)+"%"}}}}});
+ const buckets={},ch=channel.value,per=period.value;
+ e.forEach(x=>{const d=parseDate(x.fecha_hora);if(!d)return;const k=per==="hour"?dateKey(x.fecha_hora)+" "+String(d.getHours()).padStart(2,"0")+":00":dateKey(x.fecha_hora);buckets[k]=(buckets[k]||0)+x.cantidad;});
+ const keys=Object.keys(buckets).sort();if(trendChart)trendChart.destroy();
+ trendChart=new Chart(document.getElementById("trend"),{type:"line",data:{labels:keys.map(k=>per==="day"?k.slice(8,10)+"/"+k.slice(5,7):k.slice(8)),datasets:[{label:ch==="all"?"Envíos — todos los canales":labels[ch]||"Envíos",data:keys.map(k=>buckets[k]),fill:true,tension:.25}]},options:{responsive:true,maintainAspectRatio:false,scales:{y:{beginAtZero:true,ticks:{precision:0}},x:{grid:{display:false}}}}});
+ renderTable();
+}
+function getClient(e){
+ const explicit=e.cliente||e.client||e.nombre_cliente||e.customer||e.destinatario;
+ if(explicit&&String(explicit).trim()) return String(explicit).trim();
+ if(e.tipo==="whatsapp") return String(e.referencia||"").trim()||"—";
+ if(e.tipo==="masiva") return String(e.referencia||"").trim().toLowerCase()==="masivo"?"Evento masivo":String(e.referencia||"").trim()||"Evento masivo";
+ let s=String(e.asunto||"").trim();
+ if(!s) return String(e.referencia||"").trim()||"—";
+ s=s.replace(/^PRUEBA DE BOT\s*\|\s*/i,"").replace(/^BOT\s*\|\s*/i,"").replace(/^MONITOREO\s*\|\s*STATUS:\s*SERVICE\s+DOWN\s*\|\s*/i,"");
+ const m=s.match(/^(.+?)\s+-\s+(?:DBA|DBI)\s+-\s+S?\d{5,8}\b/i);
+ return m&&m[1].trim()?m[1].trim():s;
+}
+function getState(e){
+ const explicit=e.estado||e.status;
+ if(explicit&&String(explicit).trim()) return String(explicit).trim();
+ const d=String(e.detalle||e.mensaje||e.evento||"").toLowerCase();
+ return d.includes("envi")?"Enviado":"Enviado";
+}
+
+function renderTable(){
+ const ev=filteredEvents().sort((a,b)=>(parseDate(b.fecha_hora)||0)-(parseDate(a.fecha_hora)||0));
+ const total=ev.reduce((n,x)=>n+x.cantidad,0), ch=channel.value;
+ const f=globalFrom.value||"", to=globalTo.value||"";
+ const range=(f||to)?" · Rango: "+(f?f:"inicio")+" a "+(to?to:"hoy"):" · Sin filtro de fechas";
+ summary.textContent=(ch==="all"?"Todos los envíos":names[ch])+" · Registros: "+ev.length+" · Cantidad: "+total;
+ detailContext.textContent="Filtro único: "+(ch==="all"?"Todos los canales":names[ch])+range+". El detalle refleja exactamente esta selección.";
+ if(!ev.length){tbody.innerHTML='<tr><td colspan="4" class="empty">No hay registros para el filtro seleccionado.</td></tr>';return;}
+ tbody.innerHTML=ev.map(e=>{
+   const d=parseDate(e.fecha_hora);
+   const dt=d?d.toLocaleDateString("es-PE",{day:"2-digit",month:"2-digit",year:"numeric"})+" · "+d.toLocaleTimeString("es-PE",{hour:"2-digit",minute:"2-digit"}):(e.fecha_hora||"—");
+   return '<tr><td>'+esc(dt)+'</td><td class="client" title="'+esc(e.asunto||e.detalle||e.referencia||"")+'">'+esc(getClient(e))+'</td><td><span class="badge '+esc(e.tipo)+'">'+esc(labels[e.tipo]||e.tipo)+'</span></td><td><span class="state">'+esc(getState(e))+'</span></td></tr>';
+ }).join("");
+}
+function clearGlobalFilters(){period.value="day";channel.value="all";globalFrom.value="";globalTo.value="";render();}
+async function load(){try{const r=await fetch("dashboard_data.json?ts="+Date.now(),{cache:"no-store"});if(!r.ok)throw Error(r.status);DATA=await r.json();render();status.textContent="Actualizado: "+new Date().toLocaleString("es-PE")+" · "+getEvents().length+" registros";}catch(e){status.textContent="No se pudo cargar dashboard_data.json";DATA={events:[]};render();}}
+load();setInterval(load,15000);
+</script></body></html>
