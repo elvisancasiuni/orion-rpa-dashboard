@@ -125,6 +125,15 @@
       "asunto": "LISTA DE ALARMAS MASIVAS",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-09-19T04:06:08-05:00-whatsapp-COSAPI S.A.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-19T04:06:08-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "COSAPI S.A."
     }
   ]
 }
