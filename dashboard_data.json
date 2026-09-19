@@ -1,4 +1,13 @@
 {
   "events": [
+    {
+      "id": "2026-09-19T02:06:16-05:00-correo-SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA",
+      "tipo": "correo",
+      "fecha_hora": "2026-09-19T02:06:16-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414015 - MASS_TELLO_2_CDL",
+      "detalle": "Correo enviado",
+      "referencia": "SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA"
+    }
   ]
 }
