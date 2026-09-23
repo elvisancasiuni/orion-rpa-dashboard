@@ -269,6 +269,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "GLG PERU S.A.C."
+    },
+    {
+      "id": "2026-09-23T13:08:40-05:00-whatsapp-UNIVERSIDAD CESAR VALLEJO UCV",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-23T13:08:40-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
     }
   ]
 }
