@@ -377,6 +377,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS"
+    },
+    {
+      "id": "2026-09-23T13:13:11-05:00-whatsapp-MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-23T13:13:11-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS"
     }
   ]
 }
