@@ -539,6 +539,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "ENTEL CHILE"
+    },
+    {
+      "id": "2026-09-23T13:23:42-05:00-whatsapp-H&M HENNES & MAURITZ S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-23T13:23:42-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "H&M HENNES & MAURITZ S.A.C."
     }
   ]
 }
