@@ -350,6 +350,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "CONGRESO DE LA REPUBLICA"
+    },
+    {
+      "id": "2026-09-23T13:12:15-05:00-whatsapp-CONGRESO DE LA REPUBLICA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-09-23T13:12:15-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "CONGRESO DE LA REPUBLICA"
     }
   ]
 }
