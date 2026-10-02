@@ -8,6 +8,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | FALABELLA - DBA - S443280 - SD_HUACHO (351297)",
       "detalle": "Correo enviado",
       "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
+    },
+    {
+      "id": "2026-10-02T02:28:17-05:00-correo-COMPARTAMOS",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-02T02:28:17-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBI - S487450 - 48_PIURA",
+      "detalle": "Correo enviado",
+      "referencia": "COMPARTAMOS"
     }
   ]
 }
