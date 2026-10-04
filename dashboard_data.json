@@ -89,6 +89,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "COMPARTAMOS"
+    },
+    {
+      "id": "2026-10-04T11:59:42-05:00-correo-FRANQUICIAS ALIMENTARIAS S.A.",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-04T11:59:42-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | FRANQUICIAS ALIMENTARIAS S.A - DBA 391160 - CALLE VISTA ALEGRE NRO. 957 (ATE - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "FRANQUICIAS ALIMENTARIAS S.A."
     }
   ]
 }
