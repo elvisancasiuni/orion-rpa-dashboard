@@ -80,6 +80,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | CAASA - BW 140 MB- DBA-433339 - LURIN -LIMA",
       "detalle": "Correo enviado",
       "referencia": "LA TINKA S.A."
+    },
+    {
+      "id": "2026-10-06T07:45:03-05:00-correo-SPSA",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-06T07:45:03-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
+      "detalle": "Correo enviado",
+      "referencia": "SPSA"
     }
   ]
 }
