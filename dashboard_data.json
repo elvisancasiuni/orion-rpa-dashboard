@@ -98,6 +98,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414071 - MASS_MAYOLO_17",
       "detalle": "Correo enviado",
       "referencia": "ORANGE"
+    },
+    {
+      "id": "2026-10-06T07:46:42-05:00-correo-GTD PERU S.A",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-06T07:46:42-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | ORANGE - DBI - S346996 - PLIM767_AKZONOBEL_CID145507",
+      "detalle": "Correo enviado",
+      "referencia": "GTD PERU S.A"
     }
   ]
 }
