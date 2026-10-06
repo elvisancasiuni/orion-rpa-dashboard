@@ -71,6 +71,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | DBA S449547 - COMPANIA HARD DISCOUNT S.A.C.",
       "detalle": "Correo enviado",
       "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
+    },
+    {
+      "id": "2026-10-06T07:44:21-05:00-correo-LA TINKA S.A.",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-06T07:44:21-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | CAASA - BW 140 MB- DBA-433339 - LURIN -LIMA",
+      "detalle": "Correo enviado",
+      "referencia": "LA TINKA S.A."
     }
   ]
 }
