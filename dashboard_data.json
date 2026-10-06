@@ -107,6 +107,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ORANGE - DBI - S346996 - PLIM767_AKZONOBEL_CID145507",
       "detalle": "Correo enviado",
       "referencia": "GTD PERU S.A"
+    },
+    {
+      "id": "2026-10-06T07:47:22-05:00-correo-SENCICO",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-06T07:47:22-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | GTD - DBA - S459443-S459444",
+      "detalle": "Correo enviado",
+      "referencia": "SENCICO"
     }
   ]
 }
