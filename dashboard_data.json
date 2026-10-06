@@ -125,6 +125,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SENCICO - CAJAMARCA [RESPALDO] - S411449",
       "detalle": "Correo enviado",
       "referencia": "SUNARP ZONA REGISTRAL N° XII, SEDE AREQUIPA"
+    },
+    {
+      "id": "2026-10-06T07:48:17-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-10-06T07:48:17-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
     }
   ]
 }
