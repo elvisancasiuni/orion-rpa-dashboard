@@ -179,6 +179,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
       "detalle": "Correo enviado",
       "referencia": "LA TINKA S.A."
+    },
+    {
+      "id": "2026-10-08T08:00:25-05:00-correo-CONGRESO DE LA REPUBLICA",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-08T08:00:25-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | CONGRESO DE LA REPUBLICA - S247958 - JIRON MIROQUESADA NRO. 247 OFICINA 406 (LIMA - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "CONGRESO DE LA REPUBLICA"
     }
   ]
 }
