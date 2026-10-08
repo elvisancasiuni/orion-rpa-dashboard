@@ -161,6 +161,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
       "detalle": "Correo enviado",
       "referencia": "LA TINKA S.A."
+    },
+    {
+      "id": "2026-10-08T07:44:48-05:00-correo-MUNICIPALIDAD DE JESÚS MARÍA",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-08T07:44:48-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MUNICIPALIDAD DE JESUS MARIA - S455535_RESPALDO",
+      "detalle": "Correo enviado",
+      "referencia": "MUNICIPALIDAD DE JESÚS MARÍA"
     }
   ]
 }
