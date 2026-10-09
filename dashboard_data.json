@@ -377,6 +377,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "INTERNET PARA TODOS - IPT"
+    },
+    {
+      "id": "2026-10-09T10:22:00-05:00-whatsapp-SPSA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-09T10:22:00-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SPSA"
     }
   ]
 }
