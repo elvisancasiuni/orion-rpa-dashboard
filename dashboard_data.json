@@ -35,6 +35,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
+    },
+    {
+      "id": "2026-10-09T17:02:43-05:00-correo-MINISTERIO DE TRANSPORTES Y COMUNICACION",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-09T17:02:43-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465667 - CDT SAN MARTIN",
+      "detalle": "Correo enviado",
+      "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
     }
   ]
 }
