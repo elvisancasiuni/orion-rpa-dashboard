@@ -296,6 +296,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "INTERNET PARA TODOS - IPT"
+    },
+    {
+      "id": "2026-10-09T10:04:14-05:00-whatsapp-GTD PERU S.A",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-09T10:04:14-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "GTD PERU S.A"
     }
   ]
 }
