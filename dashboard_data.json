@@ -206,6 +206,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | COOPERATIVA DE AHORRO Y CREDITO S406712",
       "detalle": "Correo enviado",
       "referencia": "COOPERATIVA DE AHORRO Y CREDITO DE SUB OFICIALES"
+    },
+    {
+      "id": "2026-10-09T09:17:21-05:00-whatsapp-SPSA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-09T09:17:21-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SPSA"
     }
   ]
 }
