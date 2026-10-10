@@ -161,6 +161,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBA - S487469 - 72_FERREÑAFE",
       "detalle": "Correo enviado",
       "referencia": "COMPARTAMOS"
+    },
+    {
+      "id": "2026-10-09T19:27:22-05:00-whatsapp-COMPARTAMOS",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-09T19:27:22-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "COMPARTAMOS"
     }
   ]
 }
