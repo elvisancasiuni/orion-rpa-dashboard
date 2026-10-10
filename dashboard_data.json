@@ -530,6 +530,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | FALABELLA - DBA - S443283 - HB_FERREÑAFE (358821)",
       "detalle": "Correo enviado",
       "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
+    },
+    {
+      "id": "2026-10-10T03:20:32-05:00-correo-MINISTERIO DE ECONOMIA Y FINANZAS - MEF",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-10T03:20:32-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S486959 - DBA - CONECTAMEF_MOQUEGUA_RESPALDO",
+      "detalle": "Correo enviado",
+      "referencia": "MINISTERIO DE ECONOMIA Y FINANZAS - MEF"
     }
   ]
 }
