@@ -440,6 +440,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S486044-UCV-Lima Centro",
       "detalle": "Correo enviado",
       "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
+    },
+    {
+      "id": "2026-10-09T22:52:02-05:00-whatsapp-UNIVERSIDAD CESAR VALLEJO UCV",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-09T22:52:02-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
     }
   ]
 }
