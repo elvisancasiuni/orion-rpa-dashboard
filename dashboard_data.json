@@ -287,6 +287,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S486921 - DBA - CONECTAMEF_AMAZONAS_RESPALDO",
       "detalle": "Correo enviado",
       "referencia": "MINISTERIO DE ECONOMIA Y FINANZAS - MEF"
+    },
+    {
+      "id": "2026-10-09T20:00:35-05:00-whatsapp-MINISTERIO DE ECONOMIA Y FINANZAS - MEF",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-09T20:00:35-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE ECONOMIA Y FINANZAS - MEF"
     }
   ]
 }
