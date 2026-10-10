@@ -539,6 +539,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S486959 - DBA - CONECTAMEF_MOQUEGUA_RESPALDO",
       "detalle": "Correo enviado",
       "referencia": "MINISTERIO DE ECONOMIA Y FINANZAS - MEF"
+    },
+    {
+      "id": "2026-10-10T07:48:20-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-10-10T07:48:20-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
     }
   ]
 }
