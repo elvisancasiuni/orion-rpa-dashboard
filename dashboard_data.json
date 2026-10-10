@@ -251,6 +251,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S401293 - MASS_PACHACUE9_VE_MS",
       "detalle": "Correo enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-10-09T19:57:16-05:00-whatsapp-SPSA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-09T19:57:16-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SPSA"
     }
   ]
 }
