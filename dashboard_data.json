@@ -242,6 +242,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
+    },
+    {
+      "id": "2026-10-09T19:56:52-05:00-correo-SPSA",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-09T19:56:52-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S401293 - MASS_PACHACUE9_VE_MS",
+      "detalle": "Correo enviado",
+      "referencia": "SPSA"
     }
   ]
 }
