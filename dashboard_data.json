@@ -206,6 +206,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "COMPARTAMOS"
+    },
+    {
+      "id": "2026-10-09T19:41:46-05:00-correo-COMPAÑIA HARD DISCOUNT S.A.C.",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-09T19:41:46-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | DBA S449547 - COMPANIA HARD DISCOUNT S.A.C.",
+      "detalle": "Correo enviado",
+      "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
     }
   ]
 }
