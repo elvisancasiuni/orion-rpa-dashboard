@@ -449,6 +449,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
+    },
+    {
+      "id": "2026-10-10T00:00:47-05:00-correo-SPSA",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-10T00:00:47-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414121 - MASS CANTO 3",
+      "detalle": "Correo enviado",
+      "referencia": "SPSA"
     }
   ]
 }
