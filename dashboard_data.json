@@ -395,6 +395,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-10-09T21:39:44-05:00-correo-SPSA",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-09T21:39:44-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414097 - JUSTO_REMINGTON",
+      "detalle": "Correo enviado",
+      "referencia": "SPSA"
     }
   ]
 }
