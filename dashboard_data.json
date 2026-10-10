@@ -683,6 +683,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "OPTICAL NETWORKS"
+    },
+    {
+      "id": "2026-10-10T12:15:32-05:00-correo-AMERICATEL PERU S.A.",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-10T12:15:32-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_A - LIMA - S424262 - 17177284, 17178153 | Av Juan Lecaros S/N Mz. 6 Lte. 2 Tienda Expres Puente Piedra",
+      "detalle": "Correo enviado",
+      "referencia": "AMERICATEL PERU S.A."
     }
   ]
 }
