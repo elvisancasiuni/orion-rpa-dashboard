@@ -827,6 +827,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
+    },
+    {
+      "id": "2026-10-11T12:10:05-05:00-correo-SPSA",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-11T12:10:05-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | HPSA - DBA - S385624",
+      "detalle": "Correo enviado",
+      "referencia": "SPSA"
     }
   ]
 }
