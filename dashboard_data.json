@@ -962,6 +962,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | GLOBAL CROSSING - DBA - S456433-S456434",
       "detalle": "Correo enviado",
       "referencia": "GLOBAL CROSSING"
+    },
+    {
+      "id": "2026-10-11T16:16:35-05:00-correo-MINISTERIO DE TRANSPORTES Y COMUNICACION",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-11T16:16:35-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465646 - ECER HUANUCO",
+      "detalle": "Correo enviado",
+      "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
     }
   ]
 }
