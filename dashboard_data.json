@@ -953,6 +953,15 @@
       "asunto": "LISTA DE ALARMAS MASIVAS",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-10-11T16:14:30-05:00-correo-GLOBAL CROSSING",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-11T16:14:30-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | GLOBAL CROSSING - DBA - S456433-S456434",
+      "detalle": "Correo enviado",
+      "referencia": "GLOBAL CROSSING"
     }
   ]
 }
