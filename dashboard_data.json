@@ -998,6 +998,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414155 - MASS_NICOLINI_2",
       "detalle": "Correo enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-10-11T16:19:44-05:00-whatsapp-SPSA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-11T16:19:44-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SPSA"
     }
   ]
 }
