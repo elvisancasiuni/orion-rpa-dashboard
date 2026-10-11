@@ -1079,6 +1079,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
+    },
+    {
+      "id": "2026-10-11T17:16:13-05:00-correo-MINISTERIO DE TRANSPORTES Y COMUNICACION",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-11T17:16:13-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465644 - ECER AYACUCHO",
+      "detalle": "Correo enviado",
+      "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
     }
   ]
 }
