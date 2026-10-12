@@ -1412,6 +1412,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "GTD PERÚ S.A"
+    },
+    {
+      "id": "2026-10-12T05:29:44-05:00-correo-BT LATAM",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-12T05:29:44-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | BT LATAM - DBA - S387289",
+      "detalle": "Correo enviado",
+      "referencia": "BT LATAM"
     }
   ]
 }
