@@ -1385,6 +1385,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | GTD PERÚ S.A - DBA - S472144-S472145",
       "detalle": "Correo enviado",
       "referencia": "GTD PERÚ S.A"
+    },
+    {
+      "id": "2026-10-12T03:35:34-05:00-whatsapp-GTD PERÚ S.A",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-12T03:35:34-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "GTD PERÚ S.A"
     }
   ]
 }
