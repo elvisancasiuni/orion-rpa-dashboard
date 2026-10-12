@@ -1340,6 +1340,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S483607 - SERNANP - AREQUIPA - DBI STK",
       "detalle": "Correo enviado",
       "referencia": "SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP"
+    },
+    {
+      "id": "2026-10-12T02:41:12-05:00-whatsapp-SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-12T02:41:12-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP"
     }
   ]
 }
