@@ -1304,6 +1304,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "GTD PERÚ S.A"
+    },
+    {
+      "id": "2026-10-12T02:18:25-05:00-whatsapp-GTD PERÚ S.A",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-12T02:18:25-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "GTD PERÚ S.A"
     }
   ]
 }
