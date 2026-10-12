@@ -1376,6 +1376,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | RED ENTEL - SW_ACC_SPEEDCAST_NOGALES_320743-S347879",
       "detalle": "Correo enviado",
       "referencia": "ENTEL CHILE"
+    },
+    {
+      "id": "2026-10-12T03:35:14-05:00-correo-GTD PERÚ S.A",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-12T03:35:14-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | GTD PERÚ S.A - DBA - S472144-S472145",
+      "detalle": "Correo enviado",
+      "referencia": "GTD PERÚ S.A"
     }
   ]
 }
