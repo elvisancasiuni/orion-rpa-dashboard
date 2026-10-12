@@ -1205,6 +1205,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
+    },
+    {
+      "id": "2026-10-11T19:01:32-05:00-correo-GTD PERU S.A",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-11T19:01:32-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | GTD - DBA - S459443-S459444",
+      "detalle": "Correo enviado",
+      "referencia": "GTD PERU S.A"
     }
   ]
 }
