@@ -1367,6 +1367,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S427258-UCV-LIMA NORTE",
       "detalle": "Correo enviado",
       "referencia": "DIRECCION DE REDES INTEGRADAS DE SALUD LIMA NORTE"
+    },
+    {
+      "id": "2026-10-12T02:59:46-05:00-correo-ENTEL CHILE",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-12T02:59:46-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | RED ENTEL - SW_ACC_SPEEDCAST_NOGALES_320743-S347879",
+      "detalle": "Correo enviado",
+      "referencia": "ENTEL CHILE"
     }
   ]
 }
