@@ -1727,6 +1727,15 @@
       "asunto": "LISTA DE ALARMAS MASIVAS",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-10-13T16:09:54-05:00-correo-SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-13T16:09:54-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUPERMERCADOS PERUANOS - S348363 - irprdv0140.inretail.local",
+      "detalle": "Correo enviado",
+      "referencia": "SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA"
     }
   ]
 }
