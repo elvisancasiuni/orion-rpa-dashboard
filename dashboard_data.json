@@ -1745,6 +1745,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA"
+    },
+    {
+      "id": "2026-10-13T16:10:43-05:00-whatsapp-SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-13T16:10:43-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA"
     }
   ]
 }
