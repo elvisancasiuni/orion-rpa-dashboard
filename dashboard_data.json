@@ -1583,6 +1583,15 @@
       "asunto": "LISTA DE ALARMAS MASIVAS",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-10-13T11:59:53-05:00-correo-GTD PERU S.A",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-13T11:59:53-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | GTD - DBA - S459443-S459444",
+      "detalle": "Correo enviado",
+      "referencia": "GTD PERU S.A"
     }
   ]
 }
