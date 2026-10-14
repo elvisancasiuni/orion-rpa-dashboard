@@ -1880,6 +1880,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "LA TINKA S.A."
+    },
+    {
+      "id": "2026-10-13T22:07:47-05:00-correo-UNIVERSIDAD CESAR VALLEJO UCV",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-13T22:07:47-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S486044-UCV-Lima Centro",
+      "detalle": "Correo enviado",
+      "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
     }
   ]
 }
