@@ -1907,6 +1907,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | AJEPER DEL ORIENTE S.A - S433621 - DBI - 35Mbps - JIRON GUILLERMO SISLEY NRO. 1523 - TARAPOTO",
       "detalle": "Correo enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-10-14T14:58:54-05:00-whatsapp-SPSA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-14T14:58:54-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SPSA"
     }
   ]
 }
