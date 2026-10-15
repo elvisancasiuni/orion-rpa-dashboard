@@ -2213,6 +2213,15 @@
       "asunto": "LISTA DE ALARMAS MASIVAS",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-10-15T12:44:40-05:00-correo-LA CALERA S.A.C",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-15T12:44:40-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA CALERA S.A.C - S396134 - AVENIDA LOS HORIZONTES MZ. N LTE. 7 URB. LOS HUERTOS DE VILLA (CHORRILLOS - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "LA CALERA S.A.C"
     }
   ]
 }
