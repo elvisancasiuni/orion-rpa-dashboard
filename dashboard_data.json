@@ -2096,6 +2096,15 @@
       "asunto": "LISTA DE ALARMAS MASIVAS",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-10-15T09:55:00-05:00-correo-COMPAÑIA HARD DISCOUNT S.A.C.",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-15T09:55:00-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | DBA S449547 - COMPANIA HARD DISCOUNT S.A.C.",
+      "detalle": "Correo enviado",
+      "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
     }
   ]
 }
