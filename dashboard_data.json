@@ -2141,6 +2141,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO PUBLICO - DBI_NGN - S365208",
       "detalle": "Correo enviado",
       "referencia": "MINISTERIO PUBLICO-GERENCIA GENERAL"
+    },
+    {
+      "id": "2026-10-15T10:12:54-05:00-correo-SPSA",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-15T10:12:54-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414137 - S387899 - MASS_SOCABAY4_AQP_MS",
+      "detalle": "Correo enviado",
+      "referencia": "SPSA"
     }
   ]
 }
