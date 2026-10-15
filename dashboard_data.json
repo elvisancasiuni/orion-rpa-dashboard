@@ -2231,6 +2231,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | FRANQUICIAS ALIMENTARIAS S.A - DBA 403238 - AVENIDA TOMAS VALLE NRO. S/N CENTRO COMERCIAL PLAZA NORTE (INDEPENDENCIA - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "FRANQUICIAS ALIMENTARIAS S.A."
+    },
+    {
+      "id": "2026-10-15T16:32:07-05:00-whatsapp-FRANQUICIAS ALIMENTARIAS S.A.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-15T16:32:07-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "FRANQUICIAS ALIMENTARIAS S.A."
     }
   ]
 }
