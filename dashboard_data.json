@@ -2222,6 +2222,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA CALERA S.A.C - S396134 - AVENIDA LOS HORIZONTES MZ. N LTE. 7 URB. LOS HUERTOS DE VILLA (CHORRILLOS - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "LA CALERA S.A.C"
+    },
+    {
+      "id": "2026-10-15T16:31:43-05:00-correo-FRANQUICIAS ALIMENTARIAS S.A.",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-15T16:31:43-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | FRANQUICIAS ALIMENTARIAS S.A - DBA 403238 - AVENIDA TOMAS VALLE NRO. S/N CENTRO COMERCIAL PLAZA NORTE (INDEPENDENCIA - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "FRANQUICIAS ALIMENTARIAS S.A."
     }
   ]
 }
