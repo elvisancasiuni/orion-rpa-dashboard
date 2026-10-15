@@ -2249,6 +2249,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "FRANQUICIAS ALIMENTARIAS S.A."
+    },
+    {
+      "id": "2026-10-15T17:10:59-05:00-correo-MINISTERIO DE TRANSPORTES Y COMUNICACION",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-15T17:10:59-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465679 - LEONCIO PRADO CHILCA",
+      "detalle": "Correo enviado",
+      "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
     }
   ]
 }
