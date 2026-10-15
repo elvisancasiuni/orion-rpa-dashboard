@@ -1952,6 +1952,15 @@
       "asunto": "LISTA DE ALARMAS MASIVAS",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-10-14T19:17:23-05:00-correo-SENATI",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-14T19:17:23-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SENATI - DBA - S412101",
+      "detalle": "Correo enviado",
+      "referencia": "SENATI"
     }
   ]
 }
