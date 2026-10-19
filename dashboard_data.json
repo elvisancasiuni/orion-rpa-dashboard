@@ -2402,6 +2402,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
+    },
+    {
+      "id": "2026-10-19T17:58:59-05:00-correo-SENATI",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-19T17:58:59-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SENATI - DBA - S412099",
+      "detalle": "Correo enviado",
+      "referencia": "SENATI"
     }
   ]
 }
