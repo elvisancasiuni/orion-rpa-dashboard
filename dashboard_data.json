@@ -2438,6 +2438,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | COOPERATIVA DE AHORRO Y CREDITO S406712",
       "detalle": "Correo enviado",
       "referencia": "COOPERATIVA DE AHORRO Y CREDITO DE SUB OFICIALES"
+    },
+    {
+      "id": "2026-10-19T19:18:59-05:00-correo-SENATI",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-19T19:18:59-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SENATI - DBA - S412091",
+      "detalle": "Correo enviado",
+      "referencia": "SENATI"
     }
   ]
 }
