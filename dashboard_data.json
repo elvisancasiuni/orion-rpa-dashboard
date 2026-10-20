@@ -2510,6 +2510,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ENTEL VP - DBI - S387943 - Juan Diego de Vinatea",
       "detalle": "Correo enviado",
       "referencia": "ENTEL CHILE"
+    },
+    {
+      "id": "2026-10-19T19:54:02-05:00-correo-PROMOTORES ELECTRICOS S A PROMELSA",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-19T19:54:02-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | PROMELSA-NARANJAL-S387107",
+      "detalle": "Correo enviado",
+      "referencia": "PROMOTORES ELECTRICOS S A PROMELSA"
     }
   ]
 }
