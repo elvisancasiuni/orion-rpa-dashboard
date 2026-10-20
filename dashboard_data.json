@@ -3050,6 +3050,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
+    },
+    {
+      "id": "2026-10-20T09:16:05-05:00-correo-SENATI",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-20T09:16:05-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SENATI - DBA - S414570",
+      "detalle": "Correo enviado",
+      "referencia": "SENATI"
     }
   ]
 }
