@@ -3086,6 +3086,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ENTEL VP - DBI - S391660 - S383075 - Lew Dammert / 998173859",
       "detalle": "Correo enviado",
       "referencia": "ENTEL CHILE"
+    },
+    {
+      "id": "2026-10-20T10:15:50-05:00-correo-SENATI",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-20T10:15:50-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SENATI - DBA - S414569",
+      "detalle": "Correo enviado",
+      "referencia": "SENATI"
     }
   ]
 }
