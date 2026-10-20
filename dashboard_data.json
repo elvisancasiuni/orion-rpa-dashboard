@@ -3095,6 +3095,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SENATI - DBA - S414569",
       "detalle": "Correo enviado",
       "referencia": "SENATI"
+    },
+    {
+      "id": "2026-10-20T10:16:09-05:00-whatsapp-SENATI",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-20T10:16:09-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SENATI"
     }
   ]
 }
