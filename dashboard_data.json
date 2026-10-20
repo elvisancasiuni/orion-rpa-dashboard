@@ -2870,6 +2870,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-10-20T07:26:49-05:00-correo-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-20T07:26:49-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | FALABELLA - DBA - S443305 - HT_LA POLVORA_UEN1 (335618)",
+      "detalle": "Correo enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
     }
   ]
 }
