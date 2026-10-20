@@ -2780,6 +2780,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | FALABELLA - DBA - S443259 - HT_CHORRILLOS_UEN1 (339099)",
       "detalle": "Correo enviado",
       "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
+    },
+    {
+      "id": "2026-10-20T02:11:04-05:00-whatsapp-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-20T02:11:04-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
     }
   ]
 }
