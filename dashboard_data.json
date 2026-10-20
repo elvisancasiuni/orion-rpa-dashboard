@@ -2609,6 +2609,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "OPTICAL NETWORKS"
+    },
+    {
+      "id": "2026-10-19T22:26:58-05:00-whatsapp-OPTICAL NETWORKS",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-19T22:26:58-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "OPTICAL NETWORKS"
     }
   ]
 }
