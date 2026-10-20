@@ -2519,6 +2519,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | PROMELSA-NARANJAL-S387107",
       "detalle": "Correo enviado",
       "referencia": "PROMOTORES ELECTRICOS S A PROMELSA"
+    },
+    {
+      "id": "2026-10-19T19:54:42-05:00-whatsapp-PROMOTORES ELECTRICOS S A PROMELSA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-19T19:54:42-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "PROMOTORES ELECTRICOS S A PROMELSA"
     }
   ]
 }
