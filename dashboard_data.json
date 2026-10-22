@@ -3671,6 +3671,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "MINISTERIO DE ECONOMIA Y FINANZAS - MEF"
+    },
+    {
+      "id": "2026-10-22T17:25:55-05:00-correo-COMPAÑIA HARD DISCOUNT S.A.C.",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-22T17:25:55-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPAÑIA HARD DISCOUNT - DBA S446026",
+      "detalle": "Correo enviado",
+      "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
     }
   ]
 }
