@@ -3311,6 +3311,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "COMPARTAMOS"
+    },
+    {
+      "id": "2026-10-22T02:07:45-05:00-whatsapp-COMPARTAMOS",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-22T02:07:45-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "COMPARTAMOS"
     }
   ]
 }
