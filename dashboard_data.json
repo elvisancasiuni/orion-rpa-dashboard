@@ -3473,6 +3473,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | AT&T - DBA - S427896 - S427897",
       "detalle": "Correo enviado",
       "referencia": "AT & T GLOBAL NETWORK SERVICES DEL PERU S.R.L."
+    },
+    {
+      "id": "2026-10-22T10:37:21-05:00-correo-AT & T GLOBAL NETWORK SERVICES DEL PERU S.R.L.",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-22T10:37:21-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | AT&T - DBA - S427893 - S427894",
+      "detalle": "Correo enviado",
+      "referencia": "AT & T GLOBAL NETWORK SERVICES DEL PERU S.R.L."
     }
   ]
 }
