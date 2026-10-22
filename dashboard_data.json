@@ -3482,6 +3482,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | AT&T - DBA - S427893 - S427894",
       "detalle": "Correo enviado",
       "referencia": "AT & T GLOBAL NETWORK SERVICES DEL PERU S.R.L."
+    },
+    {
+      "id": "2026-10-22T10:46:06-05:00-correo-SPSA",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-22T10:46:06-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414099 - MASS_M_EJERCITO_2_MI",
+      "detalle": "Correo enviado",
+      "referencia": "SPSA"
     }
   ]
 }
