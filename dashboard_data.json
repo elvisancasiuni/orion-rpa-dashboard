@@ -3545,6 +3545,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "TRANSPORTADORA DE GAS DEL PERU"
+    },
+    {
+      "id": "2026-10-22T11:36:43-05:00-correo-OPTICAL NETWORKS",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-22T11:36:43-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | OPTICAL NETWORKS S.A.C. - DBA - S472134-S472135",
+      "detalle": "Correo enviado",
+      "referencia": "OPTICAL NETWORKS"
     }
   ]
 }
