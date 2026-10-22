@@ -3599,6 +3599,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S466980-S466981",
       "detalle": "Correo enviado",
       "referencia": "OPTICAL NETWORKS"
+    },
+    {
+      "id": "2026-10-22T16:50:10-05:00-whatsapp-OPTICAL NETWORKS",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-22T16:50:10-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "OPTICAL NETWORKS"
     }
   ]
 }
