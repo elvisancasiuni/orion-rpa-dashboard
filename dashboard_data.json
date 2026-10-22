@@ -3635,6 +3635,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "OPTICAL NETWORKS"
+    },
+    {
+      "id": "2026-10-22T17:20:14-05:00-correo-MINISTERIO DE ECONOMIA Y FINANZAS - MEF",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-22T17:20:14-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S486940 - DBA - CONECTAMEF_TARAPOTO_PRINCIPAL",
+      "detalle": "Correo enviado",
+      "referencia": "MINISTERIO DE ECONOMIA Y FINANZAS - MEF"
     }
   ]
 }
