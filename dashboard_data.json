@@ -3734,6 +3734,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S445118 - DBA - MINISTERIO DE ECONOMIA Y FINANZAS - PRINCIPAL",
       "detalle": "Correo enviado",
       "referencia": "MINISTERIO DE ECONOMIA Y FINANZAS - MEF"
+    },
+    {
+      "id": "2026-10-22T19:08:28-05:00-whatsapp-MINISTERIO DE ECONOMIA Y FINANZAS - MEF",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-22T19:08:28-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE ECONOMIA Y FINANZAS - MEF"
     }
   ]
 }
