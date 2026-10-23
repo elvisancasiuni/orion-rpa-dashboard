@@ -4184,6 +4184,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "OPTICAL NETWORKS"
+    },
+    {
+      "id": "2026-10-23T17:34:38-05:00-correo-COOPERATIVA DE AHORRO Y CREDITO DE SUB OFICIALES",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-23T17:34:38-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COOPERATIVA DE AHORRO Y CREDITO DE SUB OFICIALES - DBI 406714 - CALLE E. PALACIOS NRO. 170 URB. LAS MERCEDES (PIURA - PIURA - PIURA)",
+      "detalle": "Correo enviado",
+      "referencia": "COOPERATIVA DE AHORRO Y CREDITO DE SUB OFICIALES"
     }
   ]
 }
