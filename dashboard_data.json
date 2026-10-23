@@ -3914,6 +3914,15 @@
       "asunto": "LISTA DE ALARMAS MASIVAS",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-10-22T21:28:54-05:00-correo-SENCICO",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-22T21:28:54-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SENCICO - CAJAMARCA [PRINCIPAL] - S411448",
+      "detalle": "Correo enviado",
+      "referencia": "SENCICO"
     }
   ]
 }
