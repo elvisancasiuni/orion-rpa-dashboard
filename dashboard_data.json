@@ -4148,6 +4148,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | OPTICAL S420049-S420050 [DEMARCADOR]",
       "detalle": "Correo enviado",
       "referencia": "OPTICAL NETWORKS"
+    },
+    {
+      "id": "2026-10-23T17:23:31-05:00-whatsapp-OPTICAL NETWORKS",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-23T17:23:31-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "OPTICAL NETWORKS"
     }
   ]
 }
