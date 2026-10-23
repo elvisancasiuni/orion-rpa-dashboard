@@ -3986,6 +3986,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S486934 - DBA - CONECTAMEF_TUMBES_PRINCIPAL",
       "detalle": "Correo enviado",
       "referencia": "MINISTERIO DE ECONOMIA Y FINANZAS - MEF"
+    },
+    {
+      "id": "2026-10-22T22:36:41-05:00-whatsapp-MINISTERIO DE ECONOMIA Y FINANZAS - MEF",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-22T22:36:41-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE ECONOMIA Y FINANZAS - MEF"
     }
   ]
 }
