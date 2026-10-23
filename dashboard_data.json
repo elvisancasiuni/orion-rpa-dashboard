@@ -3932,6 +3932,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | H & M HENNES & MAURITZ S.A.C. - S368999 - DBI - PPEE - Centro Comercial EL QUINDE CAJAMARCA",
       "detalle": "Correo enviado",
       "referencia": "H&M HENNES & MAURITZ S.A.C."
+    },
+    {
+      "id": "2026-10-22T21:51:00-05:00-correo-AMERICATEL PERU S.A.",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-22T21:51:00-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_A - CAJAMARCA - S258961 - 76711000 al 76711007 | TUP00034 al TUP00041 | Jr. Eten 206, Cajamarca Cercado",
+      "detalle": "Correo enviado",
+      "referencia": "AMERICATEL PERU S.A."
     }
   ]
 }
