@@ -4031,6 +4031,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SW SENCICO - LORETO [PRINCIPAL] - S411464",
       "detalle": "Correo enviado",
       "referencia": "SENCICO"
+    },
+    {
+      "id": "2026-10-23T03:09:16-05:00-correo-MINISTERIO DE ECONOMIA Y FINANZAS - MEF",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-23T03:09:16-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S486959 - DBA - CONECTAMEF_MOQUEGUA_RESPALDO",
+      "detalle": "Correo enviado",
+      "referencia": "MINISTERIO DE ECONOMIA Y FINANZAS - MEF"
     }
   ]
 }
