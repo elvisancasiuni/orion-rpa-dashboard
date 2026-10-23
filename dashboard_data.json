@@ -4022,6 +4022,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SENCICO - LORETO [PRINCIPAL] - S411464",
       "detalle": "Correo enviado",
       "referencia": "SENCICO"
+    },
+    {
+      "id": "2026-10-23T00:12:42-05:00-correo-SENCICO",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-23T00:12:42-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SW SENCICO - LORETO [PRINCIPAL] - S411464",
+      "detalle": "Correo enviado",
+      "referencia": "SENCICO"
     }
   ]
 }
