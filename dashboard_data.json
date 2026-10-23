@@ -3779,6 +3779,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "BOTICAS IP"
+    },
+    {
+      "id": "2026-10-22T19:11:15-05:00-whatsapp-BOTICAS IP",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-22T19:11:15-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "BOTICAS IP"
     }
   ]
 }
