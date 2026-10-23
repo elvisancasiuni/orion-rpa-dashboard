@@ -4139,6 +4139,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-10-23T17:23:06-05:00-correo-OPTICAL NETWORKS",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-23T17:23:06-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | OPTICAL S420049-S420050 [DEMARCADOR]",
+      "detalle": "Correo enviado",
+      "referencia": "OPTICAL NETWORKS"
     }
   ]
 }
