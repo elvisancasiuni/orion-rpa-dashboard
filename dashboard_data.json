@@ -3941,6 +3941,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_A - CAJAMARCA - S258961 - 76711000 al 76711007 | TUP00034 al TUP00041 | Jr. Eten 206, Cajamarca Cercado",
       "detalle": "Correo enviado",
       "referencia": "AMERICATEL PERU S.A."
+    },
+    {
+      "id": "2026-10-22T22:08:59-05:00-correo-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-22T22:08:59-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | FALABELLA - DBA - S443234 - MA_CAJAMARCA (336676)",
+      "detalle": "Correo enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
     }
   ]
 }
