@@ -4103,6 +4103,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-10-23T16:04:58-05:00-correo-SPSA",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-23T16:04:58-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414172 - MASS_EJERCITO_9",
+      "detalle": "Correo enviado",
+      "referencia": "SPSA"
     }
   ]
 }
