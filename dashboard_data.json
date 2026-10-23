@@ -4193,6 +4193,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | COOPERATIVA DE AHORRO Y CREDITO DE SUB OFICIALES - DBI 406714 - CALLE E. PALACIOS NRO. 170 URB. LAS MERCEDES (PIURA - PIURA - PIURA)",
       "detalle": "Correo enviado",
       "referencia": "COOPERATIVA DE AHORRO Y CREDITO DE SUB OFICIALES"
+    },
+    {
+      "id": "2026-10-23T17:58:47-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-10-23T17:58:47-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
     }
   ]
 }
