@@ -3806,6 +3806,15 @@
       "asunto": "LISTA DE ALARMAS MASIVAS",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-10-22T19:56:13-05:00-correo-MINISTERIO DE ECONOMIA Y FINANZAS - MEF",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-22T19:56:13-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S486941 - DBA - CONECTAMEF_TARAPOTO_RESPALDO",
+      "detalle": "Correo enviado",
+      "referencia": "MINISTERIO DE ECONOMIA Y FINANZAS - MEF"
     }
   ]
 }
