@@ -4454,6 +4454,24 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "COMPARTAMOS"
+    },
+    {
+      "id": "2026-10-24T02:27:19-05:00-whatsapp-COMPARTAMOS",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-24T02:27:19-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "COMPARTAMOS"
+    },
+    {
+      "id": "2026-10-24T02:27:34-05:00-whatsapp-COMPARTAMOS",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-24T02:27:34-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "COMPARTAMOS"
     }
   ]
 }
