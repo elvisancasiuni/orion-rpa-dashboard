@@ -4472,6 +4472,33 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "COMPARTAMOS"
+    },
+    {
+      "id": "2026-10-26T02:14:37-05:00-correo-HIPERMERCADOS TOTTUS",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-26T02:14:37-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | HIPERMERCADOS TOTTUS - S476900 - DBA - SEDE: 156 - LOS OLIVOS - AVENIDA ALFREDO MENDIOLA NRO. 5810 URB. INFANTAS (LOS OLIVOS - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "HIPERMERCADOS TOTTUS"
+    },
+    {
+      "id": "2026-10-26T02:18:12-05:00-correo-SPSA",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-26T02:18:12-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S471941 - MASS_ARQUITE_1_AN",
+      "detalle": "Correo enviado",
+      "referencia": "SPSA"
+    },
+    {
+      "id": "2026-10-26T02:18:56-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-10-26T02:18:56-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
     }
   ]
 }
