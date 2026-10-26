@@ -4580,6 +4580,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | COOPERATIVA DE AHORRO Y CREDITO DE SUB OFICIALES - DBI 406714 - CALLE E. PALACIOS NRO. 170 URB. LAS MERCEDES (PIURA - PIURA - PIURA)",
       "detalle": "Correo enviado",
       "referencia": "COOPERATIVA DE AHORRO Y CREDITO DE SUB OFICIALES"
+    },
+    {
+      "id": "2026-10-26T05:27:41-05:00-correo-COMPAÑIA HARD DISCOUNT S.A.C.",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-26T05:27:41-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPAÑIA HARD DISCOUNT S.A.C. - DBA - S445997",
+      "detalle": "Correo enviado",
+      "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
     }
   ]
 }
