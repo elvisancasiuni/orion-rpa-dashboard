@@ -4499,6 +4499,24 @@
       "asunto": "LISTA DE ALARMAS MASIVAS",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-10-26T02:19:09-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-10-26T02:19:09-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
+    },
+    {
+      "id": "2026-10-26T02:19:31-05:00-whatsapp-HIPERMERCADOS TOTTUS",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-26T02:19:31-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "HIPERMERCADOS TOTTUS"
     }
   ]
 }
