@@ -4814,6 +4814,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | PROMELSA-NARANJAL-S387107",
       "detalle": "Correo enviado",
       "referencia": "PROMOTORES ELECTRICOS S A PROMELSA"
+    },
+    {
+      "id": "2026-10-27T09:35:19-05:00-correo-ORANGE",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-27T09:35:19-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSASERVICES03.inretail.local",
+      "detalle": "Correo enviado",
+      "referencia": "ORANGE"
     }
   ]
 }
