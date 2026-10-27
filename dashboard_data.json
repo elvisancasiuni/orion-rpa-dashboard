@@ -4787,6 +4787,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | AT&T - DBA - S427896 - S427897",
       "detalle": "Correo enviado",
       "referencia": "AT & T GLOBAL NETWORK SERVICES DEL PERU S.R.L."
+    },
+    {
+      "id": "2026-10-27T09:32:45-05:00-correo-MINERA CORONA",
+      "tipo": "correo",
+      "fecha_hora": "2026-10-27T09:32:45-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SOC. MINERA CORONA S.A - DBI - S423988 - ALIS - YAUYOS - LIMA",
+      "detalle": "Correo enviado",
+      "referencia": "MINERA CORONA"
     }
   ]
 }
