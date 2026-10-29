@@ -5138,6 +5138,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "COMPARTAMOS"
+    },
+    {
+      "id": "2026-10-29T05:15:53-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-10-29T05:15:53-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
     }
   ]
 }
