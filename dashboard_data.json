@@ -4922,6 +4922,24 @@
       "asunto": "LISTA DE ALARMAS MASIVAS",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-10-29T02:37:26-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-10-29T02:37:26-05:00",
+      "cantidad": 1,
+      "asunto": "LISTA DE ALARMAS MASIVAS",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
+    },
+    {
+      "id": "2026-10-29T02:38:13-05:00-whatsapp-SPSA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-10-29T02:38:13-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SPSA"
     }
   ]
 }
