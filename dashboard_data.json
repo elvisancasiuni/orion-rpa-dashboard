@@ -5543,6 +5543,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-11-01T19:46:21-05:00-whatsapp-FRANQUICIAS ALIMENTARIAS S.A.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-01T19:46:21-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "FRANQUICIAS ALIMENTARIAS S.A."
     }
   ]
 }
