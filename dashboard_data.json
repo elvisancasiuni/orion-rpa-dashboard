@@ -5615,6 +5615,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "MIFARMA"
+    },
+    {
+      "id": "2026-11-01T20:16:33-05:00-whatsapp-SPSA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-01T20:16:33-05:00",
+      "cantidad": 1,
+      "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SPSA"
     }
   ]
 }
