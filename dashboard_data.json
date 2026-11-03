@@ -5741,6 +5741,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-11-03T11:50:35-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-11-03T11:50:35-05:00",
+      "cantidad": 1,
+      "asunto": "DBA -S446016 COMPAÑIA HARD DISCOUNT S.A.C.\nH & M HENNES & MAURITZ S.A.C. - S312991 - DBI - PPEE - Centro Comercial MALL DEL SUR\nFALABELLA - DBA - S443204 - SF_PLAZA LIMA NORTE_UEN1 (335910)\nTGP - DBA - S465353 - SCADA PS3\nMIFARMA S.A.C. - S310438 - S412501 - AVENIDA CUTERVO NRO. 128 LOCAL 1004 SUPERMERCADO METRO (ICA - ICA - ICA)\n",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
     }
   ]
 }
