@@ -5759,6 +5759,15 @@
       "asunto": "Diego Lopez-",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "MIFARMA"
+    },
+    {
+      "id": "2026-11-04T13:50:27-05:00-correo_masiva-MIFARMA",
+      "tipo": "correo_masiva",
+      "fecha_hora": "2026-11-04T13:50:27-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIFARMA S.A.C - S412324 - CALLE VICTOR ALZAMORA NRO. 147 URB. SANTA CATALINA (LA VICTORIA - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "MIFARMA"
     }
   ]
 }
