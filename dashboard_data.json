@@ -5786,6 +5786,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIFARMA S.A.C - S412324 - CALLE VICTOR ALZAMORA NRO. 147 URB. SANTA CATALINA (LA VICTORIA - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "MIFARMA"
+    },
+    {
+      "id": "2026-11-04T13:52:57-05:00-correo_masiva-BOTICAS IP",
+      "tipo": "correo_masiva",
+      "fecha_hora": "2026-11-04T13:52:57-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | BOTICAS IP S.A.C-DBA-S412903-LA VICTORIA-CABECERA_PR-BK_S412904",
+      "detalle": "Correo enviado",
+      "referencia": "BOTICAS IP"
     }
   ]
 }
