@@ -5867,6 +5867,15 @@
       "asunto": "Diego Lopez-",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "BOTICAS IP"
+    },
+    {
+      "id": "2026-11-04T13:58:43-05:00-correo_individual-BOTICAS IP",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-04T13:58:43-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | BOTICAS IP S.A.C-DBA-S412903-LA VICTORIA-CABECERA_PR-BK_S412904",
+      "detalle": "Correo enviado",
+      "referencia": "BOTICAS IP"
     }
   ]
 }
