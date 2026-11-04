@@ -6092,6 +6092,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | PROVIAS - DBA - S379800 - CUSCO",
       "detalle": "Correo enviado",
       "referencia": "CAFAE DEL PROYECTO ESPECIAL DE INFRAESTRUCTURA DE TRANSPORTE NACIONAL PROVIAS NACIONAL"
+    },
+    {
+      "id": "2026-11-04T14:20:27-05:00-whatsapp-CAFAE DEL PROYECTO ESPECIAL DE INFRAESTRUCTURA DE TRANSPORTE NACIONAL PROVIAS NACIONAL",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-04T14:20:27-05:00",
+      "cantidad": 1,
+      "asunto": "+51 947 510 353",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "CAFAE DEL PROYECTO ESPECIAL DE INFRAESTRUCTURA DE TRANSPORTE NACIONAL PROVIAS NACIONAL"
     }
   ]
 }
