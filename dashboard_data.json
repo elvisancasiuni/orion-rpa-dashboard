@@ -5759,6 +5759,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | FRANQUICIAS ALIMENTARIAS S.A - DBA 390824 - AVENIDA LA MARINA NRO. 2355 LOCAL 1A (SAN MIGUEL - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "FRANQUICIAS ALIMENTARIAS S.A."
+    },
+    {
+      "id": "2026-11-04T10:28:09-05:00-whatsapp-FRANQUICIAS ALIMENTARIAS S.A.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-04T10:28:09-05:00",
+      "cantidad": 1,
+      "asunto": "@jbances27",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "FRANQUICIAS ALIMENTARIAS S.A."
     }
   ]
 }
