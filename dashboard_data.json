@@ -5795,6 +5795,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | BOTICAS IP S.A.C-DBA-S412903-LA VICTORIA-CABECERA_PR-BK_S412904",
       "detalle": "Correo enviado",
       "referencia": "BOTICAS IP"
+    },
+    {
+      "id": "2026-11-04T13:53:22-05:00-whatsapp-MIFARMA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-04T13:53:22-05:00",
+      "cantidad": 1,
+      "asunto": "Diego Lopez-",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MIFARMA"
     }
   ]
 }
