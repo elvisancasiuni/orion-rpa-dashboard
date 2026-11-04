@@ -5984,6 +5984,15 @@
       "asunto": "+51 947 510 353",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "CAFAE DEL PROYECTO ESPECIAL DE INFRAESTRUCTURA DE TRANSPORTE NACIONAL PROVIAS NACIONAL"
+    },
+    {
+      "id": "2026-11-04T14:08:49-05:00-whatsapp-BOTICAS IP",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-04T14:08:49-05:00",
+      "cantidad": 1,
+      "asunto": "Diego Lopez-",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "BOTICAS IP"
     }
   ]
 }
