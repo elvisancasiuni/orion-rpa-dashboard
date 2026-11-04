@@ -5975,6 +5975,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | OIT-S486058_BOTICAS_IP",
       "detalle": "Correo enviado",
       "referencia": "BOTICAS IP"
+    },
+    {
+      "id": "2026-11-04T14:08:34-05:00-whatsapp-CAFAE DEL PROYECTO ESPECIAL DE INFRAESTRUCTURA DE TRANSPORTE NACIONAL PROVIAS NACIONAL",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-04T14:08:34-05:00",
+      "cantidad": 1,
+      "asunto": "+51 947 510 353",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "CAFAE DEL PROYECTO ESPECIAL DE INFRAESTRUCTURA DE TRANSPORTE NACIONAL PROVIAS NACIONAL"
     }
   ]
 }
