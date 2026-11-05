@@ -6317,6 +6317,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | DBA - S456107 - ZONA REGISTRAL N XII - SUNARP - CHIVAY - 6 Mbps",
       "detalle": "Correo enviado",
       "referencia": "SUNARP ZONA REGISTRAL N° XII, SEDE AREQUIPA"
+    },
+    {
+      "id": "2026-11-05T10:13:24-05:00-correo_individual-SUPERINTENDENCIA NACIONAL DE ADUANAS Y DE ADMINISTRACION TRIBUTARIA - SUNAT",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-05T10:13:24-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUNAT - DBI - S489514 - PUNO - PRINCIPAL",
+      "detalle": "Correo enviado",
+      "referencia": "SUPERINTENDENCIA NACIONAL DE ADUANAS Y DE ADMINISTRACION TRIBUTARIA - SUNAT"
     }
   ]
 }
