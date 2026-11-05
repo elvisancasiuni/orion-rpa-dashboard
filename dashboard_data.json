@@ -6398,6 +6398,15 @@
       "asunto": "Jhonny Llanos",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA"
+    },
+    {
+      "id": "2026-11-05T10:28:46-05:00-whatsapp-SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-05T10:28:46-05:00",
+      "cantidad": 1,
+      "asunto": "Daniel Llanos",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA"
     }
   ]
 }
