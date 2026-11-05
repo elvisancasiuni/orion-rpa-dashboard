@@ -6515,6 +6515,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SENCICO - SAN BORJA [RESPALDO] - S411421",
       "detalle": "Correo enviado",
       "referencia": "SENCICO"
+    },
+    {
+      "id": "2026-11-05T10:50:00-05:00-correo_masiva-SENCICO",
+      "tipo": "correo_masiva",
+      "fecha_hora": "2026-11-05T10:50:00-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SENCICO - SAN BORJA [PRINCIPAL] - S411420",
+      "detalle": "Correo enviado",
+      "referencia": "SENCICO"
     }
   ]
 }
