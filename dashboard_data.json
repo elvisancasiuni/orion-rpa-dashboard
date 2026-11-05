@@ -6380,6 +6380,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SUPERMERCADOS PERUANOS - S348363 - SPPRDV0212.sp.inretail.local",
       "detalle": "Correo enviado",
       "referencia": "SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA"
+    },
+    {
+      "id": "2026-11-05T10:28:01-05:00-whatsapp-SUNARP ZONA REGISTRAL N° XII, SEDE AREQUIPA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-05T10:28:01-05:00",
+      "cantidad": 1,
+      "asunto": "@lennonpoul",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SUNARP ZONA REGISTRAL N° XII, SEDE AREQUIPA"
     }
   ]
 }
