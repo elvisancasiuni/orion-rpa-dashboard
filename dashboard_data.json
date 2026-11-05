@@ -6389,6 +6389,15 @@
       "asunto": "@lennonpoul",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SUNARP ZONA REGISTRAL N° XII, SEDE AREQUIPA"
+    },
+    {
+      "id": "2026-11-05T10:28:24-05:00-whatsapp-SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-05T10:28:24-05:00",
+      "cantidad": 1,
+      "asunto": "Jhonny Llanos",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SUPERMERCADOS PERUANOS SOCIEDAD ANONIMA"
     }
   ]
 }
