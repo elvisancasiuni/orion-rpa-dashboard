@@ -6434,6 +6434,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S471047-UCV-ATE",
       "detalle": "Correo enviado",
       "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
+    },
+    {
+      "id": "2026-11-05T10:36:38-05:00-correo_masiva-INSTITUTO GEOFISICO DEL PERU",
+      "tipo": "correo_masiva",
+      "fecha_hora": "2026-11-05T10:36:38-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | BT PERU S.R.L. - DBA - S440677/S440678",
+      "detalle": "Correo enviado",
+      "referencia": "INSTITUTO GEOFISICO DEL PERU"
     }
   ]
 }
