@@ -6479,6 +6479,15 @@
       "asunto": "@emerscroll",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
+    },
+    {
+      "id": "2026-11-05T10:39:37-05:00-whatsapp-UNIVERSIDAD CESAR VALLEJO UCV",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-05T10:39:37-05:00",
+      "cantidad": 1,
+      "asunto": "+51 987 557 869",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
     }
   ]
 }
