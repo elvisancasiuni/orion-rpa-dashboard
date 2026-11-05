@@ -6488,6 +6488,15 @@
       "asunto": "+51 987 557 869",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
+    },
+    {
+      "id": "2026-11-05T10:46:53-05:00-correo_masiva-SENCICO",
+      "tipo": "correo_masiva",
+      "fecha_hora": "2026-11-05T10:46:53-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SW SENCICO - LIMA SBO [RESPALDO] - S411421",
+      "detalle": "Correo enviado",
+      "referencia": "SENCICO"
     }
   ]
 }
