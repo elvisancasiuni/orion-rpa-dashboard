@@ -6443,6 +6443,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | BT PERU S.R.L. - DBA - S440677/S440678",
       "detalle": "Correo enviado",
       "referencia": "INSTITUTO GEOFISICO DEL PERU"
+    },
+    {
+      "id": "2026-11-05T10:37:49-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-11-05T10:37:49-05:00",
+      "cantidad": 1,
+      "asunto": "469903 - UCV - ATE (2GB)\nS471047-UCV-ATE\nBT PERU S.R.L. - DBA - S440677/S440678\n",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
     }
   ]
 }
