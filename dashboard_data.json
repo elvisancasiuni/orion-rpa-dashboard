@@ -6263,6 +6263,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | HIPERMERCADOS TOTTUS - S476893 - DBA - SEDE: 112 - QUILCA - AVENIDA LIMA NRO. 4208 URB. BOCANEGRA (CALLAO - CALLAO - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "HIPERMERCADOS TOTTUS"
+    },
+    {
+      "id": "2026-11-05T07:44:11-05:00-correo_individual-LA TINKA S.A.",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-05T07:44:11-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
+      "detalle": "Correo enviado",
+      "referencia": "LA TINKA S.A."
     }
   ]
 }
