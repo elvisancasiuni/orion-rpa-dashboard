@@ -6461,6 +6461,15 @@
       "asunto": "469903 - UCV - ATE (2GB)\nS471047-UCV-ATE\nBT PERU S.R.L. - DBA - S440677/S440678\n",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-11-05T10:38:53-05:00-whatsapp-UNIVERSIDAD CESAR VALLEJO UCV",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-05T10:38:53-05:00",
+      "cantidad": 1,
+      "asunto": "@emerscroll",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
     }
   ]
 }
