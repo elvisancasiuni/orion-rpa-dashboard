@@ -6254,6 +6254,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | PROVIAS - DBA - S379800 - CUSCO",
       "detalle": "Correo enviado",
       "referencia": "CAFAE DEL PROYECTO ESPECIAL DE INFRAESTRUCTURA DE TRANSPORTE NACIONAL PROVIAS NACIONAL"
+    },
+    {
+      "id": "2026-11-05T07:43:07-05:00-correo_individual-HIPERMERCADOS TOTTUS",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-05T07:43:07-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | HIPERMERCADOS TOTTUS - S476893 - DBA - SEDE: 112 - QUILCA - AVENIDA LIMA NRO. 4208 URB. BOCANEGRA (CALLAO - CALLAO - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "HIPERMERCADOS TOTTUS"
     }
   ]
 }
