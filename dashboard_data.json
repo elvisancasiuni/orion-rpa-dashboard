@@ -6308,6 +6308,15 @@
       "asunto": "@lennonpoul",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SUNARP ZONA REGISTRAL N° XII, SEDE AREQUIPA"
+    },
+    {
+      "id": "2026-11-05T10:12:11-05:00-correo_individual-SUNARP ZONA REGISTRAL N° XII, SEDE AREQUIPA",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-05T10:12:11-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | DBA - S456107 - ZONA REGISTRAL N XII - SUNARP - CHIVAY - 6 Mbps",
+      "detalle": "Correo enviado",
+      "referencia": "SUNARP ZONA REGISTRAL N° XII, SEDE AREQUIPA"
     }
   ]
 }
