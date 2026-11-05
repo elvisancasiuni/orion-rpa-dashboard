@@ -6569,6 +6569,15 @@
       "asunto": "Daniel Llanos",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
+    },
+    {
+      "id": "2026-11-05T10:55:45-05:00-whatsapp-COMPAÑIA HARD DISCOUNT S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-05T10:55:45-05:00",
+      "cantidad": 1,
+      "asunto": "+51 919 545 412",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
     }
   ]
 }
