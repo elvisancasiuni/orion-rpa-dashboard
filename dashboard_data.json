@@ -6542,6 +6542,15 @@
       "asunto": "SW SENCICO - LIMA SBO [RESPALDO] - S411421\nSW SENCICO - LIMA SBO [PRINCIPAL] - S411420\nSENCICO - SAN BORJA [RESPALDO] - S411421\nSENCICO - SAN BORJA [PRINCIPAL] - S411420\nCOMPANIA HARD DISCOUNT S.A.C. - DBA - S453250\n",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-11-05T10:53:37-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-11-05T10:53:37-05:00",
+      "cantidad": 1,
+      "asunto": "SW SENCICO - LIMA SBO [RESPALDO] - S411421\nSW SENCICO - LIMA SBO [PRINCIPAL] - S411420\nSENCICO - SAN BORJA [RESPALDO] - S411421\nSENCICO - SAN BORJA [PRINCIPAL] - S411420\nCOMPANIA HARD DISCOUNT S.A.C. - DBA - S453250\n",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
     }
   ]
 }
