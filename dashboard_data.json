@@ -6425,6 +6425,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | 469903 - UCV - ATE (2GB)",
       "detalle": "Correo enviado",
       "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
+    },
+    {
+      "id": "2026-11-05T10:35:49-05:00-correo_masiva-UNIVERSIDAD CESAR VALLEJO UCV",
+      "tipo": "correo_masiva",
+      "fecha_hora": "2026-11-05T10:35:49-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S471047-UCV-ATE",
+      "detalle": "Correo enviado",
+      "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
     }
   ]
 }
