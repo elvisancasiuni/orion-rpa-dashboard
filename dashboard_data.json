@@ -5831,6 +5831,24 @@
       "asunto": "Daniel Llanos",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
+    },
+    {
+      "id": "2026-11-07T11:56:26-05:00-whatsapp-COMPAÑIA HARD DISCOUNT S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-07T11:56:26-05:00",
+      "cantidad": 1,
+      "asunto": "+51 919 545 412",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
+    },
+    {
+      "id": "2026-11-07T11:57:16-05:00-whatsapp-HIPERMERCADOS TOTTUS",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-07T11:57:16-05:00",
+      "cantidad": 1,
+      "asunto": "+51 980 481 954",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "HIPERMERCADOS TOTTUS"
     }
   ]
 }
