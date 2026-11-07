@@ -5849,6 +5849,24 @@
       "asunto": "+51 980 481 954",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "HIPERMERCADOS TOTTUS"
+    },
+    {
+      "id": "2026-11-07T11:57:38-05:00-whatsapp-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-07T11:57:38-05:00",
+      "cantidad": 1,
+      "asunto": "@rotch98",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
+    },
+    {
+      "id": "2026-11-07T11:58:16-05:00-whatsapp-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-07T11:58:16-05:00",
+      "cantidad": 1,
+      "asunto": "+51 954 634 684",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
     }
   ]
 }
