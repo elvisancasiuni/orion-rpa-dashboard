@@ -5768,6 +5768,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPAÑIA HARD DISCOUNT S.A.C. - DBA - S433637",
       "detalle": "Correo enviado",
       "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
+    },
+    {
+      "id": "2026-11-07T11:50:58-05:00-correo_individual-HIPERMERCADOS TOTTUS",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-07T11:50:58-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | HIPERMERCADOS TOTTUS - DBA - S459617 - SEGUNDO BACKUP",
+      "detalle": "Correo enviado",
+      "referencia": "HIPERMERCADOS TOTTUS"
     }
   ]
 }
