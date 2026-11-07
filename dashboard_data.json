@@ -5867,6 +5867,15 @@
       "asunto": "+51 954 634 684",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
+    },
+    {
+      "id": "2026-11-07T12:27:09-05:00-correo_individual-OFICINAS DEL PERU S.A.C.",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-07T12:27:09-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | OFICINAS DEL PERU - DBI - S371875",
+      "detalle": "Correo enviado",
+      "referencia": "OFICINAS DEL PERU S.A.C."
     }
   ]
 }
