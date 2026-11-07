@@ -5822,6 +5822,15 @@
       "asunto": "Jhonny Llanos",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
+    },
+    {
+      "id": "2026-11-07T11:56:05-05:00-whatsapp-COMPAÑIA HARD DISCOUNT S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-07T11:56:05-05:00",
+      "cantidad": 1,
+      "asunto": "Daniel Llanos",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
     }
   ]
 }
