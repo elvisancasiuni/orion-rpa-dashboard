@@ -5777,6 +5777,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | HIPERMERCADOS TOTTUS - DBA - S459617 - SEGUNDO BACKUP",
       "detalle": "Correo enviado",
       "referencia": "HIPERMERCADOS TOTTUS"
+    },
+    {
+      "id": "2026-11-07T11:52:16-05:00-correo_individual-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-07T11:52:16-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | FALABELLA - DBA - S443257 - HT_TUSILAGOS_UEN1 (339096)",
+      "detalle": "Correo enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
     }
   ]
 }
