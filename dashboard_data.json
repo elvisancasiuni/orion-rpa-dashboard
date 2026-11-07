@@ -5741,6 +5741,15 @@
       "asunto": "NOTIFICACION DE CAIDA DE SERVICIO",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-11-07T11:37:31-05:00-correo_individual-PRISONTEC",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-07T11:37:31-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | PRISONTEC S.A.C - S475055 - URB. CASE RIO SECO (PIURA - PIURA - PIURA)",
+      "detalle": "Correo enviado",
+      "referencia": "PRISONTEC"
     }
   ]
 }
