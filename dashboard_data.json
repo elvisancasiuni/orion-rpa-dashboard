@@ -5894,6 +5894,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | IG NETWORKS - DBI - S429621",
       "detalle": "Correo enviado",
       "referencia": "IG Networks"
+    },
+    {
+      "id": "2026-11-07T12:36:51-05:00-correo_individual-SENCICO",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-07T12:36:51-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SW SENCICO - TRUJILLO (LA MERCED) [PRINCIPAL] - S441847",
+      "detalle": "Correo enviado",
+      "referencia": "SENCICO"
     }
   ]
 }
