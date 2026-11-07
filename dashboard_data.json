@@ -5786,6 +5786,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | FALABELLA - DBA - S443257 - HT_TUSILAGOS_UEN1 (339096)",
       "detalle": "Correo enviado",
       "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
+    },
+    {
+      "id": "2026-11-07T11:52:58-05:00-whatsapp-PRISONTEC",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-07T11:52:58-05:00",
+      "cantidad": 1,
+      "asunto": "@EduNunDav",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "PRISONTEC"
     }
   ]
 }
