@@ -5813,6 +5813,15 @@
       "asunto": "+51 929 339 972",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "PRISONTEC"
+    },
+    {
+      "id": "2026-11-07T11:55:28-05:00-whatsapp-COMPAÑIA HARD DISCOUNT S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-07T11:55:28-05:00",
+      "cantidad": 1,
+      "asunto": "Jhonny Llanos",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
     }
   ]
 }
