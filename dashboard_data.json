@@ -5876,6 +5876,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | OFICINAS DEL PERU - DBI - S371875",
       "detalle": "Correo enviado",
       "referencia": "OFICINAS DEL PERU S.A.C."
+    },
+    {
+      "id": "2026-11-07T12:28:05-05:00-whatsapp-OFICINAS DEL PERU S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-07T12:28:05-05:00",
+      "cantidad": 1,
+      "asunto": "+51 906 392 907",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "OFICINAS DEL PERU S.A.C."
     }
   ]
 }
