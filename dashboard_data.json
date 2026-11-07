@@ -5759,6 +5759,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | PRISONTEC S.A.C - S475055 - URB. CASE RIO SECO (PIURA - PIURA - PIURA)",
       "detalle": "Correo enviado",
       "referencia": "PRISONTEC"
+    },
+    {
+      "id": "2026-11-07T11:50:09-05:00-correo_individual-COMPAÑIA HARD DISCOUNT S.A.C.",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-07T11:50:09-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPAÑIA HARD DISCOUNT S.A.C. - DBA - S433637",
+      "detalle": "Correo enviado",
+      "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
     }
   ]
 }
