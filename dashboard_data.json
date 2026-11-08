@@ -5993,6 +5993,15 @@
       "asunto": "+51 989 854 373",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "MINISTERIO DE ECONOMIA Y FINANZAS - MEF"
+    },
+    {
+      "id": "2026-11-08T13:18:50-05:00-correo_masiva-COMPARTAMOS",
+      "tipo": "correo_masiva",
+      "fecha_hora": "2026-11-08T13:18:50-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBI - S487582- 134 - AGENCIA_PAITA (PIURA)",
+      "detalle": "Correo enviado",
+      "referencia": "COMPARTAMOS"
     }
   ]
 }
