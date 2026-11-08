@@ -6011,6 +6011,15 @@
       "asunto": "VERIZON PERU S.R.L. - DBA - S469933-S469934\nCOMPARTAMOS - DBI - S487582- 134 - AGENCIA_PAITA (PIURA)\nVERIZON PERU S.R.L. - DBA - S469933-S469934\nCOMPARTAMOS - DBI - S487582- 134 - AGENCIA_PAITA (PIURA)\n",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-11-08T16:06:38-05:00-correo_individual-AT & T GLOBAL NETWORK SERVICES DEL PERU S.R.L.",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-08T16:06:38-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | AT&T GLOBAL NETWORK SERVICES PERU S.R.L. - DBI - S444620",
+      "detalle": "Correo enviado",
+      "referencia": "AT & T GLOBAL NETWORK SERVICES DEL PERU S.R.L."
     }
   ]
 }
