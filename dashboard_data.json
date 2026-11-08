@@ -5903,6 +5903,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SW SENCICO - TRUJILLO (LA MERCED) [PRINCIPAL] - S441847",
       "detalle": "Correo enviado",
       "referencia": "SENCICO"
+    },
+    {
+      "id": "2026-11-08T12:22:39-05:00-correo_individual-MINISTERIO DE ECONOMIA Y FINANZAS - MEF",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-08T12:22:39-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S486968 - DBA - CONECTAMEF_TACNA_PRINCIPAL",
+      "detalle": "Correo enviado",
+      "referencia": "MINISTERIO DE ECONOMIA Y FINANZAS - MEF"
     }
   ]
 }
