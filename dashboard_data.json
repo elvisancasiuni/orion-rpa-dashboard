@@ -6029,6 +6029,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414025 - MASS_LUZURIAGA_5",
       "detalle": "Correo enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-11-08T16:12:09-05:00-correo_individual-SENCICO",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-08T16:12:09-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SW SENCICO - TRUJILLO (LA MERCED) [RESPALDO] - S441850",
+      "detalle": "Correo enviado",
+      "referencia": "SENCICO"
     }
   ]
 }
