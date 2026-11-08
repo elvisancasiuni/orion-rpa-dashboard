@@ -6002,6 +6002,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPARTAMOS - DBI - S487582- 134 - AGENCIA_PAITA (PIURA)",
       "detalle": "Correo enviado",
       "referencia": "COMPARTAMOS"
+    },
+    {
+      "id": "2026-11-08T13:19:26-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-11-08T13:19:26-05:00",
+      "cantidad": 1,
+      "asunto": "VERIZON PERU S.R.L. - DBA - S469933-S469934\nCOMPARTAMOS - DBI - S487582- 134 - AGENCIA_PAITA (PIURA)\nVERIZON PERU S.R.L. - DBA - S469933-S469934\nCOMPARTAMOS - DBI - S487582- 134 - AGENCIA_PAITA (PIURA)\n",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
     }
   ]
 }
