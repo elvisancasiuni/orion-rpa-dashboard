@@ -6092,6 +6092,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | FALABELLA - DBA - S443229 - HT_SF_HUANUCO_UEN2 (336668)",
       "detalle": "Correo enviado",
       "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
+    },
+    {
+      "id": "2026-11-09T06:56:31-05:00-correo_individual-SPSA",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-09T06:56:31-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414025 - MASS_LUZURIAGA_5",
+      "detalle": "Correo enviado",
+      "referencia": "SPSA"
     }
   ]
 }
