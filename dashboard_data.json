@@ -6101,6 +6101,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414025 - MASS_LUZURIAGA_5",
       "detalle": "Correo enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-11-09T07:28:50-05:00-whatsapp-LA TINKA S.A.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-09T07:28:50-05:00",
+      "cantidad": 1,
+      "asunto": "+51 926 914 797",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "LA TINKA S.A."
     }
   ]
 }
