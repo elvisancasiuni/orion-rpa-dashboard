@@ -6290,6 +6290,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | GLOBAL CROSSING - DBA - S432764-S432765",
       "detalle": "Correo enviado",
       "referencia": "GLOBAL CROSSING"
+    },
+    {
+      "id": "2026-11-09T11:06:48-05:00-correo_individual-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-09T11:06:48-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | FALABELLA - DBA - S443212 - HT_CHINCHA (336474)",
+      "detalle": "Correo enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
     }
   ]
 }
