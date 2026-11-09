@@ -6137,6 +6137,24 @@
       "asunto": "Manuel Lermo",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "MIFARMA"
+    },
+    {
+      "id": "2026-11-09T07:59:34-05:00-whatsapp-MIFARMA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-09T07:59:34-05:00",
+      "cantidad": 1,
+      "asunto": "+51 989 231 735",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MIFARMA"
+    },
+    {
+      "id": "2026-11-09T08:07:32-05:00-whatsapp-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-09T08:07:32-05:00",
+      "cantidad": 1,
+      "asunto": "@rotch98",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
     }
   ]
 }
