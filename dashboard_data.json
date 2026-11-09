@@ -6128,6 +6128,15 @@
       "asunto": "Carlos Galvez",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "MIFARMA"
+    },
+    {
+      "id": "2026-11-09T07:59:12-05:00-whatsapp-MIFARMA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-09T07:59:12-05:00",
+      "cantidad": 1,
+      "asunto": "Manuel Lermo",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MIFARMA"
     }
   ]
 }
