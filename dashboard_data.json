@@ -6317,6 +6317,15 @@
       "asunto": "+51 954 634 684",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
+    },
+    {
+      "id": "2026-11-09T15:31:34-05:00-correo_individual-MINISTERIO DE ECONOMIA Y FINANZAS - MEF",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-09T15:31:34-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S486953 - DBA - CONECTAMEF_HUANUCO_RESPALDO",
+      "detalle": "Correo enviado",
+      "referencia": "MINISTERIO DE ECONOMIA Y FINANZAS - MEF"
     }
   ]
 }
