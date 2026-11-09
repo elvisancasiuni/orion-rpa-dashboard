@@ -6110,6 +6110,15 @@
       "asunto": "+51 926 914 797",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "LA TINKA S.A."
+    },
+    {
+      "id": "2026-11-09T07:58:08-05:00-whatsapp-MIFARMA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-09T07:58:08-05:00",
+      "cantidad": 1,
+      "asunto": "Diego Lopez-",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MIFARMA"
     }
   ]
 }
