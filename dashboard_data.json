@@ -6344,6 +6344,15 @@
       "asunto": "@sulises300",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "MINISTERIO DE ECONOMIA Y FINANZAS - MEF"
+    },
+    {
+      "id": "2026-11-09T15:34:05-05:00-whatsapp-MINISTERIO DE ECONOMIA Y FINANZAS - MEF",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-09T15:34:05-05:00",
+      "cantidad": 1,
+      "asunto": "@JuanRojasS89",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE ECONOMIA Y FINANZAS - MEF"
     }
   ]
 }
