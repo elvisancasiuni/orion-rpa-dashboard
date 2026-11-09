@@ -6218,6 +6218,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MIFARMA S.A.C.-S402106-CALLE JORGE CHAVEZ NRO. 131 ASENTAMIENTO HUMANO SANTA TERESITA (SULLANA - SULLANA - PIURA) (REF: COORDENADAS -4.898093, -80.681154)",
       "detalle": "Correo enviado",
       "referencia": "MIFARMA"
+    },
+    {
+      "id": "2026-11-09T09:19:21-05:00-correo_individual-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-09T09:19:21-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | FALABELLA - DBA - S443229 - HT_SF_HUANUCO_UEN2 (336668)",
+      "detalle": "Correo enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
     }
   ]
 }
