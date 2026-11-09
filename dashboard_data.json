@@ -6191,6 +6191,15 @@
       "asunto": "+51 919 545 412",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-11-09T08:13:52-05:00-correo_individual-MINISTERIO PUBLICO-GERENCIA GENERAL",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-09T08:13:52-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MINISTERIO PUBLICO - DBI_NGN - S365208",
+      "detalle": "Correo enviado",
+      "referencia": "MINISTERIO PUBLICO-GERENCIA GENERAL"
     }
   ]
 }
