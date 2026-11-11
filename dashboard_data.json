@@ -6443,6 +6443,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | ENTRETENCIONES CEC PERU S.A - S405904 - AVENIDA LOS LIRIOS NRO. 301 CENTRO COMERCIAL MALL DEL SUR (SAN JUAN DE MIRAFLORES - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "ENTRETENCIONES CEC PERU S.A"
+    },
+    {
+      "id": "2026-11-11T12:45:01-05:00-correo_individual-TRANSPORTADORA DE GAS DEL PERU",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-11T12:45:01-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TGP - DBA - S465351 - SCADA PS2",
+      "detalle": "Correo enviado",
+      "referencia": "TRANSPORTADORA DE GAS DEL PERU"
     }
   ]
 }
