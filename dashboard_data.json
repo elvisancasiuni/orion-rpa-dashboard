@@ -6398,6 +6398,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S486044-UCV-Lima Centro",
       "detalle": "Correo enviado",
       "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
+    },
+    {
+      "id": "2026-11-10T23:47:05-05:00-correo_individual-LA TINKA S.A.",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-10T23:47:05-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
+      "detalle": "Correo enviado",
+      "referencia": "LA TINKA S.A."
     }
   ]
 }
