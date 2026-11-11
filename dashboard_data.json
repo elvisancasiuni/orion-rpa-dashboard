@@ -6416,6 +6416,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPAÑIA HARD DISCOUNT S.A.C. - DBA - S477876 - AV GUILLERMO GULMAN NRO. 836 MZ. B LTE. 16 URB. SAN JOSE - PIURA",
       "detalle": "Correo enviado",
       "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
+    },
+    {
+      "id": "2026-11-11T12:27:38-05:00-correo_individual-SPSA",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-11T12:27:38-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S401242 - MASS_M_IQUIQUE_CA",
+      "detalle": "Correo enviado",
+      "referencia": "SPSA"
     }
   ]
 }
