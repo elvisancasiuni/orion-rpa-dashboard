@@ -6425,6 +6425,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S401242 - MASS_M_IQUIQUE_CA",
       "detalle": "Correo enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-11-11T12:35:21-05:00-correo_individual-GLOBAL CROSSING",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-11T12:35:21-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | GLOBAL CROSSING - S422934-S422935",
+      "detalle": "Correo enviado",
+      "referencia": "GLOBAL CROSSING"
     }
   ]
 }
