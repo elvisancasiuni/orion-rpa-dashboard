@@ -6407,6 +6407,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
       "detalle": "Correo enviado",
       "referencia": "LA TINKA S.A."
+    },
+    {
+      "id": "2026-11-10T23:48:15-05:00-correo_individual-COMPAÑIA HARD DISCOUNT S.A.C.",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-10T23:48:15-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPAÑIA HARD DISCOUNT S.A.C. - DBA - S477876 - AV GUILLERMO GULMAN NRO. 836 MZ. B LTE. 16 URB. SAN JOSE - PIURA",
+      "detalle": "Correo enviado",
+      "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
     }
   ]
 }
