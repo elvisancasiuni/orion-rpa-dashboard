@@ -6596,6 +6596,15 @@
       "asunto": "Daniel Llanos",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-11-16T07:13:50-05:00-correo_individual-SPSA",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-16T07:13:50-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S379555 - MASS JOSÉ LEAL 8",
+      "detalle": "Correo enviado",
+      "referencia": "SPSA"
     }
   ]
 }
