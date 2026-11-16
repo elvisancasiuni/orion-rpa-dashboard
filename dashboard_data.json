@@ -6479,6 +6479,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SOFTYS PERU S.A.C – DBI 423931 - Sorepa Arequipa Principal",
       "detalle": "Correo enviado",
       "referencia": "SOFTYS PERU S.A.C."
+    },
+    {
+      "id": "2026-11-15T19:50:51-05:00-whatsapp-COMPAÑIA HARD DISCOUNT S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-15T19:50:51-05:00",
+      "cantidad": 1,
+      "asunto": "Jhonny Llanos",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
     }
   ]
 }
