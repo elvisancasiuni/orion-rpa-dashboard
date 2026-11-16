@@ -6623,6 +6623,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | FALABELLA - DBA - S443261 - HT_PENTA SURCO_UEN1 (339103)",
       "detalle": "Correo enviado",
       "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
+    },
+    {
+      "id": "2026-11-16T07:16:23-05:00-correo_individual-SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-16T07:16:23-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | S483607 - SERNANP - AREQUIPA - DBI STK",
+      "detalle": "Correo enviado",
+      "referencia": "SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP"
     }
   ]
 }
