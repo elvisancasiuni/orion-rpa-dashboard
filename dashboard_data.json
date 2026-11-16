@@ -6650,6 +6650,24 @@
       "asunto": "Daniel Llanos",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-11-16T07:20:14-05:00-whatsapp-SPSA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-16T07:20:14-05:00",
+      "cantidad": 1,
+      "asunto": "+51 919 545 412",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SPSA"
+    },
+    {
+      "id": "2026-11-16T07:21:26-05:00-whatsapp-HIPERMERCADOS TOTTUS",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-16T07:21:26-05:00",
+      "cantidad": 1,
+      "asunto": "+51 980 481 954",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "HIPERMERCADOS TOTTUS"
     }
   ]
 }
