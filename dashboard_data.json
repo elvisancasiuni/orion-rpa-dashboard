@@ -6632,6 +6632,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | S483607 - SERNANP - AREQUIPA - DBI STK",
       "detalle": "Correo enviado",
       "referencia": "SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP"
+    },
+    {
+      "id": "2026-11-16T07:17:42-05:00-whatsapp-SPSA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-16T07:17:42-05:00",
+      "cantidad": 1,
+      "asunto": "Jhonny Llanos",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SPSA"
     }
   ]
 }
