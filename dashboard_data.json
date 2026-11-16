@@ -6587,6 +6587,15 @@
       "asunto": "Jhonny Llanos",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-11-16T05:01:06-05:00-whatsapp-SPSA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-16T05:01:06-05:00",
+      "cantidad": 1,
+      "asunto": "Daniel Llanos",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SPSA"
     }
   ]
 }
