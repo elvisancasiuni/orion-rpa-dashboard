@@ -6560,6 +6560,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | FALABELLA - DBA - S443334 - PUENTE PIEDRA (387143)",
       "detalle": "Correo enviado",
       "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
+    },
+    {
+      "id": "2026-11-16T04:58:34-05:00-correo_individual-LA TINKA S.A.",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-16T04:58:34-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBI - S391728 - SAN JUAN DE LURIGANCHO",
+      "detalle": "Correo enviado",
+      "referencia": "LA TINKA S.A."
     }
   ]
 }
