@@ -6740,6 +6740,15 @@
       "asunto": "@ezagazeta",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "GTD PERÚ S.A"
+    },
+    {
+      "id": "2026-11-16T07:58:51-05:00-correo_individual-COMPAÑIA HARD DISCOUNT S.A.C.",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-16T07:58:51-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPANIA HARD DISCOUNT S.A.C. - DBA - S453251",
+      "detalle": "Correo enviado",
+      "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
     }
   ]
 }
