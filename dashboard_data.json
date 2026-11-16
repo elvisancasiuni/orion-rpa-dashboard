@@ -6551,6 +6551,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414104 - MASS_JIRON_8_H02",
       "detalle": "Correo enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-11-16T04:57:15-05:00-correo_individual-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-16T04:57:15-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | FALABELLA - DBA - S443334 - PUENTE PIEDRA (387143)",
+      "detalle": "Correo enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
     }
   ]
 }
