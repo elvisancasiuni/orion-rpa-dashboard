@@ -6515,6 +6515,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SOFTYS PERU S.A.C – DBI 423931 - Sorepa Arequipa Principal",
       "detalle": "Correo enviado",
       "referencia": "SOFTYS PERU S.A.C."
+    },
+    {
+      "id": "2026-11-15T20:38:12-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-11-15T20:38:12-05:00",
+      "cantidad": 1,
+      "asunto": "TRADI S.A.-DBA-S472538\nTRADI S.A.-DBA-S472535\nTRADI S.A.-DBA-S472538\nTRADI S.A.-DBA-S472535\n",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
     }
   ]
 }
