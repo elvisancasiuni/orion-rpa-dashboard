@@ -6704,6 +6704,15 @@
       "asunto": "+51 987 240 546",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP"
+    },
+    {
+      "id": "2026-11-16T07:41:26-05:00-correo_individual-GTD PERÚ S.A",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-16T07:41:26-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | GTD PERÚ S.A-20421780472-DBA-S468712-S468713",
+      "detalle": "Correo enviado",
+      "referencia": "GTD PERÚ S.A"
     }
   ]
 }
