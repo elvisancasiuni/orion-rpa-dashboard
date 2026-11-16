@@ -6524,6 +6524,15 @@
       "asunto": "TRADI S.A.-DBA-S472538\nTRADI S.A.-DBA-S472535\nTRADI S.A.-DBA-S472538\nTRADI S.A.-DBA-S472535\n",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-11-15T20:38:36-05:00-whatsapp-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-15T20:38:36-05:00",
+      "cantidad": 1,
+      "asunto": "@rotch98",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
     }
   ]
 }
