@@ -6722,6 +6722,15 @@
       "asunto": "+51 943 892 796",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "GTD PERÚ S.A"
+    },
+    {
+      "id": "2026-11-16T07:44:15-05:00-whatsapp-GTD PERÚ S.A",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-16T07:44:15-05:00",
+      "cantidad": 1,
+      "asunto": "+51 972 030 724",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "GTD PERÚ S.A"
     }
   ]
 }
