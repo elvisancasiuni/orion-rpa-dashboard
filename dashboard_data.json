@@ -6785,6 +6785,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SW SENCICO - LORETO [RESPALDO] - S411465",
       "detalle": "Correo enviado",
       "referencia": "SENCICO"
+    },
+    {
+      "id": "2026-11-17T01:12:36-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-11-17T01:12:36-05:00",
+      "cantidad": 1,
+      "asunto": "SW SENCICO - CUSCO [PRINCIPAL] - S411422\nSENCICO - CUSCO [PRINCIPAL] - S411422\nSW SENCICO - CUSCO [PRINCIPAL] - S411422\nSENCICO - CUSCO [PRINCIPAL] - S411422\n",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
     }
   ]
 }
