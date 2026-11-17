@@ -6929,6 +6929,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_E - LAMBAYEQUE - S432978 - 754383, 754393, 754394, 754431",
       "detalle": "Correo enviado",
       "referencia": "ENTEL CHILE"
+    },
+    {
+      "id": "2026-11-17T15:48:08-05:00-correo_individual-SENCICO",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-17T15:48:08-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SW SENCICO - CHORRILLOS [RESPALDO] - S411443",
+      "detalle": "Correo enviado",
+      "referencia": "SENCICO"
     }
   ]
 }
