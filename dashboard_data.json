@@ -6794,6 +6794,15 @@
       "asunto": "SW SENCICO - CUSCO [PRINCIPAL] - S411422\nSENCICO - CUSCO [PRINCIPAL] - S411422\nSW SENCICO - CUSCO [PRINCIPAL] - S411422\nSENCICO - CUSCO [PRINCIPAL] - S411422\n",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-11-17T15:20:42-05:00-correo_individual-SPSA",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-17T15:20:42-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S379555 - MASS JOSÉ LEAL 8",
+      "detalle": "Correo enviado",
+      "referencia": "SPSA"
     }
   ]
 }
