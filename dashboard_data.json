@@ -6947,6 +6947,15 @@
       "asunto": "COMPANIA HARD DISCOUNT S.A.C. - DBA - S488872\nTUP_E - LAMBAYEQUE - S432978 - 754383, 754393, 754394, 754431\nCOMPANIA HARD DISCOUNT S.A.C. - DBA - S488872\nTUP_E - LAMBAYEQUE - S432978 - 754383, 754393, 754394, 754431\n",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-11-17T16:06:42-05:00-whatsapp-COMPAÑIA HARD DISCOUNT S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-17T16:06:42-05:00",
+      "cantidad": 1,
+      "asunto": "Jhonny Llanos",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
     }
   ]
 }
