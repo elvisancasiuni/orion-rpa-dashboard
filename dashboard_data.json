@@ -6812,6 +6812,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | FALABELLA - DBA - S443339 - REAL_PLAZA_CUSCO_BF_SF (S398074)",
       "detalle": "Correo enviado",
       "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
+    },
+    {
+      "id": "2026-11-17T15:23:25-05:00-correo_masiva-ENTEL CHILE",
+      "tipo": "correo_masiva",
+      "fecha_hora": "2026-11-17T15:23:25-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | RED ENTEL - SW_ACC_SPEEDCAST_NOGALES_320743-S347879",
+      "detalle": "Correo enviado",
+      "referencia": "ENTEL CHILE"
     }
   ]
 }
