@@ -6749,6 +6749,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPANIA HARD DISCOUNT S.A.C. - DBA - S453251",
       "detalle": "Correo enviado",
       "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
+    },
+    {
+      "id": "2026-11-17T01:09:08-05:00-correo_masiva-SENCICO",
+      "tipo": "correo_masiva",
+      "fecha_hora": "2026-11-17T01:09:08-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SW SENCICO - CUSCO [PRINCIPAL] - S411422",
+      "detalle": "Correo enviado",
+      "referencia": "SENCICO"
     }
   ]
 }
