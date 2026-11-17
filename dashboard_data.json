@@ -6920,6 +6920,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | COMPANIA HARD DISCOUNT S.A.C. - DBA - S488872",
       "detalle": "Correo enviado",
       "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
+    },
+    {
+      "id": "2026-11-17T15:43:22-05:00-correo_masiva-ENTEL CHILE",
+      "tipo": "correo_masiva",
+      "fecha_hora": "2026-11-17T15:43:22-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | TUP_E - LAMBAYEQUE - S432978 - 754383, 754393, 754394, 754431",
+      "detalle": "Correo enviado",
+      "referencia": "ENTEL CHILE"
     }
   ]
 }
