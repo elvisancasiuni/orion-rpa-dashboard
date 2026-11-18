@@ -7136,6 +7136,15 @@
       "asunto": "SPSA - DBA - S414151 - MASS_CAMPOY_1\nFALABELLA - DBA - S443255 - HT_CAMPOY (339094)\nSPSA - DBA - S413994 - MASS_VIRREYES_2\nSPSA - DBA - S414151 - MASS_CAMPOY_1\nFALABELLA - DBA - S443255 - HT_CAMPOY (339094)\nSPSA - DBA - S413994 - MASS_VIRREYES_2\n",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-11-18T16:56:58-05:00-whatsapp-SPSA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-18T16:56:58-05:00",
+      "cantidad": 1,
+      "asunto": "Jhonny Llanos",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SPSA"
     }
   ]
 }
