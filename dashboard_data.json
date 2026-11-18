@@ -7064,6 +7064,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | FRANQUICIAS ALIMENTARIAS S.A - DBA 390824 - AVENIDA LA MARINA NRO. 2355 LOCAL 1A (SAN MIGUEL - LIMA - LIMA)",
       "detalle": "Correo enviado",
       "referencia": "FRANQUICIAS ALIMENTARIAS S.A."
+    },
+    {
+      "id": "2026-11-18T15:13:29-05:00-correo_individual-ENTEL CHILE",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-18T15:13:29-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | RED ENTEL - SW_ACC_SPEEDCAST_NOGALES_320743-S347879",
+      "detalle": "Correo enviado",
+      "referencia": "ENTEL CHILE"
     }
   ]
 }
