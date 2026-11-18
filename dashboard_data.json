@@ -7154,6 +7154,15 @@
       "asunto": "Daniel Llanos",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-11-18T18:36:19-05:00-whatsapp-SPSA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-18T18:36:19-05:00",
+      "cantidad": 1,
+      "asunto": "+51 919 545 412",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SPSA"
     }
   ]
 }
