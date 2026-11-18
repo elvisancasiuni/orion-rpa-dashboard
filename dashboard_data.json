@@ -7073,6 +7073,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | RED ENTEL - SW_ACC_SPEEDCAST_NOGALES_320743-S347879",
       "detalle": "Correo enviado",
       "referencia": "ENTEL CHILE"
+    },
+    {
+      "id": "2026-11-18T15:41:11-05:00-correo_individual-MINISTERIO DE TRANSPORTES Y COMUNICACION",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-18T15:41:11-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465667 - CDT SAN MARTIN",
+      "detalle": "Correo enviado",
+      "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
     }
   ]
 }
