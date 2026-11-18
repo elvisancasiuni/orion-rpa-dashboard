@@ -7082,6 +7082,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | MTC - DBA - S465667 - CDT SAN MARTIN",
       "detalle": "Correo enviado",
       "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
+    },
+    {
+      "id": "2026-11-18T15:42:15-05:00-whatsapp-MINISTERIO DE TRANSPORTES Y COMUNICACION",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-18T15:42:15-05:00",
+      "cantidad": 1,
+      "asunto": "@cibertics.pe",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
     }
   ]
 }
