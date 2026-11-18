@@ -7055,6 +7055,15 @@
       "asunto": "+51 988 074 192",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SENATI"
+    },
+    {
+      "id": "2026-11-18T01:46:56-05:00-correo_individual-FRANQUICIAS ALIMENTARIAS S.A.",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-18T01:46:56-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | FRANQUICIAS ALIMENTARIAS S.A - DBA 390824 - AVENIDA LA MARINA NRO. 2355 LOCAL 1A (SAN MIGUEL - LIMA - LIMA)",
+      "detalle": "Correo enviado",
+      "referencia": "FRANQUICIAS ALIMENTARIAS S.A."
     }
   ]
 }
