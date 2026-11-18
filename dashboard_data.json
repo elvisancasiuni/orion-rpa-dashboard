@@ -6992,6 +6992,15 @@
       "asunto": "+51 926 914 797",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "LA TINKA S.A."
+    },
+    {
+      "id": "2026-11-17T21:52:24-05:00-correo_individual-OFICINAS DEL PERU S.A.C.",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-17T21:52:24-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | OFICINAS DEL PERU - DBI - S371865",
+      "detalle": "Correo enviado",
+      "referencia": "OFICINAS DEL PERU S.A.C."
     }
   ]
 }
