@@ -7091,6 +7091,15 @@
       "asunto": "@cibertics.pe",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
+    },
+    {
+      "id": "2026-11-18T15:43:23-05:00-whatsapp-MINISTERIO DE TRANSPORTES Y COMUNICACION",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-18T15:43:23-05:00",
+      "cantidad": 1,
+      "asunto": "+51 975 463 188",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
     }
   ]
 }
