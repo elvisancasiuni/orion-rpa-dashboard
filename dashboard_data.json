@@ -7109,6 +7109,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S414151 - MASS_CAMPOY_1",
       "detalle": "Correo enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-11-18T16:33:22-05:00-correo_masiva-FALABELLA TECNOLOGIA PERU S.A.C.",
+      "tipo": "correo_masiva",
+      "fecha_hora": "2026-11-18T16:33:22-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | FALABELLA - DBA - S443255 - HT_CAMPOY (339094)",
+      "detalle": "Correo enviado",
+      "referencia": "FALABELLA TECNOLOGIA PERU S.A.C."
     }
   ]
 }
