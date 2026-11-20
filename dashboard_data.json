@@ -7379,6 +7379,24 @@
       "asunto": "Jhonny Llanos",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SPSA"
+    },
+    {
+      "id": "2026-11-20T03:11:43-05:00-whatsapp-SPSA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-20T03:11:43-05:00",
+      "cantidad": 1,
+      "asunto": "Daniel Llanos",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SPSA"
+    },
+    {
+      "id": "2026-11-20T03:12:20-05:00-whatsapp-SPSA",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-20T03:12:20-05:00",
+      "cantidad": 1,
+      "asunto": "+51 919 545 412",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SPSA"
     }
   ]
 }
