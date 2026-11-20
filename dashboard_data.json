@@ -7271,6 +7271,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | SW SENCICO - TRUJILLO (LA MERCED) [PRINCIPAL] - S441847",
       "detalle": "Correo enviado",
       "referencia": "SENCICO"
+    },
+    {
+      "id": "2026-11-20T02:27:17-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-11-20T02:27:17-05:00",
+      "cantidad": 1,
+      "asunto": "SENCICO - TRUJILLO (LA MERCED) [RESPALDO] - S441850\nSENCICO - TRUJILLO (LA MERCED) [PRINCIPAL] - S441847\nSENCICO - TRUJILLO (LA MERCED) [RESPALDO] - S441850\nSENCICO - TRUJILLO (LA MERCED) [PRINCIPAL] - S441847\n",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
     }
   ]
 }
