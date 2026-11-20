@@ -7334,6 +7334,15 @@
       "asunto": "+51 980 768 752",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
+    },
+    {
+      "id": "2026-11-20T02:36:01-05:00-whatsapp-MINISTERIO DE TRANSPORTES Y COMUNICACION",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-20T02:36:01-05:00",
+      "cantidad": 1,
+      "asunto": "+51 980 768 752",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "MINISTERIO DE TRANSPORTES Y COMUNICACION"
     }
   ]
 }
