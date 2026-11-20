@@ -7199,6 +7199,15 @@
       "asunto": "MONITOREO | STATUS: SERVICE DOWN | LA TINKA - DBA - S464780 - VRF: TINKA",
       "detalle": "Correo enviado",
       "referencia": "LA TINKA S.A."
+    },
+    {
+      "id": "2026-11-20T02:18:03-05:00-correo_individual-SPSA",
+      "tipo": "correo_individual",
+      "fecha_hora": "2026-11-20T02:18:03-05:00",
+      "cantidad": 1,
+      "asunto": "MONITOREO | STATUS: SERVICE DOWN | SPSA - DBA - S401234 - MASS_LOMAS_12_SJL_MS",
+      "detalle": "Correo enviado",
+      "referencia": "SPSA"
     }
   ]
 }
