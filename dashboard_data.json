@@ -7352,6 +7352,15 @@
       "asunto": "+51 926 914 797",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "LA TINKA S.A."
+    },
+    {
+      "id": "2026-11-20T03:09:14-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-11-20T03:09:14-05:00",
+      "cantidad": 1,
+      "asunto": "SENCICO - TRUJILLO (LA MERCED) [PRINCIPAL] - S441847\nSENCICO - TRUJILLO (LA MERCED) [RESPALDO] - S441850\nSW SENCICO - TRUJILLO (LA MERCED) [RESPALDO] - S441850\nSW SENCICO - TRUJILLO (LA MERCED) [PRINCIPAL] - S441847\nSENCICO - TRUJILLO (LA MERCED) [PRINCIPAL] - S441847\nSENCICO - TRUJILLO (LA MERCED) [RESPALDO] - S441850\nSW SENCICO - TRUJILLO (LA MERCED) [RESPALDO] - S441850\nSW SENCICO - TRUJILLO (LA MERCED) [PRINCIPAL] - S441847\n",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
     }
   ]
 }
