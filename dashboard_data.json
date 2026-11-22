@@ -7415,6 +7415,15 @@
       "asunto": "DBA - S456098 - ZONA REGISTRAL N XII - SUNARP - CAMANA BACKUP - 19 Mbps\nDBA - S456097 - ZONA REGISTRAL N XII - SUNARP - CAMANA - 19 Mbps\nDBA - S456098 - ZONA REGISTRAL N XII - SUNARP - CAMANA BACKUP - 19 Mbps\nDBA - S456097 - ZONA REGISTRAL N XII - SUNARP - CAMANA - 19 Mbps\n",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-11-22T14:50:22-05:00-whatsapp-COMPAÑIA HARD DISCOUNT S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-22T14:50:22-05:00",
+      "cantidad": 1,
+      "asunto": "Jhonny Llanos",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
     }
   ]
 }
