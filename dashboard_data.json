@@ -7658,6 +7658,15 @@
       "asunto": "+51 987 240 546",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP"
+    },
+    {
+      "id": "2026-11-23T04:13:55-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-11-23T04:13:55-05:00",
+      "cantidad": 1,
+      "asunto": "HIPERMERCADOS TOTTUS - S476904 - DBA - SEDE: 176 - CALLE 7 - AVENIDA 7 NRO. 510 (LA MOLINA - LIMA - LIMA)\nFALABELLA - DBA - S443321 - HT_MOLICENTRO (342010)\nHIPERMERCADOS TOTTUS - S476904 - DBA - SEDE: 176 - CALLE 7 - AVENIDA 7 NRO. 510 (LA MOLINA - LIMA - LIMA)\nFALABELLA - DBA - S443321 - HT_MOLICENTRO (342010)\n",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
     }
   ]
 }
