@@ -7640,6 +7640,24 @@
       "asunto": "+51 926 914 797",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "LA TINKA S.A."
+    },
+    {
+      "id": "2026-11-23T04:12:03-05:00-whatsapp-SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-23T04:12:03-05:00",
+      "cantidad": 1,
+      "asunto": "+51 956 751 746",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP"
+    },
+    {
+      "id": "2026-11-23T04:12:26-05:00-whatsapp-SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-23T04:12:26-05:00",
+      "cantidad": 1,
+      "asunto": "+51 987 240 546",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP"
     }
   ]
 }
