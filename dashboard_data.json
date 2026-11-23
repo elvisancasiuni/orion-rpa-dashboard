@@ -7460,6 +7460,15 @@
       "asunto": "SENCICO - TRUJILLO [PRINCIPAL] - S411426\nSENCICO - TRUJILLO [RESPALDO] - S411427\nSW SENCICO - TRUJILLO [RESPALDO] - S411427\nSW SENCICO - TRUJILLO [PRINCIPAL] - S411426\nSENCICO - TRUJILLO [PRINCIPAL] - S411426\nSENCICO - TRUJILLO [RESPALDO] - S411427\nSW SENCICO - TRUJILLO [RESPALDO] - S411427\nSW SENCICO - TRUJILLO [PRINCIPAL] - S411426\n",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-11-23T01:56:01-05:00-whatsapp-UNIVERSIDAD CESAR VALLEJO UCV",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-23T01:56:01-05:00",
+      "cantidad": 1,
+      "asunto": "@emerscroll",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
     }
   ]
 }
