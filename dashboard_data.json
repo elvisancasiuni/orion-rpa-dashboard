@@ -7550,6 +7550,15 @@
       "asunto": "+51 943 892 796",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "GTD PERU S.A"
+    },
+    {
+      "id": "2026-11-23T03:57:52-05:00-masiva-masivo",
+      "tipo": "masiva",
+      "fecha_hora": "2026-11-23T03:57:52-05:00",
+      "cantidad": 1,
+      "asunto": "SENCICO - TRUJILLO [PRINCIPAL] - S411426\nSENCICO - TRUJILLO [RESPALDO] - S411427\nSW SENCICO - TRUJILLO [RESPALDO] - S411427\nSW SENCICO - TRUJILLO [PRINCIPAL] - S411426\nSENCICO - TRUJILLO [PRINCIPAL] - S411426\nSENCICO - TRUJILLO [RESPALDO] - S411427\nSW SENCICO - TRUJILLO [RESPALDO] - S411427\nSW SENCICO - TRUJILLO [PRINCIPAL] - S411426\n",
+      "detalle": "Evento masivo enviado por WhatsApp",
+      "referencia": "masivo"
     }
   ]
 }
