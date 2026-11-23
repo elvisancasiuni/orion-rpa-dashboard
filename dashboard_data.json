@@ -7568,6 +7568,24 @@
       "asunto": "+51 943 892 796",
       "detalle": "Mensaje WhatsApp enviado",
       "referencia": "GTD PERU S.A"
+    },
+    {
+      "id": "2026-11-23T03:58:49-05:00-whatsapp-UNIVERSIDAD CESAR VALLEJO UCV",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-23T03:58:49-05:00",
+      "cantidad": 1,
+      "asunto": "@emerscroll",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "UNIVERSIDAD CESAR VALLEJO UCV"
+    },
+    {
+      "id": "2026-11-23T03:59:21-05:00-whatsapp-LA TINKA S.A.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-23T03:59:21-05:00",
+      "cantidad": 1,
+      "asunto": "+51 926 914 797",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "LA TINKA S.A."
     }
   ]
 }
