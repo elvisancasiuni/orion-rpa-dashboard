@@ -7667,6 +7667,15 @@
       "asunto": "HIPERMERCADOS TOTTUS - S476904 - DBA - SEDE: 176 - CALLE 7 - AVENIDA 7 NRO. 510 (LA MOLINA - LIMA - LIMA)\nFALABELLA - DBA - S443321 - HT_MOLICENTRO (342010)\nHIPERMERCADOS TOTTUS - S476904 - DBA - SEDE: 176 - CALLE 7 - AVENIDA 7 NRO. 510 (LA MOLINA - LIMA - LIMA)\nFALABELLA - DBA - S443321 - HT_MOLICENTRO (342010)\n",
       "detalle": "Evento masivo enviado por WhatsApp",
       "referencia": "masivo"
+    },
+    {
+      "id": "2026-11-23T04:14:24-05:00-whatsapp-COMPAÑIA HARD DISCOUNT S.A.C.",
+      "tipo": "whatsapp",
+      "fecha_hora": "2026-11-23T04:14:24-05:00",
+      "cantidad": 1,
+      "asunto": "Jhonny Llanos",
+      "detalle": "Mensaje WhatsApp enviado",
+      "referencia": "COMPAÑIA HARD DISCOUNT S.A.C."
     }
   ]
 }
